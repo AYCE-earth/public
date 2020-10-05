@@ -2,7 +2,7 @@
 .AppleDouble
 .LSOverride
 
-# Icon must end with two 
+# Icon must end with two
 Icon
 
 
@@ -27,3 +27,8 @@ Temporary Items
 
 # Sketch files
 *.sketch
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata

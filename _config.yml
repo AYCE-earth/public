@@ -26,10 +26,10 @@ author:
 markdown: kramdown
 
 # Mathjax setting
-enable-mathjax: yes
+enable-mathjax: no
 
 # Charts
-enable-chartjs: yes
+enable-chartjs: no
 
 # This defines how the URLs should look like
 permalink: /blog/:title/
@@ -47,17 +47,17 @@ include:
   - _pages
 
 # Google Ananlytics Tracker
-analytics: UA-92266803-2 # Sign up with Google analytics and replce with your analytics ID
+#analytics: UA-92266803-2 # Sign up with Google analytics and replce with your analytics ID
 
 # Tidio chat script
 # Signup with tidio.com and navigate to https://www.tidio.com/panel/channels/widget/integration to find your chat script
-tidio-chat-script: '<script src="//code.tidio.co/atcbwe5jq0ftiidebmmfwybic3nagfnf.js" async></script>'
+#tidio-chat-script: '<script src="//code.tidio.co/atcbwe5jq0ftiidebmmfwybic3nagfnf.js" async></script>'
 
 # Share buttons
 share: yes # Change it to `no` to remove share buttons.
 
 # Comments by Disqus # Sign up with Disqus to get your shortcode. Leave it blank if you do not want to run diqus code on the website.
-disqus: webjeda-demo
+#disqus: webjeda-demo
 
 #
 #   ,-----.                                                    ,--.
@@ -85,7 +85,7 @@ compress_html:
 
 ####################################################################################################
 
-destination: _avocado
+destination: _site
 
 exclude:
   - .git
