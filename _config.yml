@@ -1,0 +1,98 @@
+#    ,---.                                  ,--.
+#   /  O  \,--.  ,--.,---.  ,---. ,--,--. ,-|  | ,---.
+#  |  .-.  |\  `'  /| .-. || .--'' ,-.  |' .-. || .-. |
+#  |  | |  | \    / ' '-' '\ `--.\ '-'  |\ `-' |' '-' '
+#  `--' `--'  `--'   `---'  `---' `--`--' `---'  `---'
+# Almost all the things in the website can be customized from here.
+# Changing title and description according to your website requirement is important.
+#
+title: Avocado
+description: Avacado is a minimal jekyll theme to show off your skills online.
+email: mklarmann@eaternity.ch # The contact form submission will be done to this email address.
+phone: +41-77-44-981
+url: https://ayce.earth
+default-image: /assets/images/avocado-cover.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
+
+# Author details shows up at the end of every article
+author:
+  name: John Doe
+  bio: "John is an astronaut. He likes to hang out with his friends when he's not in space. He writes his experiences here."
+  image: author-image.jpg # Choose a 200x200px image and place it inside /images directory.
+  facebook: https://facebook.com
+  twitter: https://twitter.com
+  quora: https://www.quora.com/
+
+# Kramdown is supported by Github
+markdown: kramdown
+
+# Mathjax setting
+enable-mathjax: yes
+
+# Charts
+enable-chartjs: yes
+
+# This defines how the URLs should look like
+permalink: /blog/:title/
+
+# Pagination - Posts per page in the blog index
+paginate: 4
+paginate_path: /blog/page:num/
+
+# Define titles for the sections
+name: John Doe
+projects: I work
+
+# Jekyll will read contents inside _pages only if we tell it to
+include:
+  - _pages
+
+# Google Ananlytics Tracker
+analytics: UA-92266803-2 # Sign up with Google analytics and replce with your analytics ID
+
+# Tidio chat script
+# Signup with tidio.com and navigate to https://www.tidio.com/panel/channels/widget/integration to find your chat script
+tidio-chat-script: '<script src="//code.tidio.co/atcbwe5jq0ftiidebmmfwybic3nagfnf.js" async></script>'
+
+# Share buttons
+share: yes # Change it to `no` to remove share buttons.
+
+# Comments by Disqus # Sign up with Disqus to get your shortcode. Leave it blank if you do not want to run diqus code on the website.
+disqus: webjeda-demo
+
+#
+#   ,-----.                                                    ,--.
+#  '  .--./ ,---. ,--,--,--. ,---. ,--.--. ,---.  ,---.  ,---. `--' ,---. ,--,--,
+#  |  |    | .-. ||        || .-. ||  .--'| .-. :(  .-' (  .-' ,--.| .-. ||      \
+#  '  '--'\' '-' '|  |  |  || '-' '|  |   \   --..-'  `).-'  `)|  |' '-' '|  ||  |
+#   `-----' `---' `--`--`--'|  |-' `--'    `----'`----' `----' `--' `---' `--''--'
+#                           `--'
+# All compression variables are declared here.
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+#compress.html
+compress_html:
+  clippings: [html, head, meta, title, link, body, div, script, header, footer]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+####################################################################################################
+
+destination: _avocado
+
+exclude:
+  - .git
+
+# These plugins are supported by github by default and can be installed locally using ruby gems
+plugins:
+  - jekyll-sitemap # Adds sitemap to the website at /sitemap.xml
+  - jekyll-feed # Adds feed to the website at /feed.xml
+  - jekyll-paginate # Used for sorting posts by page numbers.
+  - jekyll-seo-tag # Adds all the important SEO meta tags by default.

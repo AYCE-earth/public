@@ -1,0 +1,26 @@
+#latest-posts {
+	
+	.cards {
+		@include media-query($on-palm) {
+			margin-bottom: 30px;
+		}
+	}
+	
+	span {
+		text-transform: uppercase;
+		color: $grey-color;
+	}
+	
+	h5 {
+		font-size: $base-fs * 0.9;
+		text-transform: uppercase;
+		
+	}
+	
+	p {
+		text-align: justify;
+		font-size: $base-fs * 0.8;
+		color: $grey-color;
+	}
+	
+}

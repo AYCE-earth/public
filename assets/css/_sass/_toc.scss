@@ -1,0 +1,48 @@
+/***
+ *                                                            
+ *    ,--------.       ,--.   ,--.                   ,---.    
+ *    '--.  .--',--,--.|  |-. |  | ,---.      ,---. /  .-'    
+ *       |  |  ' ,-.  || .-. '|  || .-. :    | .-. ||  `-,    
+ *       |  |  \ '-'  || `-' ||  |\   --.    ' '-' '|  .-'    
+ *       `--'   `--`--' `---' `--' `----'     `---' `--'      
+ *                                                            
+ *                                                                  
+ *     ,-----.                 ,--.                   ,--.          
+ *    '  .--./ ,---. ,--,--, ,-'  '-. ,---. ,--,--, ,-'  '-. ,---.  
+ *    |  |    | .-. ||      \'-.  .-'| .-. :|      \'-.  .-'(  .-'  
+ *    '  '--'\' '-' '|  ||  |  |  |  \   --.|  ||  |  |  |  .-'  `) 
+ *     `-----' `---' `--''--'  `--'   `----'`--''--'  `--'  `----'  
+ *                                                                  
+ */
+
+.toc {
+    font-size: $small-fs;
+    border: 1px solid $grey-color;
+    display: inline-block;
+    float: right;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 1em;
+        @include media-query($on-palm) {
+        float: none;
+        margin: 0;
+        margin-bottom: 1em;
+        font-size: $small-fs * 0.9;
+    }
+    &:before {
+        content: "Contents";
+        font-weight: bold;
+        line-height: 1.8;
+        font-size: $head-ff;
+    }
+    
+    li {
+        list-style: decimal;
+        margin: 0;
+
+    }
+
+
+}

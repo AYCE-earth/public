@@ -1,0 +1,85 @@
+
+/***
+ *                                                     
+ *      ,---.            ,--.  ,--.                    
+ *     /  O  \ ,--.,--.,-'  '-.|  ,---.  ,---. ,--.--. 
+ *    |  .-.  ||  ||  |'-.  .-'|  .-.  || .-. ||  .--' 
+ *    |  | |  |'  ''  '  |  |  |  | |  |' '-' '|  |    
+ *    `--' `--' `----'   `--'  `--' `--' `---' `--'    
+ *                                                     
+ */
+
+.author {
+    align-items: center;
+    border: 1px solid #ddd;
+	margin: 2rem 0;
+    border-radius: 2px;
+-webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.05);
+	padding: 30px 20px;
+    .col-md-3 {
+        align-self: center;
+        text-align: center;
+    }
+    
+    .author-image {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        
+    }
+    
+    h5 {
+        text-transform: capitalize;
+        @include media-query($on-laptop) {
+            text-align: center;
+        }
+    }
+    
+    p {
+        align-self: center;
+        font-size: $small-fs;
+        color: $grey-color;
+    }
+    
+    .col-md-9 {
+        border-left: 1px solid lighten($grey-color, 40%);
+        padding: 1em;
+        @include media-query($on-laptop) {
+            border: none;
+        }
+    }
+    
+    ul {
+        padding: 0;
+		margin-bottom: 0;
+        li {
+            list-style: none;
+            display: inline-block;
+            padding: 0;
+            margin-right: 0.75em;
+            @include media-query($on-palm) {
+                margin-right: 1em;
+                font-size: $base-fs * 1.2;
+            }
+        }
+    }
+    
+    .fa-facebook-official {
+        color: #3b5998;
+    }
+    
+    .fa-twitter-square {
+        color: #4099FF;
+    }
+    
+    .fa-quora {
+        color: #aa2200;
+    }
+    .fa {
+        &:hover {
+            opacity: 0.7;
+        }
+    }
+    
+}

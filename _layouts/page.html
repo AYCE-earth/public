@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<!--
+This layout is used for pages for example about.md, contact.ms etc...
+Making any change will effect all the pages(not posts) -->
+	<div class="page-container rev">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					{% include breadcrumbs.html %}
+				</div>
+			</div>
+		</div>
+
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<article>
+						{{content}}
+					</article>
+
+				</div>
+			</div>
+		</div>
+
+	</div>

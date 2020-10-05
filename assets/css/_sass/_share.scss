@@ -1,0 +1,79 @@
+/***
+ *                                                                                                       
+ *     ,---.  ,--.                               ,-----.            ,--.    ,--.                         
+ *    '   .-' |  ,---.  ,--,--.,--.--. ,---.     |  |) /_ ,--.,--.,-'  '-.,-'  '-. ,---. ,--,--,  ,---.  
+ *    `.  `-. |  .-.  |' ,-.  ||  .--'| .-. :    |  .-.  \|  ||  |'-.  .-''-.  .-'| .-. ||      \(  .-'  
+ *    .-'    ||  | |  |\ '-'  ||  |   \   --.    |  '--' /'  ''  '  |  |    |  |  ' '-' '|  ||  |.-'  `) 
+ *    `-----' `--' `--' `--`--'`--'    `----'    `------'  `----'   `--'    `--'   `---' `--''--'`----'  
+ *                                                                                                       
+ */
+
+.share-box {
+    margin: 1em 0;
+   
+    a {
+        color: $grey-color;
+        border-radius: 50%;
+        text-decoration: none;
+        margin-left: 1em;
+         &:hover {
+            text-decoration: none;
+            -webkit-transition: background-color 200ms linear;
+            -ms-transition: background-color 200ms linear;
+            transition: background-color 200ms linear;
+        }
+        
+            @include media-query($on-palm) {
+                margin-left: 0.5em;
+            }
+        
+    }
+}
+
+.f {
+    &:hover{
+        color: #3b5998;
+    }
+}
+
+
+.t {
+    
+        &:hover{
+        color: #4099FF;
+    }
+}
+
+
+.g {
+   
+    &:hover{
+        color: #d34836;
+    }
+}
+
+
+.r {
+
+    &:hover{
+        color: #ff5700;
+    }
+}
+
+
+.l {
+    
+    &:hover{
+        color: #0077b5;
+    }
+}
+
+
+.e {
+    
+    &:hover{
+        color: #444444;
+    }
+}
+
+

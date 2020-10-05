@@ -1,0 +1,24 @@
+{% if page.author %}
+<div class="author rev">
+<div class="row">
+		<div class="col-md-3">
+			<img class="author-image" src="{{site.baseurl}}/assets/images/{{site.author.image}}" alt="{{site.author.name}}">
+		</div>
+		<div class="col-md-9">
+			<h5>{{site.author.name }}</h5>
+			<p>{{site.author.bio}}</p>
+			<ul>
+				{% if site.author.facebook %}
+				<li><a target="_blank" href="{{site.author.facebook}}"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+				{% endif %}
+				{% if site.author.twitter %}
+				<li><a target="_blank" href="{{site.author.twitter}}"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+				{% endif %}
+				{% if site.author.quora %}
+				<li><a target="_blank" href="{{site.author.quora}}"><i class="fa fa-quora" aria-hidden="true"></i></a></li>
+				{% endif %}
+			</ul>
+		</div>
+	</div>
+</div>
+{% endif %}

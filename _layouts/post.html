@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<!--                            
+This layout is used for posts. Changing anything here will affect all posts(not pages)
+ -->
+
+<div class="post">
+	<main>
+		<header class="position-relative text-center rev">
+			<div class="header-image" style="background-image: url({{site.baseurl}}{{page.image}})"></div>
+			<h1 class="post-title position-absolute">{{page.title}}</h1>
+		</header>
+		<div class="container">
+			<div class="blog-content pd">
+				<div class="row">
+					<div class="col-md-12">
+						{% include breadcrumbs.html %}
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12 meta">
+						<p><small>
+								<span>
+									<i class="fa fa-calendar" aria-hidden="true"></i> {{page.date | date_to_string }}&nbsp;
+								</span>
+								<span>
+									<i class="fa fa-user" aria-hidden="true"></i> {{page.author | capitalize}}&nbsp;
+								</span>
+
+								<span>
+									<i class="fa fa-clock-o" aria-hidden="true"></i> {% include reading-time.html %}
+								</span>
+							</small></p>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-12">
+
+						<article>
+							{% include toc.html html=content class="toc.rev.clearfix" %}
+							{{content}}
+						</article>
+						{% if site.share %}
+						{% include share-buttons.html %}
+						{% endif %}
+
+						{% if page.categories %}
+						{% include categories-post.html %}
+						{% endif %}
+
+
+						{% if page.author %}
+						{% include author.html %}
+						{% endif %}
+
+						{% if site.disqus %}
+						{% include disqus.html %}
+						{% endif %}
+
+
+						{% include recent.html %}
+					</div>
+				</div>
+			</div>
+		</div>
+	</main>
+</div>

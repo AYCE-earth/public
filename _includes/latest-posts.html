@@ -1,0 +1,25 @@
+<section id="latest-posts">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h3 class="section-title text-center rev">Latest Articles</h3>
+			</div>
+		</div>
+		<div class="row">
+			{% for post in site.posts limit: 3 %}
+			<div class="col-md-4">
+				<a href="{{post.url}}" class="nostyle">
+					<div class="cards rev">
+						<img src="{{post.image}}" alt="{{post.title}}">
+						<div class="card-body">
+							<span><small>{{post.date | date_to_string }}</small></span>
+							<h5>{{post.title}}</h5>
+							<p>{{post.content | strip_html | truncate: 95 }}</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>

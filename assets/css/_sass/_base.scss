@@ -1,0 +1,114 @@
+/***
+ *
+ *    ,-----.                             ,---.   ,--.           ,--.
+ *    |  |) /_  ,--,--. ,---.  ,---.     '   .-',-'  '-.,--. ,--.|  | ,---.
+ *    |  .-.  \' ,-.  |(  .-' | .-. :    `.  `-.'-.  .-' \  '  / |  || .-. :
+ *    |  '--' /\ '-'  |.-'  `)\   --.    .-'    | |  |    \   '  |  |\   --.
+ *    `------'  `--`--'`----'  `----'    `-----'  `--'  .-'  /   `--' `----'
+ *                                                      `---'
+ */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    background: #fefefe;
+    font-family: $base-ff;
+    font-size: $base-fs;
+    font-weight: $base-fw;
+    color: $color;
+    line-height: $base-lh;
+    text-rendering: optimizeLegibility;
+    height: 100%;
+	overflow-x: hidden;
+    @include media-query($on-palm) {
+        font-size: $base-fs * 0.7;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $head-ff;
+    font-weight: 600;
+    line-height: $base-lh * 1.1;
+	text-transform: uppercase;
+}
+
+
+h1 {
+    font-size: 1.6em;
+        @include media-query($on-palm) {
+        font-size: 1.8em;
+    }
+}
+
+
+h2 {
+    font-size: 1.4em;
+        @include media-query($on-palm) {
+        font-size: 1.5em;
+    }
+}
+
+
+h3 {
+    font-size: 1.2em;
+        @include media-query($on-palm) {
+            font-size: 1.3em;
+        }
+}
+
+
+h4, h5, h6 {
+    font-size: 1em;
+        @include media-query($on-palm) {
+        font-size: 1.1em;
+    }
+}
+
+
+p {
+     @include media-query($on-palm) {
+        font-size: 18px;
+    }
+}
+
+
+a {
+    color: $brand-color;
+    cursor: pointer;
+    text-decoration: none;
+    &:hover {
+        color: $color;
+        text-decoration: none !important;
+        }
+}
+
+
+
+img {
+    max-width: 100%;
+}
+
+
+section {
+	/* min-height: 400px; */
+	padding: 50px 0 50px 0;
+}
+
+hr {
+	margin: 0;
+}
+
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+ font-size: $small-fs;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  font-size: $small-fs;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  font-size: $small-fs;
+}
+:-moz-placeholder { /* Firefox 18- */
+  font-size: $small-fs;
+}

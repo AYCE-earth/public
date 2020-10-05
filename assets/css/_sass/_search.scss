@@ -1,0 +1,55 @@
+/***
+ *                                                                                         
+ *     ,---.                              ,--.         ,--.                         ,--.   
+ *    '   .-'  ,---.  ,--,--.,--.--. ,---.|  ,---.     |  |,--,--,  ,---. ,--.,--.,-'  '-. 
+ *    `.  `-. | .-. :' ,-.  ||  .--'| .--'|  .-.  |    |  ||      \| .-. ||  ||  |'-.  .-' 
+ *    .-'    |\   --.\ '-'  ||  |   \ `--.|  | |  |    |  ||  ||  || '-' ''  ''  '  |  |   
+ *    `-----'  `----' `--`--'`--'    `---'`--' `--'    `--'`--''--'|  |-'  `----'   `--'   
+ *                                                                 `--'                    
+ */
+
+#search-container {
+    margin: 3em auto;
+
+    input[type=text] {
+        outline: 0;
+        padding: 15px 25px;
+        margin: 5px 1px 3px 0;
+        border: none;
+        width: 100%;
+        border-radius: 1px;
+        box-shadow: 0 1px 0 0 rgba(0, 0, 0, .16), 0 0 0 1px rgba(0, 0, 0, .08)
+    }
+
+    input[type=text]:focus,
+    input[type=text]:hover {
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .16), 0 0 0 1px rgba(0, 0, 0, .08);
+        margin: 5px 1px 3px 0;
+        padding: 15px 25px;
+        border: none;
+        outline: 0;
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        -ms-transition: all .3s ease-in-out;
+        -o-transition: all .3s ease-in-out
+    }
+
+    @media screen and (max-width:600px) {
+        input[type=text] {
+            width: 100%;
+        }
+    
+    }
+            
+
+
+    li {
+        list-style: none;
+        display: block;
+
+    }
+
+
+}
+
+

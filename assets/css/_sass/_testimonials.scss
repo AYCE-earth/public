@@ -1,0 +1,91 @@
+#testimonial {
+	
+	/* color: $brand-color;  */
+	
+	.testimonial-box {
+		max-width: 700px;
+		margin: 0 auto;
+		padding: 40px 50px;
+		
+		@include media-query($on-palm) {
+			max-width: 80%;
+		}
+		
+		img {
+			width: 100px;height:100px;
+		}
+		
+	}
+	
+	blockquote {
+		/* color: $brand-color; */
+		font-weight: 300;
+		border: none;
+		padding: 0 !important;
+		margin: 0 0 10px 0 !important;
+		font-size: 1.2em !important;
+	}
+	
+	blockquote:before {
+		content: "\f10d";
+		font-family: 'Fontawesome';
+		float: left;
+		color: $brand-color;
+		margin-right: 10px;
+		font-style: normal;	
+	}
+	small {
+		color: $brand-color;
+		font-weight: 300;
+		text-transform: capitalize;
+	}
+	
+	small:before {
+		content: '\2014 \00A0';
+		
+	}
+	
+	img {
+		margin: 0 auto;
+		@include media-query($on-palm) {
+			margin-bottom: 1	0px;
+		}
+	}
+    .carousel-2 {
+		
+		.owl-nav {
+			position: absolute;
+			top: 30%;
+			color: #999;
+			font-size: 125px;
+			line-height: 0;
+			width: 100%;
+			
+			@include media-query($on-palm) {
+				font-size: 50px;
+				top: 50%;
+			}
+			
+			.owl-next,
+			.owl-prev {
+				position: absolute;
+				&:hover {
+					background-color: transparent;
+					outline: none;
+					color: #ddd;
+				}
+			}
+
+			.owl-next {
+
+				right: 0;
+			}
+
+			.owl-prev {
+
+				left: 0;
+			}
+
+		}
+	}
+}

@@ -1,0 +1,31 @@
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white">
+	<div class="container">
+		<a class="navbar-brand" href="/">
+			<img src="/assets/img/apple-icon-60x60.png" class="d-inline-block align-top logo" alt="{{site.title}}">
+			Avocado
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+			<div class="navbar-nav ml-auto">
+				{% for item in site.data.nav %}
+					{% if item.dropdown %}
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								{{item.title}}
+							</a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+								{% for i in item.dropdown %}
+									<a class="dropdown-item nav-link" href="{{i.link}}">{{i.title}}</a>
+								{% endfor %}
+							</div>
+						</li>
+					{% else %}
+					<a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a>
+					{% endif %}
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</nav>

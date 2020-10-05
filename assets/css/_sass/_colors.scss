@@ -1,0 +1,86 @@
+/***
+ *                                                                                      
+ *    ,--.  ,--.                  ,--.                               ,--.               
+ *    |  '--'  | ,---.  ,--,--. ,-|  | ,---. ,--.--.     ,---. ,---. |  | ,---. ,--.--. 
+ *    |  .--.  || .-. :' ,-.  |' .-. || .-. :|  .--'    | .--'| .-. ||  || .-. ||  .--' 
+ *    |  |  |  |\   --.\ '-'  |\ `-' |\   --.|  |       \ `--.' '-' '|  |' '-' '|  |    
+ *    `--'  `--' `----' `--`--' `---'  `----'`--'        `---' `---' `--' `---' `--'    
+ *                                                                                      
+ */
+.header-color {
+    color: $h-color;
+    position: relative;
+    z-index: 9;
+    padding: 3em 3em;
+    text-align: left;
+    background: $name-color;
+    background: -webkit-linear-gradient(to right, $name-color, lighten($name-color, 8%));
+    background: linear-gradient(to right, $name-color, lighten($name-color, 8%)); 
+    @include media-query($on-laptop) {
+        padding: 3em 3em;    
+        min-height: 25vh;
+    }
+    @include media-query($on-palm) {
+        padding: 2em 2em;
+    }
+}
+
+
+
+.header-color:hover .grade {
+     opacity: 1;
+}
+
+.header-color-2 {
+    text-align: right;
+    background: $work-color;
+    background: -webkit-linear-gradient(to right, lighten($work-color, 8%), $work-color);
+    background: linear-gradient(to right, lighten($work-color, 8%), $work-color);
+}
+
+.header-color-3 {
+    text-align: left;
+    background: $write-color;
+    background: -webkit-linear-gradient(to right, $write-color, lighten($write-color, 8%));
+    background: linear-gradient(to right, $write-color, lighten($write-color, 8%));   
+
+}
+
+.header-color-4 {
+    text-align: right;
+    background: $care-color;
+    background: -webkit-linear-gradient(to right, lighten($care-color, 8%), $care-color);
+    background: linear-gradient(to right, lighten($care-color, 8%), $care-color); 
+}
+
+
+.grade {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  background: -webkit-linear-gradient(to left, $name-color, lighten($name-color, 8%));
+  background: linear-gradient(to left, $name-color, lighten($name-color, 8%));  
+  -webkit-transition: opacity 500ms linear;
+  -moz-transition: opacity 500ms linear;
+  -o-transition: opacity 500ms linear;
+  transition: opacity 500ms linear;
+}
+
+.grade-2 {
+    background: -webkit-linear-gradient(to left, lighten($work-color, 8%), $work-color);
+    background: linear-gradient(to left, lighten($work-color, 8%), $work-color);
+}
+
+.grade-3 {
+    background: -webkit-linear-gradient(to left, $write-color, lighten($write-color, 8%));
+    background: linear-gradient(to left, $write-color, lighten($write-color, 8%));
+}
+
+.grade-4 {
+    background: -webkit-linear-gradient(to left, lighten($care-color, 8%), $care-color);
+    background: linear-gradient(to left, lighten($care-color, 8%), $care-color);
+}

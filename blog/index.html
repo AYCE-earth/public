@@ -1,0 +1,54 @@
+---
+layout: page
+title: Articles
+description: Find all about avocado jekyll theme posts here.
+---
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8">
+			{% for post in paginator.posts %}
+			<a class="nostyle" href="{{site.baseurl}}{{post.url}}">
+				<div class="row cards blog-list rev">
+					<div class="col-md-4 image" style="background-image: url({{site.baseurl}}{{post.image}});">
+					</div>
+					<div class="col-md-8 content">
+						<h3 class="blog-index-title">{{post.title}}</h3>
+						<p class="description">{{post.content | strip_html | truncate: 190 }}</p>
+					</div>
+				</div>
+			</a>
+
+			{% endfor %}
+		</div>
+		<div class="col-lg-4 blog-sidebar">
+			<div class="widget widget-newsletter">
+				<h4 class="widget-title">Avocado Newsletter</h4>
+				<!-- Begin MailChimp Signup Form -->
+				<div id="mc_embed_signup">
+					<form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+						<div id="mc_embed_signup_scroll">
+							<div class="form-group">
+								<label for="mce-EMAIL">Subscribe here to get our latest updates</label>
+								<input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email" required="">
+							</div>
+							<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-lg btn-block btn-success">
+						</div>
+					</form>
+				</div>
+				<!--End mc_embed_signup-->
+			</div>
+
+			<hr>
+
+			<div class="banner">
+				<img src="http://placehold.jp/f5f2e7/4d4d4d/400x300.png?text=Banner" alt="">
+			</div>
+
+
+
+		</div>
+	</div>
+	{% include pagination.html %}
+</div>

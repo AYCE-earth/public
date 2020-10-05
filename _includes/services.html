@@ -1,0 +1,30 @@
+<section id="services">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h3 class="section-title text-center rev">Our Services</h3>
+			</div>
+		</div>
+		<div class="row">
+
+
+			{% for item in site.data.services %}
+			<div class="col-md-4 col-sm-6">
+				<a href="{{item.link}}">
+					<div class="serviceBox cards rev">
+						<div class="service-icon">
+							<span><i class="fa {{item.fa-icon}}" aria-hidden="true"></i></span>
+						</div>
+						<h3 class="title">{{item.title}}</h3>
+						<p class="description">
+							{{item.description}}
+						</p>
+
+					</div>
+				</a>
+			</div>
+
+			{% endfor %}
+		</div>
+	</div>
+</section>

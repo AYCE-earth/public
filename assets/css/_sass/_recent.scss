@@ -1,0 +1,57 @@
+/***
+ *                                                                                           
+ *    ,------.                               ,--.      ,------.                ,--.          
+ *    |  .--. ' ,---.  ,---. ,---. ,--,--, ,-'  '-.    |  .--. ' ,---.  ,---.,-'  '-. ,---.  
+ *    |  '--'.'| .-. :| .--'| .-. :|      \'-.  .-'    |  '--' || .-. |(  .-''-.  .-'(  .-'  
+ *    |  |\  \ \   --.\ `--.\   --.|  ||  |  |  |      |  | --' ' '-' '.-'  `) |  |  .-'  `) 
+ *    `--' '--' `----' `---' `----'`--''--'  `--'      `--'      `---' `----'  `--'  `----'  
+ *                                                                                           
+ */
+
+.recent {
+    margin: 2em 0;
+         
+        .col-md-3 {
+            @include media-query($on-palm) {
+                margin-bottom: 1em;
+            }
+        }
+        .image {
+            height: 120px;
+            width: 100%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            transition: all 200ms ease-in;
+                @include media-query($on-palm) {
+                      height: 200px;  
+             }
+        }
+
+        p {
+            line-height: 1.5;
+            font-size: $base-fs * 0.9;
+            text-align: center;
+			margin: 1rem 0;
+                @include media-query($on-palm) {
+                    padding: 0.25em;
+            }
+        
+        }
+
+        .item {
+            
+     
+            
+            &:hover .image {
+                -webkit-filter: hue-rotate(30deg); /* Safari 6.0 - 9.0 */
+                        filter: hue-rotate(30deg);
+                
+            }
+            
+            
+            
+        }
+   
+}
+

@@ -1,0 +1,21 @@
+<div class="recent">
+	<div class="row">
+		<div class="col-md-12">
+			<h3>Recent Articles</h3>
+		</div>
+	</div>
+	<div class="row">
+		{% for post in site.related_posts limit: 4 %}
+		{% if page.url != post.url %}
+		<div class="col-md-3 rev">
+			<a class="nostyle item" href="{{site.baseurl}}{{post.url}}">
+				<div class="cards">
+					<div class="image" style="background-image: url({{site.baseurl}}{{post.image}})"></div>
+					<p class="title"><small>{{post.title}}</small></p>
+				</div>
+			</a>
+		</div>
+		{% endif %}
+		{% endfor %}
+	</div>
+</div>

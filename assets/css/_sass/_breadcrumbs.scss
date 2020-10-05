@@ -1,0 +1,98 @@
+/***
+ *                                                                                        
+ *    ,-----.                           ,--.                               ,--.           
+ *    |  |) /_ ,--.--. ,---.  ,--,--. ,-|  | ,---.,--.--.,--.,--.,--,--,--.|  |-.  ,---.  
+ *    |  .-.  \|  .--'| .-. :' ,-.  |' .-. || .--'|  .--'|  ||  ||        || .-. '(  .-'  
+ *    |  '--' /|  |   \   --.\ '-'  |\ `-' |\ `--.|  |   '  ''  '|  |  |  || `-' |.-'  `) 
+ *    `------' `--'    `----' `--`--' `---'  `---'`--'    `----' `--`--`--' `---' `----'  
+ *                                                                                        
+ */
+
+.breadcrumbs { 
+    list-style: none; 
+    overflow: hidden; 
+    font-size: $small-fs;
+    padding: 0;
+    margin: 1em 0 2em 0;
+    @include media-query($on-palm) {
+        font-size: $small-fs * 0.85;
+    }
+}
+.breadcrumbs li { 
+  float: left; 
+}
+.breadcrumbs li a {
+  color: white;
+  text-decoration: none; 
+  padding: 0px 0 0px 45px;
+  background: $brand-color; /* fallback color */
+  background: $brand-color; 
+  position: relative; 
+  display: block;
+  float: left;
+    @include media-query($on-palm) {
+        padding: 0px 0 0px 30px;
+    }
+}
+
+.breadcrumbs li a::after { 
+  content: " "; 
+  display: block; 
+  width: 0; 
+  height: 0;
+  border-top: 50px solid transparent; /* Go big on the size, and let overflow hide */
+  border-bottom: 50px solid transparent;
+  border-left: 30px solid $brand-color;
+  position: absolute;
+  top: 50%;
+  margin-top: -50px; 
+  left: 100%;
+  z-index: 2;
+    @include media-query($on-palm) {
+        border-left: 20px solid $brand-color;
+    }
+}
+
+.breadcrumbs li a::before { 
+  content: " "; 
+  display: block; 
+  width: 0; 
+  height: 0;
+/*   border-top: 50px solid transparent;       
+  border-bottom: 50px solid transparent;
+  border-left: 30px solid white; */
+  position: absolute;
+  top: 50%;
+  margin-top: -50px; 
+  margin-left: 2px;
+  left: 100%;
+  z-index: 1; 
+}
+
+.breadcrumbs li:first-child a {
+  padding-left: 10px;
+}
+.breadcrumbs li:nth-child(2) a       { background:        lighten($brand-color, 10%); }
+.breadcrumbs li:nth-child(2) a:after { border-left-color: lighten($brand-color, 10%); }
+.breadcrumbs li:nth-child(3) a       { background:        lighten($brand-color, 20%); }
+.breadcrumbs li:nth-child(3) a:after { border-left-color: lighten($brand-color, 20%); }
+.breadcrumbs li:nth-child(4) a       { background:        lighten($brand-color, 30%); }
+.breadcrumbs li:nth-child(4) a:after { border-left-color: lighten($brand-color, 30%); }
+.breadcrumbs li:nth-child(5) a       { background:        lighten($brand-color, 40%); }
+.breadcrumbs li:nth-child(5) a:after { border-left-color: lighten($brand-color, 40%); }
+.breadcrumbs li:last-child a {
+/*   background: transparent !important; */
+  /* color: black; */
+  pointer-events: none;
+  cursor: default;
+}
+.breadcrumbs li:last-child a::after { 
+  /* border: 0;  */
+}
+
+.breadcrumbs li a:hover { 
+  background: darken($brand-color, 10%); 
+}
+.breadcrumbs li a:hover:after { 
+  border-left-color: darken($brand-color, 10%) !important; 
+}

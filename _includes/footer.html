@@ -1,0 +1,39 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="logo-box">
+          <img
+            width="30"
+            src="/assets/images/avocado-transparent-small.png"
+            alt="{{site.title}}"
+          />
+          <h3>{{site.title}}</h3>
+          <p>Avocado is a bootstrap based, clean, minimal Jekyll theme.</p>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <h3>Pages</h3>
+        <ul>
+          {% for item in site.data.nav %}
+          <li><a href="{{item.link}}">{{item.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-3">
+        <h3>Latest Posts</h3>
+        {% for post in site.posts limit: 4 %}
+        <li><a href="{{post.url}}">{{post.title}}</a></li>
+        {% endfor %}
+      </div>
+      <div class="col-md-3">
+        <h3>Contact Us</h3>
+        <p>Email:<a href="mailto:{{site.email}}"> {{site.email}}</a></p>
+        <p>Phone:<a href="tel:{{site.phone}}"> {{site.phone}}</a></p>
+        <!--Start of Tidio.to Script-->
+        {{ site.tidio-chat-script }}
+        <!--End of Tidio.to Script-->
+      </div>
+    </div>
+  </div>
+</footer>
