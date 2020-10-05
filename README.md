@@ -2,7 +2,7 @@
 This is educational poster of CO₂ values of food, arranged for a one-view spotting on what's good and what is bad for our climate.
 
 ## Plan / Todo
-We want to build a website (jekyll? - github pages? - fancy animation), a forum (what software?), an FAQ to promote the poster.
+We want to build a website (jekyll? - github pages? - fancy animation - domain), a forum (what software?), an FAQ to promote the poster.
 If possible we want to crowdfund to place the poster as an appendix of newspapers (campact?).
 It should be possible to order ( webstore?) the poster together with an optional sticker pack (design?) and other promotional material.
 We put the poster source and the CO2 values into a public github repository for public use and external review (data format?).
@@ -18,14 +18,16 @@ LCA values are contributed by various researchers. See also: https://eaternity.o
 To provide a meaning comparison between ingredients and how climate-friendly they are we normalize values with the FoodUnit. See also: https://eaternity.org/blog/Eaternity-Rating-Update
 
 ## Working document
-The poster is released in version as a sketch document. See latest release here (github releases).
+The poster is released in version as a sketch document with https://kactus.io . See latest release here (github releases).
 
-### Poster Klima-Legende
+#### Poster Klima-Legende
+So wird die Klimaverträglichkeit einzelner Lebensmittel vergleichbar: Wer zum Beispiel ein Drittel seines Tagesbedarfs an Nährwerten mit Gemüse decken würde, käme auf einen CO2-Wert (für Wachstum/Produktion/Transport) von 620 Gramm. Hummer? Über 14 Kilo.
 
-Der CO₂ Wert ist in Gramm CO₂-Äquivalente, jeweils pro 1 kg Produkt angeben.
+Der CO₂ Wert ist in Gramm CO₂-Äquivalente, jeweils für 1/3 des total Tagesbedarfs pro Produkt angeben.
 ★★★ Im Ziel der klimafreundlichen Ernährung (50% Besser) 
 ★★☆ Besser als der Durchschnitt
 ★☆☆ Schlechter als der Durchschnitt
+☆☆☆ Super schlecht (300% mehr als der Durchschnitt)
 
 Portionen: Werden für den fairen Vergleich angegeben. Sie werden auf der Nährwertbilanz des Produktes berechnet. Je höher die Zahl, desto mehr stillen 100 g vom Produkt deinen Hunger.
 
@@ -55,3 +57,17 @@ We have adopted a CC0 licence for the sharing of any uploaded data.
 Our vision is that data on the sustainability and productivity of food – particularly research data – is made as widely available and re-useable as possible.
 
 CC0 removes any legal doubt about whether you can use the uploaded data in your projects, and whether Eaternity calculations can be applied to submitted data. While CC0 removes the obligation to cite the data source, it does not remove the moral responsibility to give attribution.
+
+#### Notes
+Titel: ayce.earth 
+Website: https://de.squarespace.com/vorlagen vs Jekyll
+Jekyll templates: https://avocado.jekyll-themes.com/ / https://jekyll-applin.netlify.app/ / https://stackbit-theme-planty.netlify.app/#/
+Fancy animations:
+https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19
+https://codepen.io/DuskoStamenic/pen/QVawXq
+grid staggering: https://codepen.io/juliangarnier/pen/XvjWvx
+
+Forum Code: https://www.discourse.org ? http://spectrum.chat -> that to choose: https://retool.com/blog/how-we-migrated-our-community-from-spectrum-to-discourse/ (Consideration anonymity? easy to use? Spam?)
+Webshop code: twingle (GLS bank) / publicEye: raisenow / https://checkout.stripe.dev/  / https://stripe.com/partners/snipcart / https://stripe.com/partners/webflow / https://github.com/stripe-samples/github-pages-stripe-checkout
+Campact campagin:
+Github - link / release:
