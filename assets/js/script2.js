@@ -1,13 +1,13 @@
 const staggerVisualizerEl = document.querySelector('.stagger-visualizer');
 const fragment = document.createDocumentFragment();
-const grid = [17, 17];
+const grid = [22, 22];
 const col = grid[0];
 const row = grid[1];
 const numberOfElements = col * row;
 
-for (let i = 0; i < numberOfElements; i++) {
-  fragment.appendChild(document.createElement('div'));
-}
+// for (let i = 0; i < numberOfElements; i++) {
+//   fragment.appendChild(document.createElement('div'));
+// }
 
 staggerVisualizerEl.appendChild(fragment);
 
@@ -24,6 +24,9 @@ const staggersAnimation = anime.timeline({
   ],
   translateY: [
     {value: anime.stagger('.1rem', {grid: grid, from: 'center', axis: 'y'}) }
+  ],
+  scale: [
+    {value: .1, easing: 'easeOutSine', duration: 500}
   ],
   duration: 1000,
   delay: anime.stagger(100, {grid: grid, from: 'center'})
