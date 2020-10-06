@@ -1,6 +1,6 @@
 const staggerVisualizerEl = document.querySelector('.stagger-visualizer');
 const fragment = document.createDocumentFragment();
-const grid = [22, 22];
+const grid = [25, 20];
 const col = grid[0];
 const row = grid[1];
 const numberOfElements = col * row;
@@ -19,21 +19,25 @@ const staggersAnimation = anime.timeline({
   autoplay: false
 })
 .add({
+  duration: 10000,
+  delay: anime.stagger(100, {grid: grid, from: 'center'})
+})
+.add({
+  scale: [
+    {value: .5, easing: 'easeOutSine', duration: 500}
+  ],
   translateX: [
-    {value: anime.stagger('.1rem', {grid: grid, from: 'center', axis: 'x'}) }
+    {value: anime.stagger('-3.5rem', {grid: grid, from: 'center', axis: 'x'}) }
   ],
   translateY: [
-    {value: anime.stagger('.1rem', {grid: grid, from: 'center', axis: 'y'}) }
-  ],
-  scale: [
-    {value: .1, easing: 'easeOutSine', duration: 500}
+    {value: anime.stagger('-3.5rem', {grid: grid, from: 'center', axis: 'y'}) }
   ],
   duration: 1000,
   delay: anime.stagger(100, {grid: grid, from: 'center'})
 })
 .add({
-  translateX: () => anime.random(-35, 35),
-  translateY: () => anime.random(-10, 10),
+  translateX: () => anime.random(-2, 2),
+  translateY: () => anime.random(-2, 2),
   delay: anime.stagger(8, {from: 'last'})
 })
 
