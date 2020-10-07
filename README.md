@@ -59,11 +59,10 @@ Our vision is that data on the sustainability and productivity of food – parti
 CC0 removes any legal doubt about whether you can use the uploaded data in your projects, and whether Eaternity calculations can be applied to submitted data. While CC0 removes the obligation to cite the data source, it does not remove the moral responsibility to give attribution.
 
 #### Notes
-Titel: ayce.earth
-Website: https://de.squarespace.com/vorlagen vs Jekyll
-Fancy animations:
+Titel: www.ayce.earth
+Website: Jekyll
+Fancy animation:
 https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19
-grid staggering: https://codepen.io/juliangarnier/pen/XvjWvx
 
 Forum Code: https://www.discourse.org ? http://spectrum.chat -> that to choose: https://retool.com/blog/how-we-migrated-our-community-from-spectrum-to-discourse/ (Consideration anonymity? easy to use? Spam?)
 Webshop code: twingle (GLS bank) / publicEye: raisenow / https://checkout.stripe.dev/  / https://stripe.com/partners/snipcart / https://stripe.com/partners/webflow / https://github.com/stripe-samples/github-pages-stripe-checkout
