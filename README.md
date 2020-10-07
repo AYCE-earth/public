@@ -67,6 +67,6 @@ Fancy animation:
 https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19
 
 Forum Code: https://www.discourse.org ? http://spectrum.chat -> that to choose: https://retool.com/blog/how-we-migrated-our-community-from-spectrum-to-discourse/ (Consideration anonymity? easy to use? Spam?)
-Webshop code: twingle (GLS bank) / publicEye: raisenow / https://checkout.stripe.dev/  / https://stripe.com/partners/snipcart / https://stripe.com/partners/webflow / https://github.com/stripe-samples/github-pages-stripe-checkout
+Webshop code: With Stripe (https://github.com/stripe-samples/github-pages-stripe-checkout)
 Campact campagin:
 Github - link / release:
