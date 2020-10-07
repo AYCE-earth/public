@@ -1,0 +1,120 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBB7E985-0E83-4DB8-8FC9-37D6D7880D63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 60,
+    "x": 2,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7A65BFF8-85D5-4374-B18E-B29CB8A3E8D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "F69EAFBC-FE1C-4C69-A2EE-A1D3B76DB371"
+    },
+    {
+      "class": "shapePath",
+      "id": "1BC1A769-C096-485E-855E-1EE273B59DCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59920956-56FF-4C75-B66B-DAC3DAEE4935"
+    },
+    {
+      "class": "shapePath",
+      "id": "755E75A7-1FD5-4D7B-AAB2-CBD2DAE89F00"
+    },
+    {
+      "class": "shapePath",
+      "id": "399EF3BF-A720-4A0F-91B1-D574E132DAB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2C2992F-BA89-42DC-A3EC-375681DF86E1"
+    },
+    {
+      "class": "shapePath",
+      "id": "17934229-F6CB-4E1D-862F-B123A4920115"
+    }
+  ],
+  "name": "Mineralwasser(mit Kohlensäure)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "5330D64C-3858-4D28-B2B2-EAF4AA1C5CF4",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
