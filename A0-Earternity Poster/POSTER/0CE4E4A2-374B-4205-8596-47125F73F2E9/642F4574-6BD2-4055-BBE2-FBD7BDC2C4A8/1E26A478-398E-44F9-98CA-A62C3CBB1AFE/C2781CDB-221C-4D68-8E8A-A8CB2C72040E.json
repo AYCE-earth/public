@@ -26,11 +26,11 @@
             "alignment": 0
           }
         },
-        "length": 76,
+        "length": 113,
         "location": 0
       }
     ],
-    "string": "Der CO₂ Wert ist in Gramm CO₂-Äquivalente, jeweils pro 1 kg Produkt angeben."
+    "string": "Der CO₂ Wert ist in Gramm CO₂-Äquivalente, jeweils für die Menge Produkt angeben welche ⅓ des Tagesbedarfs deckt."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 54.4,
-    "width": 296.8,
+    "width": 419,
     "x": 104,
     "y": 42.8
   },
-  "glyphBounds": "{{-1, 0}, {293, 38}}",
+  "glyphBounds": "{{1, 0}, {391, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
