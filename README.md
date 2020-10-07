@@ -1,5 +1,5 @@
 # Eaternity Poster
-This is educational poster of CO₂ values of food, arranged for a one-view spotting on what's good and what is bad for our climate. It comes together with a sticker-pack and the wonderful support of http://codecheck.info to provide carbon emissions of products as a feature.
+This is educational poster of CO₂ values of food, arranged for a one-view spotting on what's good and what is bad for our climate. It comes together with a sticker-pack and the awesome support of http://codecheck.info to provide carbon emissions of products as a feature.
 
 ## Plan / Todo
 - We want to build a website (jekyll? - github pages? - fancy animation - domain), a forum (what software?), an FAQ to promote the poster.
