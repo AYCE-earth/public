@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 215,
   "clippingMaskMode": 0,
   "do_objectID": "38390558-CDF2-4740-AB77-8E6741393A3D",
   "exportOptions": {
@@ -42,7 +41,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,6 +63,10 @@
     {
       "class": "group",
       "id": "A234FD03-AFBA-4FC1-A9D4-C6FD1B4262C7"
+    },
+    {
+      "class": "group",
+      "id": "719E3918-098A-4571-9C0A-5FC12BD141C9"
     }
   ],
   "name": "Bündnerfleisch",
