@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 290,
+    "height": 207,
     "width": 594,
-    "x": 0,
-    "y": 0
+    "x": 11,
+    "y": 832
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -47,10 +47,6 @@
     {
       "class": "symbolInstance",
       "id": "983B45C6-6579-4422-BA63-1D42FA6A3358"
-    },
-    {
-      "class": "text",
-      "id": "0EFB79AD-6404-45C7-8711-AA621D7EDDAB"
     }
   ],
   "name": "Group 8",
