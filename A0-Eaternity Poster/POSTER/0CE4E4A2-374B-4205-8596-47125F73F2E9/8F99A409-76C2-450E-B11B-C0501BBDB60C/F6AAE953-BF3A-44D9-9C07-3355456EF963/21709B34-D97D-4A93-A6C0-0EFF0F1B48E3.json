@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 14.4857
+              "size": 3.913789773950484
             }
           },
           "paragraphStyle": {
@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "1710"
+    "string": "1'710"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 33,
-    "x": 1002.999999999933,
-    "y": 1.000000000162856
+    "height": 5,
+    "width": 10,
+    "x": 270.9935414423926,
+    "y": 0.8105489774374138
   },
-  "glyphBounds": "{{1, 3}, {31, 12}}",
+  "glyphBounds": "{{0, 1}, {10, 4}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -61,8 +61,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "1710",
+  "lineSpacingBehaviour": 3,
+  "name": "1'710",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,7 +75,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 2.701829924650161,
       "saturation": 1,
       "type": 0
     },
@@ -126,7 +126,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 14.4857
+            "size": 3.913789773950484
           }
         },
         "paragraphStyle": {

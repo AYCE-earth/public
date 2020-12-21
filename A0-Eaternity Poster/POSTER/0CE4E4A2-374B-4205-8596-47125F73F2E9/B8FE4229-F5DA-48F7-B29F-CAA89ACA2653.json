@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 3278,
-    "width": 3278,
-    "x": 261,
-    "y": 1049
+    "height": 879.1754574811625,
+    "width": 879.1754574811625,
+    "x": -29.42518837459636,
+    "y": 5.673842841765349
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -29,7 +29,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "bad",
+  "name": "hmm",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -85,7 +85,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 2.701829924650161,
       "saturation": 1,
       "type": 0
     },
@@ -146,7 +146,7 @@
         },
         "isEnabled": false,
         "position": 1,
-        "thickness": 1
+        "thickness": 0.5
       }
     ],
     "colorControls": {
@@ -169,7 +169,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.5034145541958042,
           "blue": 0.9372549019607843,
           "green": 0.9529411764705882,
           "red": 1

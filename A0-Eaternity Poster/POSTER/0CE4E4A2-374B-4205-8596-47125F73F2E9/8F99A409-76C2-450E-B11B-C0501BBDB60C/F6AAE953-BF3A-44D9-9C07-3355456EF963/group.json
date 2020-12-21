@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 2322,
-    "x": -43.64892657160817,
-    "y": 2592.954288953696
+    "height": 11,
+    "width": 628,
+    "x": -11.77976362989511,
+    "y": 699.911586039219
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -202,6 +202,10 @@
     },
     {
       "class": "text",
+      "id": "90393A16-A2DA-4715-B059-C4932FA5671F"
+    },
+    {
+      "class": "text",
       "id": "D570C42D-1DE8-41CD-A5C9-2F864A1559CC"
     },
     {
@@ -213,8 +217,8 @@
       "id": "DE15DE28-D56C-4C21-8D7D-0CC551EAC306"
     },
     {
-      "class": "text",
-      "id": "90393A16-A2DA-4715-B059-C4932FA5671F"
+      "class": "symbolInstance",
+      "id": "6258B559-9C5D-4596-A25B-753893C042C2"
     }
   ],
   "name": "Axis Scale",
@@ -230,7 +234,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 2.701829924650161,
       "saturation": 1,
       "type": 0
     },

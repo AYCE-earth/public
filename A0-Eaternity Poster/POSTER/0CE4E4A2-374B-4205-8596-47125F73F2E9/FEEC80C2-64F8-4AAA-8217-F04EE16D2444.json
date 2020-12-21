@@ -26,10 +26,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3370,
-    "width": 2384,
-    "x": 491.5762985687722,
-    "y": 1213.377865521994
+    "height": 910.5166846071044,
+    "width": 644.1162540365985,
+    "x": 36.63041005464137,
+    "y": 46.84375053392947
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -37,8 +37,8 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
-  "isVisible": true,
+  "isLocked": false,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "A0 Frame NEW",
   "nameIsFixed": true,
@@ -97,7 +97,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 2.701829924650161,
       "saturation": 1,
       "type": 0
     },
@@ -158,7 +158,7 @@
         },
         "isEnabled": true,
         "position": 2,
-        "thickness": 5
+        "thickness": 1.350914962325081
       }
     ],
     "colorControls": {

@@ -19,7 +19,7 @@
         "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -31,16 +31,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5372,
-    "width": 3800,
-    "x": -1848,
-    "y": -2964
+    "height": 1004,
+    "width": 704,
+    "x": -435,
+    "y": -375
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,8 +59,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "slice",
-      "id": "6DA7724F-8E35-4BA8-8344-E42DEBF11B13"
+      "class": "rectangle",
+      "id": "FA918D7B-CBF4-4827-B4DF-06BA95752707"
     },
     {
       "class": "slice",
@@ -85,6 +85,10 @@
     {
       "class": "oval",
       "id": "B8FE4229-F5DA-48F7-B29F-CAA89ACA2653"
+    },
+    {
+      "class": "oval",
+      "id": "0E4D59DC-C0DF-49AA-AB5D-89E79398D471"
     },
     {
       "class": "oval",
@@ -2901,6 +2905,10 @@
     {
       "class": "group",
       "id": "642F4574-6BD2-4055-BBE2-FBD7BDC2C4A8"
+    },
+    {
+      "class": "rectangle",
+      "id": "4B917792-0FE0-4940-A3B3-30834BECCC67"
     }
   ],
   "layout": {
@@ -2939,7 +2947,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 2.701829924650161,
       "saturation": 1,
       "type": 0
     },
