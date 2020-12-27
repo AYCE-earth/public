@@ -1,36 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB74DBA9-ADFA-4C7B-9BC7-6AD59E5E392B",
+  "do_objectID": "A6701D65-2D47-4811-8849-3F75ADB15414",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "@2x",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "@1x",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -39,16 +14,15 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 500,
-    "width": 500,
+    "constrainProportions": true,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -57,34 +31,33 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "AF5DD9BD-1C7F-497A-88AE-828AD23E9FF3"
+      "class": "slice",
+      "id": "0430D8BC-7A26-4370-9B4B-A73B2212EC74"
     },
     {
       "class": "group",
-      "id": "134A361E-1165-4410-8605-59786DD833DF"
+      "id": "E6A165E2-7346-462C-9631-F14E5C027370"
+    },
+    {
+      "class": "group",
+      "id": "3A6DEF10-690E-4BD0-8F21-26971B01FDE9"
     }
   ],
-  "name": "favicon",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Page 1",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -119,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3911A5DC-2B0D-4B51-97D2-9193144CED61",
+    "do_objectID": "3784BA42-CE7E-46F5-BC95-2B1B0EA446C3",
     "endMarkerType": 0,
     "fills": [
     ],
