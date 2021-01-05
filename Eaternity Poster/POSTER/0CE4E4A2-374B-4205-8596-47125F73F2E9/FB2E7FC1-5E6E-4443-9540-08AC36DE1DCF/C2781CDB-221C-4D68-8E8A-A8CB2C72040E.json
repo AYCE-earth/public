@@ -26,16 +26,16 @@
             "alignment": 0
           }
         },
-        "length": 170,
+        "length": 114,
         "location": 0
       }
     ],
-    "string": "Im Ziel der klimafreundlichen Ernährung (50% besser als der Durchschnitt) Besser als der Durchschnitt\nSchlechter als der Durchschnitt\n200% schlechter als der Durchschnitt"
+    "string": "Der CO₂ Wert ist in Gramm CO₂-Äquivalente,  jeweils für die Menge Produkt angeben welche ⅓ des Tagesbedarfs deckt."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7C47F40F-E854-4CBB-BEAD-0CB1343CBC22",
+  "do_objectID": "C2781CDB-221C-4D68-8E8A-A8CB2C72040E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29.44994617868676,
-    "width": 136.4424111948331,
-    "x": 20.26372443487621,
-    "y": 34.04305705059203
+    "height": 14.69795479009688,
+    "width": 110.7750269106566,
+    "x": 181,
+    "y": 13.00000000000001
   },
-  "glyphBounds": "{{0, 0}, {132, 20}}",
+  "glyphBounds": "{{0, 0}, {106, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Im Ziel der klimafre",
+  "name": "Der CO₂ Wert ist in",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -103,7 +103,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F745EC1B-1588-48C0-B5A5-18B4A1FBAC5A",
+    "do_objectID": "174030E4-196D-457C-8747-67A76025DF5F",
     "endMarkerType": 0,
     "fills": [
     ],

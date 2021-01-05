@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 290,
-    "width": 276,
+    "height": 241,
+    "width": 33,
     "x": 391.2497308934338,
-    "y": 661.9483315392895
+    "y": 646.9483315392895
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,39 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "33458F51-51E9-4EDB-B5C2-2312FC05514D"
-    },
-    {
-      "class": "bitmap",
-      "id": "82334CD3-3AA0-4483-8D6D-5D9A3621807E"
-    },
-    {
       "class": "group",
-      "id": "A2BD427F-3553-4FBB-991F-22E8BF6868F1"
-    },
-    {
-      "class": "text",
-      "id": "8FF23C7E-C44E-4817-8C43-BF3C017B1607"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CD8899F5-3040-4BF6-9D17-4451A04B6B13"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "303FED6B-280A-4A75-B842-DD023CC1A723"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "54AC57BA-E63C-4B02-82C3-11EC7A932C45"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FE53AD8B-5EEF-4203-BDFD-AE34C9D3A4DF"
+      "id": "03413AD2-872F-4B85-86E4-55857548F0A0"
     }
   ],
   "name": "Legend",

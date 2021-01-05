@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CD8899F5-3040-4BF6-9D17-4451A04B6B13",
+  "do_objectID": "03413AD2-872F-4B85-86E4-55857548F0A0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 11.61786867599569,
-    "width": 32.70214886576566,
+    "height": 241,
+    "width": 33,
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "Stars",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CD8899F5-3040-4BF6-9D17-4451A04B6B13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "303FED6B-280A-4A75-B842-DD023CC1A723"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54AC57BA-E63C-4B02-82C3-11EC7A932C45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE53AD8B-5EEF-4203-BDFD-AE34C9D3A4DF"
+    }
   ],
+  "name": "Group 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.1080731969860065,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,7 +62,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 1.080731969860065,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -63,7 +81,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -71,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AEE8258F-A336-4ABB-A218-1375E065866F",
+    "do_objectID": "834AB00D-88E0-4057-A0D4-792F438BB3D7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "40EA8619-D40E-4F4D-A6CA-F0961E11897C",
-  "verticalSpacing": 0
+  }
 }

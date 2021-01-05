@@ -1,11 +1,20 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A2BD427F-3553-4FBB-991F-22E8BF6868F1",
+  "do_objectID": "983B45C6-6579-4422-BA63-1D42FA6A3358",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -14,38 +23,28 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 64,
-    "width": 158,
-    "x": 117.529601722282,
-    "y": 201.8266953713671
+    "constrainProportions": true,
+    "height": 15.94079655543595,
+    "width": 15.94079655543595,
+    "x": 10.29494079655541,
+    "y": 5.403659849300312
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "group",
-      "id": "1E26A478-398E-44F9-98CA-A62C3CBB1AFE"
-    },
-    {
-      "class": "group",
-      "id": "1F05C654-9FD0-40F1-B2A3-D64B847987D4"
-    }
-  ],
-  "name": "Group 2",
+  "layerListExpandedType": 0,
+  "name": "Climate-Icon",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0.1080731969860065,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -54,7 +53,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 2.701829924650161,
+      "radius": 1.080731969860065,
       "saturation": 1,
       "type": 0
     },
@@ -73,7 +72,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -81,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9FF5CAE6-4859-4820-A74B-F59C5E3E5AB5",
+    "do_objectID": "2EEBB4BF-1391-4084-8FF5-72536FEEC221",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +91,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "549410D0-898E-491C-A631-7EFD6EA7691A",
+  "verticalSpacing": 0
 }

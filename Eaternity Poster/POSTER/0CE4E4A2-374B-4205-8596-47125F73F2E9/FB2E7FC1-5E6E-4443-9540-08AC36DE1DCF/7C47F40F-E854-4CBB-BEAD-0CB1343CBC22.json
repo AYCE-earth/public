@@ -17,26 +17,27 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProDisplay-Regular",
-              "size": 4.322927879440258
+              "size": 4.7
             }
           },
-          "kerning": -0.02470244274778438,
+          "kerning": -0.02685714038088918,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "alignment": 0,
+            "maximumLineHeight": 5.1,
+            "minimumLineHeight": 5.1
+          }
         },
-        "length": 90,
+        "length": 170,
         "location": 0
       }
     ],
-    "string": "Der Durchschnitt basiert auf über 100'000 berechneten Produkten und deren Konsumstatistik."
+    "string": "Im Ziel der klimafreundlichen Ernährung (50% besser als der Durchschnitt) Besser als der Durchschnitt\nSchlechter als der Durchschnitt\n200% schlechter als der Durchschnitt"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8FF23C7E-C44E-4817-8C43-BF3C017B1607",
+  "do_objectID": "7C47F40F-E854-4CBB-BEAD-0CB1343CBC22",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 77.27233584499461,
-    "x": 117.529601722282,
-    "y": 265.0495156081809
+    "height": 21,
+    "width": 144,
+    "x": 27.24542518837461,
+    "y": 22.23735199138855
   },
-  "glyphBounds": "{{0, 0}, {76, 15}}",
+  "glyphBounds": "{{0, 0}, {143, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Der Durchschnitt bas",
+  "name": "Im Ziel der klimafre",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -77,7 +78,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 2.701829924650161,
+      "radius": 10.80731969860065,
       "saturation": 1,
       "type": 0
     },
@@ -96,7 +97,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -104,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1B8B05DA-A594-430C-8371-65C90DE8D651",
+    "do_objectID": "F745EC1B-1588-48C0-B5A5-18B4A1FBAC5A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,19 +129,20 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SFProDisplay-Regular",
-            "size": 4.322927879440258
+            "size": 4.7
           }
         },
-        "kerning": -0.02470244274778438,
+        "kerning": -0.02685714038088918,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "alignment": 0,
+          "maximumLineHeight": 5.1,
+          "minimumLineHeight": 5.1
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
