@@ -69,4 +69,4 @@ https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-
 Forum Code: https://www.discourse.org ? http://spectrum.chat -> that to choose: https://retool.com/blog/how-we-migrated-our-community-from-spectrum-to-discourse/ (Consideration anonymity? easy to use? Spam?)
 Webshop code: With Stripe (https://github.com/stripe-samples/github-pages-stripe-checkout)
 Campact campagin:
-Github - link / release:
+Github - link / release: https://github.com/Eaternity/eaternity-poster/releases

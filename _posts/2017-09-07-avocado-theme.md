@@ -7,6 +7,7 @@ author: john
 categories:
     - work
 layout: post
+published: false
 ---
 
 

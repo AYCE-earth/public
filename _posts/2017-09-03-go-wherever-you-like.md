@@ -6,6 +6,7 @@ categories:
     - life
     - travel
 layout: post
+published: false
 ---
 
 Goa is a state in India within the coastal region known as the Konkan in India. It is bounded by Maharashtra to the north and Karnataka to the east and south, with the Arabian Sea forming its Western coast. It is India's smallest state by area and the fourth smallest by population. 

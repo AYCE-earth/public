@@ -6,6 +6,7 @@ categories:
     - life
     - adventure
 layout: post
+published: false
 ---
 
 Campanula is one of several genera in the family Campanulaceae with the common name bellflower. It takes both its common and its scientific name from its bell-shaped flowers—campanula is Latin for "little bell".

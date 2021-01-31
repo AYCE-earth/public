@@ -2,55 +2,61 @@
 layout: page
 title: Purchase
 permalink: /purchase/
-description: This is an individual item from the portfolio.
+description: Here you can purchase the poster.
 ---
 
-
   <head>
-    <meta charset="utf-8" />
-    <title>Stripe Checkout Sample</title>
-    <meta name="description" content="A demo of Stripe client-only Checkout" />
+<!--     <meta charset="utf-8" /> -->
+    <!-- <title>Stripe Checkout Sample</title> -->
+    <!-- <meta name="description" content="A demo of Stripe client-only Checkout" /> -->
 
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/normalize.css" />
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/global.css" />
+    <!-- <link rel="icon" href="favicon.ico" type="image/x-icon" /> -->
+    <!-- <link rel="stylesheet" href="{{site.baseurl}}/assets/css/normalize.css" /> -->
+    <!-- <link rel="stylesheet" href="{{site.baseurl}}/assets/css/global.css" /> -->
     <!-- Load Stripe.js on your website. -->
     <script src="https://js.stripe.com/v3/"></script>
   </head>
 
-  <body>
-    <div class="sr-root">
+<div class="row">
+  <div class="col-md-6">
+    <img src="/assets/images/portfolio/Food-Poster-Mockup.jpg" />
+  </div>
+  <div class="col-md-6">
+        <div class="sr-root">
       <div class="sr-main" style="display: flex;">
         <header class="sr-header">
-          <div class="sr-header__logo"></div>
+          <div class="sr-header__logo">
+            
+
+          </div>
         </header>
         <div class="sr-container">
           <section class="container">
-            <h1>Purchase Poster</h1>
-            <button
+            <h1>Purchase Poster (DE only)</h1>
+            <button class="btn btn-default"
               data-checkout-mode="payment"
-              data-price-id="price_1HZiZM2uLodVN7W1Ux1dEQGy"
+              data-price-id="price_1IFcpU2uLodVN7W157Q2izxI"
             >
               CHF 69.00 (for supporters)
             </button>
-            <button
+            <button class="btn btn-default"
               data-checkout-mode="payment"
-              data-price-id="price_1HZiZM2uLodVN7W1QJuIE1cx"
+              data-price-id="price_1IFcpU2uLodVN7W1limjamJ4"
             >
               CHF 9.00 (only PDF)
             </button>
-            <button
+       <!--      <button
               data-checkout-mode="payment"
               data-price-id="price_1HZiZM2uLodVN7W1tB2Pvi7o"
             >
               CHF 29.00
-            </button>
+            </button> -->
           </section>
           <section class="container">
             <h1>Recurring Donation</h1>
-            <button
+            <button class="btn btn-default"
               data-checkout-mode="subscription"
-              data-price-id="price_1HZieo2uLodVN7W1WnS8Iz1E"
+              data-price-id="price_1IFcrb2uLodVN7W1LEGGKCtF"
             >
               Donate CHF 50.00 per year
             </button>
@@ -60,7 +66,7 @@ description: This is an individual item from the portfolio.
       </div>
     </div>
     <div class="banner">
-      <span>
+<!--       <span>
         This is a
         <a href="https://github.com/stripe-samples"> Stripe Sample </a> on how
         to use Stripe Checkout on GitHub Pages.
@@ -69,12 +75,20 @@ description: This is an individual item from the portfolio.
         >
           View code on GitHub.
         </a>
-      </span>
+      </span> -->
     </div>
+  </div>
+</div>
+
+
+
+
+
+
 
     <script>
       // Replace with your own publishable key: https://dashboard.stripe.com/test/apikeys
-      var PUBLISHABLE_KEY = 'pk_test_UWJhnF8ZYVEDsLOy1dX8YsEz';
+      var PUBLISHABLE_KEY = 'pk_live_Yn4dfhnFIxCfcp8R6kqWBSl2';
       // Replace with the domain you want your users to be redirected back to after payment
       var DOMAIN = location.href.replace(/[^/]*$/, '');
 
@@ -116,4 +130,4 @@ description: This is an individual item from the portfolio.
         });
       });
     </script>
-  </body>
+

@@ -6,6 +6,7 @@ categories:
     - life
     - work
 layout: post
+published: false
 ---
 
 

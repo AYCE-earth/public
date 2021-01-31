@@ -6,6 +6,7 @@ categories:
     - life
     - experience
 layout: post
+published: false
 ---
 
 As in other arts, the definitions of amateur and professional are not entirely categorical. A professional photographer is likely to take photographs to make money, by salary or through the display, sale or use of those photographs.

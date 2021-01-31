@@ -15,12 +15,12 @@ default-image: /assets/images/avocado-cover.png # This image will be shown on sh
 
 # Author details shows up at the end of every article
 author:
-  name: John Doe
-  bio: "John is an astronaut. He likes to hang out with his friends when he's not in space. He writes his experiences here."
-  image: author-image.jpg # Choose a 200x200px image and place it inside /images directory.
-  facebook: https://facebook.com
-  twitter: https://twitter.com
-  quora: https://www.quora.com/
+  name: Eaternity
+  bio: "Eaternity is a group of people that wants a sustainable food future to happen faster"
+  image: eaternity-image.jpg # Choose a 200x200px image and place it inside /images directory.
+  facebook: https://facebook.com/eaternity
+  twitter: http://twitter.com/eaternity
+  linkedin: http://linkedin.com/company/eaternity-ag
 
 # Kramdown is supported by Github
 markdown: kramdown
@@ -39,7 +39,7 @@ paginate: 4
 paginate_path: /blog/page:num/
 
 # Define titles for the sections
-name: John Doe
+name: Manuel Klarmann
 projects: I work
 
 # Jekyll will read contents inside _pages only if we tell it to
