@@ -26,25 +26,25 @@ The poster is released in version as a sketch document with https://kactus.io . 
 So wird die Klimaverträglichkeit einzelner Lebensmittel vergleichbar: Wer zum Beispiel ein Drittel seines Tagesbedarfs an Nährwerten mit Gemüse decken würde, käme auf einen CO2-Wert (für Wachstum/Produktion/Transport) von 620 Gramm. Hummer? Über 14 Kilo.
 
 Der CO₂ Wert ist in Gramm CO₂-Äquivalente, jeweils für 1/3 des total Tagesbedarfs pro Produkt angeben.
-★★★ Im Ziel der klimafreundlichen Ernährung (50% Besser) 
-★★☆ Besser als der Durchschnitt
-★☆☆ Schlechter als der Durchschnitt
-☆☆☆ Super schlecht (300% mehr als der Durchschnitt)
+- ★★★ Im Ziel der klimafreundlichen Ernährung (50% Besser) 
+- ★★☆ Besser als der Durchschnitt
+- ★☆☆ Schlechter als der Durchschnitt
+- ☆☆☆ Super schlecht (300% mehr als der Durchschnitt)
 
 Portionen: Werden für den fairen Vergleich angegeben. Sie werden auf der Nährwertbilanz des Produktes berechnet. Je höher die Zahl, desto mehr stillen 100 g vom Produkt deinen Hunger.
 
 ## Contributors (Poster)
-Manuel Klarmann (general lead, reviews, manual icon arrangements)
-Simon Greuter (technical help on arranging the icons and feedback)
-Vaclav Sisl (technical help on arranging the icons and feedback)
-Orwa Alkhateeb (manual arrangements of icons)
-Aurelian Jaggi (most of the work arranging the icon)
-Medha Pfaff (reviewing the scientific datapoints)
-Judith Ellens (reviews, LCA values contribution)
-Yana Noskova (drawing of all the icons!)
-Ruben Neugebauer (marketing help)
-All the crowdfunders from https://wemakeit.com/projects/co-score-of-all-foods/
-Mom from http://kunstwetter.de
+- Manuel Klarmann (general lead, reviews, manual icon arrangements)
+- Simon Greuter (technical help on arranging the icons and feedback)
+- Vaclav Sisl (technical help on arranging the icons and feedback)
+- Orwa Alkhateeb (manual arrangements of icons)
+- Aurelian Jaggi (most of the work arranging the icon)
+- Medha Pfaff (reviewing the scientific datapoints)
+- Judith Ellens (reviews, LCA values contribution)
+- Yana Noskova (drawing of all the icons!)
+- Ruben Neugebauer (marketing help)
+- All the crowdfunders from https://wemakeit.com/projects/co-score-of-all-foods/
+- Mom from http://kunstwetter.de
 
 ## Disclaimer
 
@@ -61,12 +61,12 @@ Our vision is that data on the sustainability and productivity of food – parti
 CC0 removes any legal doubt about whether you can use the uploaded data in your projects, and whether Eaternity calculations can be applied to submitted data. While CC0 removes the obligation to cite the data source, it does not remove the moral responsibility to give attribution.
 
 #### Notes
-Titel: www.ayce.earth
-Website: Jekyll
-Fancy animation:
+- Titel: www.ayce.earth
+- Website: Jekyll
+- Fancy animation:
 https://medium.com/@leemartin/how-to-recreate-the-banksy-artwork-shredder-using-css-grid-ff20c0f5a19
 
-Forum Code: https://www.discourse.org ? http://spectrum.chat -> that to choose: https://retool.com/blog/how-we-migrated-our-community-from-spectrum-to-discourse/ (Consideration anonymity? easy to use? Spam?)
-Webshop code: With Stripe (https://github.com/stripe-samples/github-pages-stripe-checkout)
-Campact campagin:
-Github - link / release: https://github.com/Eaternity/eaternity-poster/releases
+- Forum Code: https://www.discourse.org ? http://spectrum.chat -> that to choose: https://retool.com/blog/how-we-migrated-our-community-from-spectrum-to-discourse/ (Consideration anonymity? easy to use? Spam?)
+- Webshop code: With Stripe (https://github.com/stripe-samples/github-pages-stripe-checkout)
+- Campact campagin:
+- Github - link / release: https://github.com/Eaternity/eaternity-poster/releases
