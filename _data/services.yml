@@ -3,12 +3,19 @@
 #   fa-icon:      fa-object-group
 #   link: http://edb.eaternity.org
 
-- title:      Github
-  description:  We have put the poster source into a public github repository for public use, collaboration and external review.
-  fa-icon:      fa-code
-  link: https://github.com/Eaternity/eaternity-poster/releases
 
 # - title:      Poster Campaign
 #   description:  We crowdfund support to place the poster as an appendix in several newspapers. We think millions of households should have this beautiful piece of art on their fridge.
 #   fa-icon:      fa-paper-plane-o
 #   link: http://campact.de
+
+en:
+  - title:      Github
+    description:  We have put the poster source into a public github repository for public use, collaboration and external review.
+    fa-icon:      fa-code
+    link: https://github.com/Eaternity/eaternity-poster/releases
+de:
+  - title:      Github
+    description:  Wir haben den Quellcode des Posters in ein öffentliches Github-Repository für die öffentliche Nutzung, Zusammenarbeit und externe Überprüfung gestellt.
+    fa-icon:      fa-code
+    link: https://github.com/Eaternity/eaternity-poster/releases

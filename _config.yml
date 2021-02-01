@@ -7,6 +7,8 @@
 # Changing title and description according to your website requirement is important.
 #
 title: All You Can Eat
+lang: de
+languages: ["en", "de"] 
 description: AYCE.earth wants you to know your foods carbon footprint.
 email: mklarmann@eaternity.ch # The contact form submission will be done to this email address.
 phone: +41-77-44-981
@@ -16,7 +18,8 @@ default-image: /assets/images/avocado-cover.png # This image will be shown on sh
 # Author details shows up at the end of every article
 author:
   name: Eaternity
-  bio: "Eaternity is a group of people that wants a sustainable food future to happen faster"
+  en: "Eaternity is a group of people that wants a sustainable food future to happen faster."
+  de: "Eaternity ist eine Gruppe von Menschen, die sich dafür einsetzt, dass eine nachhaltige Lebensmittelzukunft schneller passiert."
   image: eaternity-image.jpg # Choose a 200x200px image and place it inside /images directory.
   facebook: https://facebook.com/eaternity
   twitter: http://twitter.com/eaternity

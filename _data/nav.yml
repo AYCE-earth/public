@@ -1,11 +1,11 @@
-- title: Home
-  link: '/'
+# - title: Home
+#   link: '/'
   
 # - title: About
 #   link: '/about/'
 
-- title: Contact
-  link: '/contact/'
+# - title: Contact
+#   link: '/contact/'
   
 # - title: Blog
 #   link: '/blog/'
@@ -16,3 +16,18 @@
 #       link: /portfolio/
 #     - title: Another Item
 #       link: /portfolio/
+
+
+en:
+  - title: "Contact" 
+    link: /contact/ 
+  - title: "Home" 
+    link: /
+de: 
+  - title: "Kontakt" 
+    link: /de/contact/ 
+  - title: "Home" 
+    link: /de/
+
+
+# based on https://medium.com/@desfocado/how-to-make-jekyll-multilingual-c13e74c18f1c

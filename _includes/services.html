@@ -2,13 +2,13 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h3 class="section-title text-center rev">Our Projects</h3>
+				<h3 class="section-title text-center rev">{{site.data.i18n[page.lang].projects}}</h3>
 			</div>
 		</div>
 		<div class="row">
 
 
-			{% for item in site.data.services %}
+			{% for item in site.data.services[page.lang] %}
 			<div class="col-md-4 col-sm-6">
 				<a href="{{item.link}}">
 					<div class="serviceBox cards rev">

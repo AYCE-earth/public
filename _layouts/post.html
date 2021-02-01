@@ -15,7 +15,18 @@ This layout is used for posts. Changing anything here will affect all posts(not 
 			<div class="blog-content pd">
 				<div class="row">
 					<div class="col-md-12">
-						{% include breadcrumbs.html %}
+						{% include breadcrumbs.html %} 
+
+						{% if page.bookauthor == null and page.permalink == null%}
+						    {% assign versions = site.posts | where: "ref", page.ref | sort: 'lang'%}
+						    {% if versions.size> 1%}
+						        {% for version in versions%}
+						            {% if version.lang != page.lang%}
+						                <a href="{{ version.url }}" class="{{ version.lang }}">{{ site.data.i18n[version.lang].read_it_in }} {{ site.data.i18n[version.lang].icon }} </a>
+						            {% endif%}
+						        {% endfor%}
+						    {% endif%}
+						{% endif%}
 					</div>
 				</div>
 

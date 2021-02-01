@@ -2,11 +2,17 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h3 class="section-title text-center rev">Latest Articles</h3>
+				<h3 class="section-title text-center rev">{{site.data.i18n[page.lang].articles}}</h3>
 			</div>
 		</div>
 		<div class="row">
-			{% for post in site.posts limit: 3 %}
+			{% assign items_grouped = site.posts limit: 3 | group_by: 'ref'%}
+				{% for group in items_grouped%}
+    				{% if group.items.size> 1%}
+        				{% assign post = group.items | where: "lang", page.lang | first%}
+    				{% else%}
+        				{% assign post = group.items [0]%}
+    				{% endif%}
 			<div class="col-md-4">
 				<a href="{{post.url}}" class="nostyle">
 					<div class="cards rev">
@@ -15,6 +21,16 @@
 							<span><small>{{post.date | date_to_string }}</small></span>
 							<h5>{{post.title}}</h5>
 							<p>{{post.content | strip_html | truncate: 95 }}</p>
+
+							{% assign versions = site.posts | where: "ref", post.ref | sort: 'lang'%}
+							{% if versions.size> 1%}
+							    {% for version in versions%}
+							        {% if version.lang != site.lang%}
+							            <a href="{{ version.url }}">{{site.data.i18n [version.lang] .icon}} </a>
+							        {% endif%}
+							    {% endfor%}
+							{% endif%}
+
 						</div>
 					</div>
 				</a>

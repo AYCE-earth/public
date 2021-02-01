@@ -2,11 +2,17 @@
 <div class="recent">
 	<div class="row">
 		<div class="col-md-12">
-			<h3>Recent Articles</h3>
+			<h3>{{site.data.i18n[page.lang].articles}}</h3>
 		</div>
 	</div>
 	<div class="row">
-		{% for post in site.related_posts limit: 4 %}
+	{% assign items_grouped = site.related_posts limit: 8 | group_by: 'ref'%}
+        {% for group in items_grouped%}
+            {% if group.items.size> 1%}
+                {% assign post = group.items | where: "lang", page.lang | first%}
+            {% else%}
+                {% assign post = group.items [0]%}
+            {% endif%}
 		{% if page.url != post.url %}
 		<div class="col-md-3 rev">
 			<a class="nostyle item" href="{{site.baseurl}}{{post.url}}">

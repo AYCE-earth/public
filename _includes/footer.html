@@ -9,22 +9,39 @@
             alt="{{site.title}}"
           /> -->
           <h3>{{site.title}}</h3>
-          <p>{{site.description}}</p>
+          <p>{{site.data.i18n[page.lang].ayce_text}}</p>
         </div>
       </div>
       <div class="col-md-2">
-        <h3>Pages</h3>
+        <h3>{{site.data.i18n[page.lang].pages}}</h3>
         <ul>
-          {% for item in site.data.nav %}
+          {% for item in site.data.nav[page.lang] %}
           <li><a href="{{item.link}}">{{item.title}}</a></li>
           {% endfor %}
         </ul>
       </div>
       <div class="col-md-3">
-        <h3>Latest Posts</h3>
-        {% for post in site.posts limit: 4 %}
-        <li><a href="{{post.url}}">{{post.title}}</a></li>
+        <h3>{{site.data.i18n[page.lang].latest_posts}}</h3>
+        {% assign items_grouped = site.posts | group_by: 'ref'%}
+        {% for group in items_grouped%}
+            {% if group.items.size> 1%}
+                {% assign post = group.items | where: "lang", site.lang | first%}
+            {% else%}
+                {% assign post = group.items [0]%}
+            {% endif%}
+        <li><a href="{{post.url}}">{{post.title}}</a>
+          {% assign versions = site.posts | where: "ref", page.ref | sort: 'lang'%}
+              {% if versions.size> 1%}
+                  {% for version in versions%}
+                      {% if version.lang != page.lang%}
+                         <a href="{{ version.url }}">{{site.data.i18n [version.lang] .icon}} </a>
+                      {% endif%}
+                  {% endfor%}
+              {% endif%}
         {% endfor %}
+
+        </li>          
+
       </div>
       <div class="col-md-3">
  <!--        <h3>Contact Us</h3>
