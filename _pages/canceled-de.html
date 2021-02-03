@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Purchase
-lang: en
-ref: success
-permalink: /purchase/success.html
-description: Your purchase was successful.
+title: Kaufen
+ref: canceled
+lang: de
+permalink: /de/purchase/canceled.html
+description: This is an individual item from the portfolio.
 ---
   <head>
-    <meta charset="utf-8" />
+<!--     <meta charset="utf-8" />
     <title>Stripe Checkout Sample</title>
-    <meta name="description" content="A demo of Stripe client-only Checkout" />
+    <meta name="description" content="A demo of Stripe client-only Checkout" /> -->
 
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/normalize.css" />
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/global.css" />
+    <!-- <link rel="icon" href="favicon.ico" type="image/x-icon" /> -->
+    <!-- <link rel="stylesheet" href="{{site.baseurl}}/assets/css/normalize.css" /> -->
+    <!-- <link rel="stylesheet" href="{{site.baseurl}}/assets/css/global.css" /> -->
     <script src="https://js.stripe.com/v3/"></script>
   </head>
 
@@ -24,8 +24,8 @@ description: Your purchase was successful.
           <a href="./" class="sr-header__logo"></a>
         </header>
         <div class="sr-payment-summary completed-view">
-          <h1>Your payment succeeded</h1>
-          <h4>Checkout Session ID: <span id="session"></span></h4>
+          <h1>Ihre Zahlung wurde storniert</h1>
+          <h4>Checkout-Sitzung ID: <span id="session"></span></h4>
         </div>
       <div class="sr-content">
         <div class="pasha-image-stack">
@@ -34,12 +34,7 @@ description: Your purchase was successful.
             width="140"
             height="160"
           />
-          <!-- <img
-            src="https://picsum.photos/280/320?random=1"
-            width="140"
-            height="160"
-          />
-          <img
+        <!--   <img
             src="https://picsum.photos/280/320?random=2"
             width="140"
             height="160"
