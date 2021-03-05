@@ -1,0 +1,120 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3380E57-BD9B-430A-9E36-524BA67F22AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 60,
+    "x": 2,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BEAA3BEE-F92F-41BA-95BD-2DFABAEC3718"
+    },
+    {
+      "class": "shapePath",
+      "id": "DC985D22-F376-4FEB-A787-A9ED3CD592A6"
+    },
+    {
+      "class": "shapePath",
+      "id": "38AC6155-B9A4-43C0-A32D-E13FB751E827"
+    },
+    {
+      "class": "shapePath",
+      "id": "860DEBD7-78F7-4365-B6D1-5A9F86ECD6C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CFBF7C9E-4D49-4D16-A7A6-DB21B1F8C2F9"
+    },
+    {
+      "class": "shapePath",
+      "id": "861F342B-C750-4AEE-B30A-694A05359BA6"
+    },
+    {
+      "class": "shapePath",
+      "id": "D18E58B7-5D99-4095-9750-F5196EEE1AA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C228DE8-B5C7-419C-96C1-2C9C3880DB3A"
+    }
+  ],
+  "name": "Pistazien",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "1BB635E3-4F08-43A4-80A6-BFF43F409F48",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
