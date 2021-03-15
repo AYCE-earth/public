@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
+              "name": "SFCompactText-Bold",
               "size": 6
             }
           },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8,
-    "width": 64,
-    "x": 0,
+    "height": 9,
+    "width": 100,
+    "x": -18,
     "y": 64
   },
-  "glyphBounds": "{{21, 1}, {22, 6}}",
+  "glyphBounds": "{{39, 2}, {22, 5}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -126,7 +126,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
+            "name": "SFCompactText-Bold",
             "size": 6
           }
         },
