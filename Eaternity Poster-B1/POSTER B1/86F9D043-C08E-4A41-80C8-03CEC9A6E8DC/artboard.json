@@ -15,12 +15,12 @@
     "exportFormats": [
       {
         "_class": "exportFormat",
-        "absoluteSize": 0,
+        "absoluteSize": 2004,
         "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
+        "scale": 0,
+        "visibleScaleType": 1
       }
     ],
     "includedLayerIds": [
@@ -31,8 +31,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1004,
-    "width": 704,
+    "height": 1000,
+    "width": 707,
     "x": -435,
     "y": -375
   },
@@ -2913,6 +2913,10 @@
     {
       "class": "group",
       "id": "88B63F95-7F2B-4BAC-879F-9B6FC029F83F"
+    },
+    {
+      "class": "slice",
+      "id": "E76F0CE9-6FED-46D5-8E25-56526621BDD8"
     }
   ],
   "layout": {
@@ -2930,14 +2934,14 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "A2",
+  "name": "B1",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
-    "height": 3370,
-    "name": "A0",
-    "offersLandscapeVariant": 1,
-    "width": 2384
+    "height": 1000,
+    "name": "Custom Preset",
+    "offersLandscapeVariant": 0,
+    "width": 707
   },
   "resizesContent": false,
   "resizingConstraint": 63,
