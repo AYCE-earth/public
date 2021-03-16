@@ -152,7 +152,7 @@
       "do_objectID": "6A041C19-85C9-4184-8A83-BE72A399345E",
       "fontFamilyName": "SF Compact Text",
       "fontFileName": "SFCompactText-Semibold.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "SFCompactText-Semibold"
       ]
@@ -312,7 +312,7 @@
       "do_objectID": "FCC73FA9-0256-4188-B23E-697BA4E7AEC1",
       "fontFamilyName": "SF Compact Text",
       "fontFileName": "SFCompactText-Bold.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "SFCompactText-Bold"
       ]
@@ -348,8 +348,9 @@
     "version": 134
   },
   "pages": [
-    "POSTER B1",
+    "POSTER (deprecated)",
     "POSTER A2",
+    "POSTER A1 / B1 (do not edit directly)",
     "Symbols",
     "Draft"
   ],

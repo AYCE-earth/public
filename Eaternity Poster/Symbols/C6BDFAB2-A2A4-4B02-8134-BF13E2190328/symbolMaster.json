@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 80,
     "width": 64,
-    "x": 572,
+    "x": 545,
     "y": -159
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,8 +72,8 @@
       "id": "43984458-75FB-4239-BE2D-39CFF2F89318"
     }
   ],
-  "name": "Icon",
-  "nameIsFixed": false,
+  "name": "Icon Original",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
