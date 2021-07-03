@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 410,
-    "x": 271.7545748116254,
-    "y": 933.2626480086114
+    "height": 50,
+    "width": 313,
+    "x": 327.7556512378902,
+    "y": 929.5844994617848
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,15 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "9D521715-430C-468E-9917-D9E0A9BE363B"
-    },
-    {
-      "class": "bitmap",
-      "id": "AF5F2F9E-61FA-4150-9178-FBA02FC9E435"
     },
     {
       "class": "text",
@@ -58,15 +54,15 @@
     },
     {
       "class": "group",
-      "id": "5400C56E-43DD-4246-ADA8-B8CDDFB8000F"
-    },
-    {
-      "class": "group",
       "id": "69936035-5255-4813-9059-CB51DA4EC9E1"
     },
     {
       "class": "text",
       "id": "075F718F-A24B-4A5E-875D-6F181F7AD9E7"
+    },
+    {
+      "class": "group",
+      "id": "5400C56E-43DD-4246-ADA8-B8CDDFB8000F"
     }
   ],
   "name": "Legend",

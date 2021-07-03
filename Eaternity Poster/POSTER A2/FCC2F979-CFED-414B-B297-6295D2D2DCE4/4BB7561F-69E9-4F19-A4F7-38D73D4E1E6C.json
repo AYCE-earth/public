@@ -27,7 +27,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "hmm",
   "nameIsFixed": true,
@@ -169,10 +169,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.5034145541958042,
-          "blue": 0.9372549019607843,
-          "green": 0.9529411764705882,
-          "red": 1
+          "alpha": 0.1,
+          "blue": 0.1647058823529414,
+          "green": 0.1372549019607844,
+          "red": 0.7686274509803922
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
