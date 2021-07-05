@@ -17,25 +17,28 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProDisplay-Regular",
-              "size": 4.322927879440258
+              "size": 4.7
             }
           },
-          "kerning": -0.02470244274778438,
+          "kerning": -0.02685714038088918,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
-          }
+            "alignment": 0,
+            "maximumLineHeight": 5.1,
+            "minimumLineHeight": 5.1
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 116,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "Der CO₂ Wert ist in Gramm CO₂-Äquivalente,  jeweils für die Menge Produkt angegeben welche ⅓ des Tagesbedarfs deckt."
+    "string": "Schlechter als der Durchschnitt"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7729E396-1A2F-4764-B6CF-AF7CC2373535",
+  "do_objectID": "9A04881F-A5CA-45B4-95A0-30E8A23017DF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14.69795479009688,
-    "width": 110.7750269106566,
-    "x": 67.70505920344453,
-    "y": 3.596340150699689
+    "height": 6,
+    "width": 61,
+    "x": 517,
+    "y": 961
   },
-  "glyphBounds": "{{0, 0}, {111, 10}}",
+  "glyphBounds": "{{0, 0}, {61, 5}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Der CO₂ Wert ist in",
+  "name": "Schlechter als der D",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10.80731969860065,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -95,7 +98,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -103,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D7C96D41-BE09-40C3-8857-DFBF8737662D",
+    "do_objectID": "199A4BDB-55E4-4442-80F4-137D9C110EB2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,18 +130,21 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SFProDisplay-Regular",
-            "size": 4.322927879440258
+            "size": 4.7
           }
         },
-        "kerning": -0.02470244274778438,
+        "kerning": -0.02685714038088918,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
-        }
+          "alignment": 0,
+          "maximumLineHeight": 5.1,
+          "minimumLineHeight": 5.1
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

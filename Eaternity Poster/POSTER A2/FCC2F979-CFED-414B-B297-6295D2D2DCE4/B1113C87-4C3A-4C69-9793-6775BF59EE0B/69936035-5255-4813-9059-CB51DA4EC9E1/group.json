@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 17,
-    "x": 10.23982777179765,
-    "y": 20.2876210979548
+    "height": 12.13153928955865,
+    "width": 189.1229199059125,
+    "x": 289.945963401507,
+    "y": 2.205812701829927
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,10 +34,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "CA88FBCC-A2F6-49FF-814D-BF1219628DCE"
-    },
-    {
-      "class": "symbolInstance",
       "id": "6C6DCE08-48CA-4A3A-A7F8-53BB474BEF82"
     },
     {
@@ -47,6 +43,10 @@
     {
       "class": "symbolInstance",
       "id": "5E5E7D5C-8C8E-42B5-8200-31A62B899C20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA88FBCC-A2F6-49FF-814D-BF1219628DCE"
     }
   ],
   "name": "Group",
