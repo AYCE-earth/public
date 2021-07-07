@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 21,
-    "width": 21.24928701690563,
-    "x": 649.9978610507169,
-    "y": 922
+    "constrainProportions": true,
+    "height": 35,
+    "width": 35,
+    "x": 642,
+    "y": 913
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,7 +35,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "scale": 1.458725642661407,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 14.58725642661407,
       "saturation": 1,
       "type": 0
     },
