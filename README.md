@@ -5,7 +5,7 @@ This is educational poster of CO₂ values of food, arranged for a one-view spot
 - We want to build a website (jekyll? - github pages? - fancy animation - domain), a forum (what software?), an FAQ to promote the poster.
 - If possible we want to crowdfund to place the poster as an appendix of newspapers (campact?).
 - It should be possible to order (webstore?) the poster together with an optional sticker pack (design?) and other promotional material.
-- We put the poster source and the CO2 values into a public github repository for public use and external review (data format?).
+- We put the poster source and the CO₂ values into a public github repository for public use and external review (data format?).
 - We send a poster print to people we like (including our crowdfunders!)
 - Include the reference to CodeCheck for their awesome contribution and publishing of the data.
 - Get an ISBN number for the poster? -> QR Code für Webseite aufbringen.
@@ -23,7 +23,7 @@ The poster is released in version as a sketch document with https://kactus.io . 
 
 
 #### Poster Klima-Legende
-So wird die Klimaverträglichkeit einzelner Lebensmittel vergleichbar: Wer zum Beispiel ein Drittel seines Tagesbedarfs an Nährwerten mit Gemüse decken würde, käme auf einen CO2-Wert (für Wachstum/Produktion/Transport) von 620 Gramm. Hummer? Über 14 Kilo.
+So wird die Klimaverträglichkeit einzelner Lebensmittel vergleichbar: Wer zum Beispiel ein Drittel seines Tagesbedarfs an Nährwerten mit Gemüse decken würde, käme auf einen CO₂-Wert (für Wachstum/Produktion/Transport) von 620 Gramm. Hummer? Über 14 Kilo.
 
 Der CO₂ Wert ist in Gramm CO₂-Äquivalente, jeweils für 1/3 des total Tagesbedarfs pro Produkt angeben.
 - ★★★ Im Ziel der klimafreundlichen Ernährung (50% Besser) 
