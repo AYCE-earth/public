@@ -1,6 +1,6 @@
 ---
 title: Poster Usage
-image: /assets/images/portfolio/Food-Poster-Mockup-wide.jpg
+image: /assets/images/Food-Poster-Mockup-wide.jpg
 author: Eaternity
 categories: 
     - partners
