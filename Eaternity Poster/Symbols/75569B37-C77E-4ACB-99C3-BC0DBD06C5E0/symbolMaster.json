@@ -52,28 +52,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "ADC2A320-DBC5-407F-9C8E-60B8E56EE2AB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "61ACC0C6-1BCC-4C82-82D6-9CA31CBF3824"
-    },
-    {
-      "class": "text",
-      "id": "F882744D-41F2-47BE-B746-E09E5D220910"
-    },
-    {
-      "class": "text",
-      "id": "C350EF8C-C5C5-4A53-AD90-E4F90298CF44"
-    },
-    {
-      "class": "text",
-      "id": "DB620F7E-2A9E-47CF-9B07-2B54BACE8CC0"
-    },
-    {
-      "class": "text",
-      "id": "0AF390F8-0AC0-47D5-9DC1-7E2FD0F3DA31"
+      "class": "group",
+      "id": "3BB9B165-50C2-440E-B72C-4DE9F42CF7B6"
     }
   ],
   "name": "Icon Smaller",
@@ -107,7 +87,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -22,7 +22,7 @@
     "y": -1.4210854715202e-14
   },
   "hasClippingMask": false,
-  "isClosed": false,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,16 +33,6 @@
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0.77614257656988173}",
-      "curveMode": 4,
-      "curveTo": "{1, 0.5}",
-      "hasCurveFrom": true,
-      "hasCurveTo": false,
-      "point": "{1, 0.5}"
-    },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
@@ -76,10 +66,10 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0.5}",
+      "curveFrom": "{1, 0.77614257656988173}",
       "curveMode": 4,
       "curveTo": "{1, 0.22385742343011839}",
-      "hasCurveFrom": false,
+      "hasCurveFrom": true,
       "hasCurveTo": true,
       "point": "{1, 0.5}"
     }
