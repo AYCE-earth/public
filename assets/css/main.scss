@@ -37,7 +37,8 @@ $on-laptop:        800px;
     }
 }
 
-
+@import "scss/fontawesome.scss";
+@import "scss/solid.scss";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
