@@ -37,8 +37,6 @@ $on-laptop:        800px;
     }
 }
 
-@import "scss/fontawesome.scss";
-@import "scss/solid.scss";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
@@ -66,6 +64,7 @@ $on-laptop:        800px;
         "share",
         "owl.carousel",
         "owl.theme.default",
-        "custom"
-
+        "custom",
+        "scss/fontawesome.scss",
+        "scss/solid.scss"
 ;
