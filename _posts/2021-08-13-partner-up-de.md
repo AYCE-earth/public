@@ -5,17 +5,14 @@ author: Eaternity
 categories: 
     - partners
 layout: post
-lang: en
+lang: de
 ref: join
 ---
 
-## Join us as a partner
+## Schließ dich uns als Partner an
 
-If you are interested in helping us distribute the poster: contact us with the number of poster you want, the address we can send them too and a quick info who you want to provide it too.
+Wenn du daran interessiert bist, uns bei der Verteilung des Plakats zu helfen: kontaktiere uns mit der Anzahl der gewünschten Plakate, der Adresse, an die wir sie schicken können, und einer kurzen Info, an wen du sie weitergeben möchtest.
 
-The only thing we ask you, is to make your distribution public (website, social media, etc.) - so we can share and endorse your contribution.
-
-
-
+Das Einzige, worum wir dich bitten, ist, dass du deine Verteilung öffentlich machst (Website, soziale Medien, etc.) - damit wir deinen Beitrag teilen und unterstützen können.
 
 
