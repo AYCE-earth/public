@@ -10,20 +10,20 @@ title: All You Can Eat
 lang: de
 languages: ["en", "de"] 
 description: AYCE.earth wants you to know your foods carbon footprint.
-email: mklarmann@eaternity.ch # The contact form submission will be done to this email address.
+email: mklarmann@ayce.earth # The contact form submission will be done to this email address.
 phone: +41-77-44-981
 url: https://ayce.earth
-default-image: /assets/images/avocado-cover.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
+default-image: /assets/images/ayce-image.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
 
 # Author details shows up at the end of every article
 author:
-  name: Eaternity
-  en: "Eaternity is a group of people that wants a sustainable food future to happen faster."
-  de: "Eaternity ist eine Gruppe von Menschen, die sich dafür einsetzt, dass eine nachhaltige Lebensmittelzukunft schneller passiert."
-  image: eaternity-image.jpg # Choose a 200x200px image and place it inside /images directory.
-  facebook: https://facebook.com/eaternity
-  twitter: http://twitter.com/eaternity
-  linkedin: http://linkedin.com/company/eaternity-ag
+  name: AYCE
+  en: "AYCE is a group of people that wants a sustainable food future to happen faster."
+  de: "AYCE ist eine Gruppe von Menschen, die sich dafür einsetzt, dass eine nachhaltige Lebensmittelzukunft schneller passiert."
+  image: ayce-image.png # Choose a 200x200px image and place it inside /images directory.
+  facebook: https://facebook.com/ayce.earth
+  twitter: http://twitter.com/ayce_earth
+  linkedin: http://linkedin.com/company/ayce-earth
 
 # Kramdown is supported by Github
 markdown: kramdown
