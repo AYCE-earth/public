@@ -44,6 +44,11 @@ h4 {
   color: var(--gray-light);
 }
 
+i.fa,
+i.fas {
+  font-weight: 900;
+}
+
 /* Layout */
 .sr-root {
   display: flex;
