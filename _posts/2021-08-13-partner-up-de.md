@@ -6,9 +6,8 @@ categories:
     - partners
 layout: post
 lang: en
-ref: partner
+ref: join
 ---
-
 
 ## Join us as a partner
 

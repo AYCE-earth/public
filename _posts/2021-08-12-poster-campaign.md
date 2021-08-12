@@ -6,7 +6,7 @@ categories:
     - partners
 layout: post
 lang: en
-ref: wmi
+ref: poster
 ---
 
 

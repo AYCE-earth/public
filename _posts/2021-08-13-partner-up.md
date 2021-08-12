@@ -6,7 +6,7 @@ categories:
     - partners
 layout: post
 lang: de
-ref: wmi
+ref: join
 ---
 
 ## Schließ dich uns als Partner an
