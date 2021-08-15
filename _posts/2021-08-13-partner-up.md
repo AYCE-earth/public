@@ -15,7 +15,13 @@ If you are interested in helping us distribute the poster: contact us with the n
 
 The only thing we ask you, is to make your distribution public (website, social media, etc.) - so we can share and endorse your contribution.
 
+You will be allowed to distribute the poster freely starting with the 21.September 2021. That is the date when we are all going to release it to the public.
 
 
+{% for item in site.data.partners %}
+<div class="item">
+    <img height="100" width="100%" src="{{item.image}}" alt="{{item.name}}" title="{{item.name}}">
+</div>
+{% endfor %}
 
 
