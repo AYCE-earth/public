@@ -18,10 +18,16 @@ The only thing we ask you, is to make your distribution public (website, social 
 You will be allowed to distribute the poster freely starting with the 21.September 2021. That is the date when we are all going to release it to the public.
 
 
-{% for item in site.data.partners %}
-<div class="item">
-    <img height="100" width="100%" src="{{item.image}}" alt="{{item.name}}" title="{{item.name}}">
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            {% for item in site.data.partners %}
+            <div class="item">
+                <img height="100" width="100%" src="{{item.image}}" alt="{{item.name}}" title="{{item.name}}">
+            </div>
+            {% endfor %}
+        </div>
+    </div>
 </div>
-{% endfor %}
 
 
