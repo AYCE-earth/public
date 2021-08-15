@@ -18,8 +18,15 @@ Das Einzige, worum wir dich bitten, ist, dass du deine Verteilung öffentlich ma
 Sie dürfen das Poster ab dem 21. September 2021 frei verteilen. Das ist das Datum, an dem wir es für die Öffentlichkeit freigeben werden.
 
 
-{% for item in site.data.partners %}
-<div class="item">
-    <img height="100" width="100%" src="{{item.image}}" alt="{{item.name}}" title="{{item.name}}">
+<div class="container">
+    <div class="row">
+        {% for item in site.data.partners %}
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+            <div class="item">
+                <img height="100" width="100%" src="{{item.image}}" alt="{{item.name}}" title="{{item.name}}">
+            </div>
+        </div>
+        {% endfor %}
+    </div>
 </div>
-{% endfor %}
+

@@ -20,13 +20,13 @@ You will be allowed to distribute the poster freely starting with the 21.Septemb
 
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
-            {% for item in site.data.partners %}
+        {% for item in site.data.partners %}
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
             <div class="item">
                 <img height="100" width="100%" src="{{item.image}}" alt="{{item.name}}" title="{{item.name}}">
             </div>
-            {% endfor %}
         </div>
+        {% endfor %}
     </div>
 </div>
 
