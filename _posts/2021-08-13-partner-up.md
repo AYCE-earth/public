@@ -18,6 +18,8 @@ The only thing we ask you, is to make your distribution public (website, social 
 You will be allowed to distribute the poster freely starting with the 21.September 2021. That is the date when we are all going to release it to the public.
 
 
+<small>We welcome all partners to help us distributing the poster (<a href="/blog/poster-campaign/">see here</a>). If you are a fast decision maker, you can tell us to send you a 100 posters right away <a href="/purchase/">here</a>.</small>
+
 <div class="container">
     <div class="row">
         {% for item in site.data.partners %}

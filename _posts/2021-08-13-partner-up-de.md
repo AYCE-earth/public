@@ -17,6 +17,8 @@ Das Einzige, worum wir dich bitten, ist, dass du deine Verteilung öffentlich ma
 
 Sie dürfen das Poster ab dem 21. September 2021 frei verteilen. Das ist das Datum, an dem wir es für die Öffentlichkeit freigeben werden.
 
+<small>Wir freuen uns über alle Partner, die uns bei der Verteilung des Posters helfen (<a href="/blog/poster-campaign-de/">siehe hier</a>). Wenn Sie ein schneller Entscheider sind, können Sie uns <a href="/de/purchase/">hier</a> mitteilen, dass wir Ihnen sofort 100 Plakate schicken sollen.</small>
+
 
 <div class="container">
     <div class="row">

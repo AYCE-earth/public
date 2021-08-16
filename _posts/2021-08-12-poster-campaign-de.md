@@ -32,5 +32,5 @@ Auf unserem Poster sind Grundnahrungsmittel anhand ihres CO₂-Fussabdrucks in B
 Im weissen Bereich essen wir besser, im orangen schlechter als der Durchschnitt. Lebensmittel im roten Bereich sind mindestens doppelt so schlecht als unsere durchschnittliche Ernährung. Von der Mitte des Kreises bis zum äussersten Rand werden die CO₂-Werte exponentiell grösser.
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PkSjDfKkrgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
