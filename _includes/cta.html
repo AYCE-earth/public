@@ -18,15 +18,11 @@
 			</div>
 			<div class="col-md-2 rev"><a href="{% if page.lang != 'en'%}{{page.lang}}/{% endif%}contact/" class="btn btn-danger btn-lg btn-block">{{site.data.i18n[page.lang].join}}</a></div>
 		</div>
-	</div>
-</section>
-
-
-
-<div class="row">
+	
+	<div class="row">
 		<div class="col-md-10 rev">
 				<p>{{site.data.i18n[page.lang].join_text_social}}</p>
-			</div>
+		</div>
 		<div class="col-md-3">
 			<img class="author-image" src="{{site.baseurl}}/assets/images/{{site.author.image}}" alt="{{site.author.name}}">
 		</div>
@@ -53,3 +49,7 @@
 			</ul>
 		</div>
 	</div>
+</section>
+
+
+
