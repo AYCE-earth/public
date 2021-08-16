@@ -21,15 +21,10 @@
 	
 	<div class="row">
 		<div class="col-md-10 rev">
-				<p>{{site.data.i18n[page.lang].join_text_social}}</p>
-		</div>
-		<div class="col-md-3">
-			<img class="author-image" src="{{site.baseurl}}/assets/images/{{site.author.image}}" alt="{{site.author.name}}">
+				<h5>{{site.data.i18n[page.lang].join_text_social}}</h5>
 		</div>
 		<div class="col-md-9">
-			<h5>{{site.author.name }}</h5>
-			<p>{{site.author[page.lang]}}</p>
-			<ul>
+			<ul style="display:block">
 				{% if site.author.facebook %}
 				<li><a target="_blank" href="{{site.author.facebook}}"><i class="fab fa-facebook-f" aria-hidden="true"></i></a></li>
 				{% endif %}
