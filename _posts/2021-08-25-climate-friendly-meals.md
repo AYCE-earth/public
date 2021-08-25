@@ -1,97 +1,95 @@
 ---
-title: Klimafreundliche Küche
-image: /assets/images/partner.png
+title: Climate-Friendly Meals
+image: /assets/images/blog/2012-09-15-Gemueselasagne.jpg
 author: Eaternity
 categories:
-    - partners
 layout: post
-lang: de
-ref: join
+lang: en
+ref: recipes
 ---
 
-## Hi, wir laden dich ein mit uns klimafreundlich zu kochen!
+## Hi, we invite you to cook climate friendly with us!
 
-Unsere Mitgründerin Judith kocht am liebsten Mangold Lasagne. Von April - September ist das ein saisonales Gericht, das super aussieht, schmeckt und leicht gelingt.
+Our co-founder Judith loves to cook chard lasagna. From April - September, this is a seasonal dish that looks great, tastes great, and is easy to make.
 
-###Mangold-Haselnuss Lasagne	ca. 430 gr. CO2-äq pro Person
-Zutaten für 4 Personen, April - September
+### Chard-hazelnut lasagna approx. 430 gr. CO2 eq. per person
+Ingredients for 4 people, April - September
 
-- __12 Lasagneblätter__
-- 600 gr. Rippenmangold
-- 70 gr. Sellerie
-- 200 gr. Karotten
-- 1 Zwiebel
-- 1 Knoblauch
-- 100 gr. Haselnusse
-- 200 gr. Tofu
-- Salz
-- Pfeffer
-- 2 EL Rapsöl
+- __12 lasagne sheets__
+- 600 gr. ribbed chard
+- 70 gr. celery
+- 200 gr. carrots
+- 1 onion
+- 1 garlic
+- 100 gr. Hazelnut
+- 200 gr. tofu
+- salt
+- pepper
+- 2 tablespoons canola oil
 
-- __Bechamelsauce__
-- 3 EL Mandelmuss
-- 3 EL Weissmehl
-- 600 ml. Milch
-- Weisswein
-- Salz
-- Pfeffer
-- Muskat
+- __bechamel sauce__
+- 3 tbsp almond meal
+- 3 tbsp. white flour
+- 600 ml. Milk
+- white wine
+- salt
+- Pepper
+- nutmeg
 
-Die Lasagnablätter in lauwwarmes Wasser vorweichen. Die Stangen und die Blätter vom Rippenmangold trennen. Beide in kleinen Stücken schneiden. Die Stangen in salziges Wasser ca. 3 Minuten kochen, danach die Blätter zufügen und alles zusammen noch 2 Minuten weiterkochen.  
-Hacke den Zwiebel, das Knoblauch und die Karotten. Erhitze das Öl in einer Pfanne und brate alles ca. 5 Minuten an. Füge das blanchierte Mangold zu und dünste das kurz mit. Würze mit Salz, Pfeffer und Zitronensaft. Füge am Ende die Hälfte der Haselnüssen zu.
+Pre-soak the lasagna sheets in lukewarm water. Separate the stems and the leaves from the ribbed chard. Cut both in small pieces. Boil the stalks in salty water for about 3 minutes, then add the leaves and boil everything together for another 2 minutes.  
+Chop the onion, garlic and carrots. Heat the oil in a pan and fry everything for about 5 minutes. Add the blanched chard and sauté briefly. Season with salt, pepper and lemon juice. Add half of the hazelnuts at the end.
 
-Heize den Ofen auf 220 Grad vor.
+Preheat the oven to 220 degrees.
 
-Mische den Mandelmuss mit dem Milch und erhitze dies. Füge danach das Mehl zu (schon vorgelöst in ein wenig Wasser). Füge so viel Mehl zu bis sich die Flüssigkeit ein wenig eindickt (es bleibt jedoch ziemlich flüssig, im Ofen wird es fester). Würze mit Weisswein, Salz, Pfeffer und Muskat.
+Mix the almond paste with the milk and heat it. Then add the flour (already pre-dissolved in a little water). Add flour until the liquid thickens a little (it remains quite liquid, it will become more solid in the oven). Season with white wine, salt, pepper and nutmeg.
 
-Hacke den Tofu und mische dies mit der anderen Hälfte der gemahlenen Haselnusse und den Sellerie. Würze mit Salz und Pfeffer.
+Chop the tofu and mix this with the other half of the ground hazelnuts and the celery. Season with salt and pepper.
 
-Tue jetzt alle Zutaten in einem Ofenschussel. Fänge an mit einer Lage Lasagneblätter, danach eine Lage Gemüse und danach Bechamelsauce bis alles verbraucht ist. Streue A
-auf der unterste Lage Lasagneblätter noch ein wenig gemahlenen Haselnusse. Die oberste Lage sollte Bechamelsauce sein. Streue ganz oben darauf die Haselnuss-Tofu-Mischung. Gare alles in ca. 30 Min. im Ofen gar.
+Now put all the ingredients in an oven dish. Start with a layer of lasagna sheets, then a layer of vegetables and then béchamel sauce until everything is used up. Sprinkle on the bottom layer of lasagna sheets a little ground hazelnut. The top layer should be béchamel sauce. Sprinkle the hazelnut and tofu mixture on top. Cook everything in the oven for about 30 minutes.
 
-Lecker mit frischen Karottensalat oder Karotten einfach so.  Wir wünschen einen guten Appetit!
+Delicious with fresh carrot salad or carrots just like that.  We wish you a good appetite!
 
 
-Besonders für kalte Tage empfiehlt dir unser Mitgründer Manuel das Kartoffelgemüse Curry mit Linsen.  Du kannst das Gemüse selbstverständlich saisonal und nach deinem Geschmack anpassen.
+Especially for cold days our co-founder Manuel recommends the potato vegetable curry with lentils.  You can of course adapt the vegetables seasonally and according to your taste.
 
-###Gemüse-Kartoffelcurry mit Linsen ca. 275 gr. CO2-äq pro Person
-Zutaten für 4 Personen, je nach Gemüse das ganze Jahr saisonal
+### Vegetable-potato curry with lentils approx. 275 gr. CO2-eq per person
+Ingredients for 4 persons, depending on the vegetables all year seasonal
 
-- 1 kg Kartoffeln
-- ca. 600-700 gr. Saisonsgemüse nach Wahl (Krautstiel, Pilze, Karotten, Lauch, Sellerie etc.)
-- Zum Beispiel
-- 300 gr. Karotten
-- 100 gr. Lauch
-- 300 gr. Krautstiel
-- 1 Zwiebel
-- 2 Knoblauchzehen
-- 2 EL Öl (neutrales Geschmack)
-- 60 gr. Erdnüsse
-- 200 ml Kokosnussmilch
-- 200 ml Joghurt
-- 1 EL Tomatenmark
-- 1.5 EL frische Ingwer
-- 2 TL Kurkuma
-- 1 TL Cayennepfeffer
-- 1 TL Kümmel
-- 1 EL Garam Massala oder Curry
-- Salz
-- Zitronensaft
+- 1 kg potatoes
+- approx. 600-700 gr. seasonal vegetables of your choice (cabbage stalks, mushrooms, carrots, leeks, celery, etc.)
+- For example
+- 300 gr. carrots
+- 100 gr. leek
+- 300 gr. cabbage stalk
+- 1 onion
+- 2 cloves of garlic
+- 2 tbsp. oil (neutral flavor)
+- 60 gr. peanuts
+- 200 ml coconut milk
+- 200 ml yogurt
+- 1 tbsp tomato paste
+- 1.5 tbsp fresh ginger
+- 2 tsp turmeric
+- 1 tsp cayenne pepper
+- 1 tsp cumin
+- 1 tbsp garam massala or curry
+- salt
+- lemon juice
 
-- __Linsenbeilage__
-- 250 gr. rote Linsen
-- 1 TL frische Ingwer
-- Zimt
-- Salz
+- __Lentil garnish__
+- 250 gr. red lentils
+- 1 tsp. fresh ginger
+- cinnamon
+- salt
 
-Schäle die Kartoffeln, schneide sie in bissgrösse, eckige Stücken und koche sie in ca. 10 min bissgar (nicht zerkochen!). Hacke die Karotten, Lauch, Krautstiel fein. Erhitze das Öl in einem Wok oder Bratpfanne. Schneide der Zwiebel, die Ingwer und Knoblauch fein und dünste sie kurz an. Füge Kurkuma, Cayennepfeffer und Kümmel zu und dunste die ca. 2 Min kurz mit. Füge die Karotten, Lauch und Stiele zu und backe die ca. 5 Min. Füge als letztes die Blätter vom Krautstiel zu. Ruhre von Zeit zur Zeit. Füge das Kokosmilch und die Tomatenmarke zu. Lass alles weich werden.
-In der Zwischenzeit koche die Linsen zusammen mit einem Teelöffel frische Ingwer mit der zweifache-Wassermenge bis sie gar sind. Würze die Linsen danach mit ein wenig Zimt, ein wenig Zitronensaft und Salz. Die Linsen serviert man als Beilage zum Curry.
+Peel the potatoes, cut them into bite size square pieces and boil them in about 10 min until al dente (do not overcook!). Finely chop the carrots, leek, cabbage stalk. Heat the oil in a wok or frying pan. Finely chop the onion, ginger and garlic and sauté them briefly. Add turmeric, cayenne pepper and cumin and sauté for about 2 minutes. Add the carrots, leeks and stems and bake for about 5 min. Add the cabbage leaves last. Rest from time to time. Add the coconut milk and the tomato brand. Let everything soften.
+In the meantime, cook the lentils together with a teaspoon of fresh ginger with twice the amount of water until they are cooked. Then season the lentils with a little cinnamon, a little lemon juice and salt. Serve the lentils as a side dish with the curry.
 
-Wenn die Gemüse bissgar sind, füge die Kartoffeln zu und mische alles gut zusammen. Füge das Garam Massala oder Curry-Gewürz zu.
+When the vegetables are cooked to the bite, add the potatoes and mix everything well. Add the garam massala or curry spice.
 
-Röste kurz die Erdnusse. Mische der Joghurt mit Salz und Zitronensaft und serviere die Erdnüsse und der Joghurt separat als Beilage zum Gericht. Jeder kann dann nach belieben so viel nimmen wie der möchtet.
+Briefly roast the peanuts. Mix the yogurt with salt and lemon juice and serve the peanuts and yogurt separately as a side dish. Everyone can then take as much as they like.
 
-Schmecke das Gemüsecurry ab mit Salz, Zitronensaft und Curry-Gewürz und eventuell auch mit Cayennepfeffer.
+Season the vegetable curry with salt, lemon juice and curry spice and possibly also with cayenne pepper.
 
-Tipp: Eventuell kann man Naan-Brot oder Patati dazu servieren.
-Wir wünschen einen guten Appetit!
+Tip: You can serve naan bread or patati with it.
+We wish you a good appetite!
