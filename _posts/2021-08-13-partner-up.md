@@ -1,6 +1,6 @@
 ---
 title: Partner Up
-image: /assets/images/partner.png
+image: /assets/images/blog/partner.png
 author: Eaternity
 categories: 
     - partners
