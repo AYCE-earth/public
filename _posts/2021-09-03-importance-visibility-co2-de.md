@@ -1,6 +1,6 @@
 ---
 title: Wie schmeckt eine gute Zukunft?
-image: /assets/images/blog/eaternity-all-you-can-eat-surfer-sichtbarmachung-CO2.png
+image: /assets/images/blog/eaternity-all-you-can-eat-surfer-sichtbarmachung-CO2.jpg
 author: Eaternity
 categories:
 layout: post
@@ -36,8 +36,11 @@ So kann die Foodbranche das Thema Klimawandel für alle leichter gestalten. Mit 
  
 ________
  
+
 **Balázs Tarsoly** studierte Kommunikations-Design in Wiesbaden und Los Angeles und arbeitete als Designer in London. Neben seiner Begeisterung für Ernährung, Storytelling und Design bringt er 15 Jahre Erfahrung in der Markenentwicklung im Foodbereich mit. Er ist Gründer und Geschäftsführer der auf Food und Nachhaltigkeit spezialisierten Kreativ-Agentur Branding Cuisine. Mit dieser ist er Veranstalter des WeltverbEsserer-Wettbewerbs für nachhaltige Food und Gastro-Konzepte. Balázs ist Autor des Buches „CO₂lution – Gemeinsam. Klima wandeln. Jetzt.“
+
 [www.brandingcuisine.com](www.brandingcuisine.com)
+
 [www.CO₂lution.com](www.CO2lution.com)
  
 (1) Erläuterungen mit Quellen in Tarsoly, Balázs – CO₂lution, „Die Ökonomie des Wandels“, Berlin, 2021
