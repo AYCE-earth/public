@@ -1,6 +1,6 @@
 ---
 title: Wie schmeckt eine gute Zukunft?
-image: /assets/images/blog/eaternity-all-you-can-eat-surfer-sichtbarmachung-CO2.jpg
+image: /assets/images/blog/eaternity-all-you-can-eat-surfer-sichtbarmachung-co2.jpg
 author: Eaternity
 categories:
 layout: post
@@ -26,8 +26,9 @@ Welche CO₂-eq-Wirkung ein Produkt hat, sollte daher auf jeder Verpackung sicht
 ## All you can eat for climate
 Wie groß eine Welle ist, können wir auf einem Foto dann beurteilen, wenn eine Person mit auf dem Bild ist. Die Größe der Surfer\*in hilft uns dabei, die Größe der Welle zu definieren: Wir sehen sofort, ob jemand in Strandnähe plätschert oder eine 15-Meter-Welle reitet. Das Verhältnis zwischen Mensch und Welle macht das Bild begreifbar. 
 
-Ähnlich verhält es sich mit CO₂-eq-Werten auf Produkten. Die meisten Menschen wissen nicht, ob 100 g CO₂-eq viel sind oder wenig, gut oder schlecht fürs Klima. Aber sie verstehen das Verhältnis zu anderen Produkten, das Verhältnis zum Durchschnitt. Die Information “besser als der Durchschnitt / schlechter als der Durchschnitt” hilft bei einer ersten Einordnung. Daher könnte sie ein Merkmal von CO₂-eq-Labels werden.  
-Als wir gemeinsam mit Eaternity die Labels “All You Can Eat for Climate” entwickelt haben, stand die intuitive Verständlichkeit im Vordergrund: Wir haben gelernt, bei Rot zu halten und bei Grün zu gehen. Wir haben gelernt, dass mehr Sterne gut und weniger Sterne schlecht sind. Und wir haben gelernt, dass man sich mit Feuer die Finger verbrennt. Die einfachen Aussagen “gut fürs Klima / schlecht fürs Klima” lassen Produkte kognitiv einordnen und nehmen Bezug zum Durchschnitt. Die weitere Unterscheidung in “sehr gut fürs Klima / sehr schlecht fürs Klima” sorgt bei Konsumierenden und Herstellern für eine klärende Differenzierung. Damit sich die Labels auf farbigen Verpackungen gut vom Hintergrund abheben, besitzen sie eine weiße Umrandung.
+Ähnlich verhält es sich mit CO₂-eq-Werten auf Produkten. Die meisten Menschen wissen nicht, ob 100 g CO₂-eq viel sind oder wenig, gut oder schlecht fürs Klima. Aber sie verstehen das Verhältnis zu anderen Produkten, das Verhältnis zum Durchschnitt. Die Information “besser als der Durchschnitt / schlechter als der Durchschnitt” hilft bei einer ersten Einordnung. Daher könnte sie ein Merkmal von CO₂-eq-Labels werden. 
+
+Als wir gemeinsam mit Eaternity die Labels “All You Can Eat for climate” entwickelt haben, stand die intuitive Verständlichkeit im Vordergrund: Wir haben gelernt, bei Rot zu halten und bei Grün zu gehen. Wir haben gelernt, dass mehr Sterne gut und weniger Sterne schlecht sind. Und wir haben gelernt, dass man sich mit Feuer die Finger verbrennt. Die einfachen Aussagen “gut fürs Klima / schlecht fürs Klima” lassen Produkte kognitiv einordnen und nehmen Bezug zum Durchschnitt. Die weitere Unterscheidung in “sehr gut fürs Klima / sehr schlecht fürs Klima” sorgt bei Konsumierenden und Herstellern für eine klärende Differenzierung. Damit sich die Labels auf farbigen Verpackungen gut vom Hintergrund abheben, besitzen sie eine weiße Umrandung.
 
 ## Ist klimafreundlich lecker?
 Im Bereich der Ernährung muss CO₂-Reduktion keinen Verzicht bedeuten. Vielmehr kann sich die bunte (instagrammable), reichhaltige, nährstoffreiche Vielfalt einer pflanzenbasierten bzw. pflanzenbetonten Ernährung offenbaren. Die Wachstumszahlen aus diesem Bereich der Wirtschaft sprechen jedenfalls im Hinblick auf ein sich änderndes, ökologischeres Konsumverhalten eine klare Sprache. 

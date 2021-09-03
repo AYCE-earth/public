@@ -1,6 +1,6 @@
 ---
 title: How does a climate-friendly future taste like?
-image: /assets/images/blog/eaternity-all-you-can-eat-surfer-sichtbarmachung-CO2.jpg
+image: /assets/images/blog/eaternity-all-you-can-eat-surfer-sichtbarmachung-co2.jpg
 author: Eaternity
 categories:
 layout: post
@@ -17,7 +17,7 @@ Most people understand that climate change has a negative impact on the quality 
 Renewable energy, planting trees, and sucking CO₂ out of the air are the most common solutions in the public discourse. In view of our limited time window, these solutions take effect too late. The switch to renewable energies is necessary, but will take at least until 2050. Similarly, planting trees will take decades to take effect. Similarly, sucking CO₂ out of the air is still extremely expensive, implementation is slow, and there is no guarantee that CO₂ will not ultimately escape.
  
 ## The role of nutrition
-This is where our diet comes into play: the food sector accounts for 30 percent of all greenhouse gases worldwide, 70 percent of which are caused by the production of animal products. And while over 80 percent of the world's arable land is used to produce animal products, this land produces only 18 percent of the world's calories. If the world were to eat a climate-friendly diet, we could reduce CO₂ eq levels in the air by nearly 20 percent, extending the time we have to develop solutions.(1)
+This is where our diet comes into play: the food sector accounts for 30 percent of all greenhouse gases worldwide, 70 percent of which are caused by the production of animal products. And while over 80 percent of the world's arable land is used to produce animal products, this land produces only 18 percent of the world's calories. If the world were to eat a climate-friendly diet, we could reduce CO₂-eq levels in the air by nearly 20 percent, extending the time we have to develop solutions.(1)
  
 ## The power of information
 When shopping for fruits and vegetables, those who want to purchase a product that is not sprayed and supports the preservation of ecological diversity can look to organic labels for guidance. Simple labeling makes it possible to make an ecological decision in a fraction of a second. For supply and demand to have a real impact on the climate, it is necessary for consumers to understand, without effort on the product, whether they are about to choose the climate-friendly option or not. 
@@ -29,6 +29,7 @@ The CO₂-eq impact of a product should therefore be visible on all packaging. T
 We can judge how big a wave is when a person is in the picture. The size of the surfer helps us define the size of the wave: We can immediately see if someone is splashing near the beach or riding a 15-meter wave. The relationship between the person and the wave makes the image comprehensible. 
 
 It is similar with CO₂ eq values on products. Most people don't know whether 100 g CO₂-eq is a lot or a little, good or bad for the climate. But they understand the relation to other products, the relation to the average. The information "better than average / worse than average" helps with a first classification. Therefore, it could become a feature of CO₂-eq labels.  
+
 When we developed the "All You Can Eat for Climate" labels together with Eaternity, the focus was on intuitive comprehensibility: we learned to stop at red and go at green. We learned that more stars are good and fewer stars are bad. And we learned that fire burns your fingers. The simple statements "good for the climate / bad for the climate" allow products to be cognitively classified and relate to the average. The further differentiation into "very good for the climate / very bad for the climate" provides a clarifying differentiation for consumers and manufacturers. To ensure that the labels on colored packaging stand out well against the background, they have a white border.
  
 ## Is climate-friendly tasty?
