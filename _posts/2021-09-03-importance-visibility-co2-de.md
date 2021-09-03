@@ -36,6 +36,8 @@ So kann die Foodbranche das Thema Klimawandel für alle leichter gestalten. Mit 
  
  
 ________
+________
+________
  
 
 **Balázs Tarsoly** studierte Kommunikations-Design in Wiesbaden und Los Angeles und arbeitete als Designer in London. Neben seiner Begeisterung für Ernährung, Storytelling und Design bringt er 15 Jahre Erfahrung in der Markenentwicklung im Foodbereich mit. Er ist Gründer und Geschäftsführer der auf Food und Nachhaltigkeit spezialisierten Kreativ-Agentur Branding Cuisine. Mit dieser ist er Veranstalter des WeltverbEsserer-Wettbewerbs für nachhaltige Food und Gastro-Konzepte. Balázs ist Autor des Buches „CO₂lution – Gemeinsam. Klima wandeln. Jetzt.“

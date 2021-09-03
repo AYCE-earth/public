@@ -38,6 +38,8 @@ In this way, the food industry can make the issue of climate change easier for e
  
  
 ________
+________
+________
 
  
 **Balázs Tarsoly** studied communication design in Wiesbaden and Los Angeles and worked as a designer in London. In addition to his enthusiasm for nutrition, storytelling and design, he brings 15 years of experience in brand development in the food sector. He is the founder and managing director of Branding Cuisine, a creative agency specializing in food and sustainability. With them, he is the organizer of the World VerbEsserer competition for sustainable food and gastro concepts. Balázs is the author of the book "CO₂lution - Together. Transforming Climate. Now."
