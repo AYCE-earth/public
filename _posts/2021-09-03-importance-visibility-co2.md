@@ -30,7 +30,7 @@ We can judge how big a wave is when a person is in the picture. The size of the 
 
 It is similar with CO₂ eq values on products. Most people don't know whether 100 g CO₂-eq is a lot or a little, good or bad for the climate. But they understand the relation to other products, the relation to the average. The information "better than average / worse than average" helps with a first classification. Therefore, it could become a feature of CO₂-eq labels.  
 
-When we developed the "All You Can Eat for Climate" labels together with Eaternity, the focus was on intuitive comprehensibility: we learned to stop at red and go at green. We learned that more stars are good and fewer stars are bad. And we learned that fire burns your fingers. The simple statements "good for the climate / bad for the climate" allow products to be cognitively classified and relate to the average. The further differentiation into "very good for the climate / very bad for the climate" provides a clarifying differentiation for consumers and manufacturers. To ensure that the labels on colored packaging stand out well against the background, they have a white border.
+When we developed the "All You Can Eat for climate" labels together with Eaternity, the focus was on intuitive comprehensibility: we learned to stop at red and go at green. We learned that more stars are good and fewer stars are bad. And we learned that fire burns your fingers. The simple statements "good for the climate / bad for the climate" allow products to be cognitively classified and relate to the average. The further differentiation into "very good for the climate / very bad for the climate" provides a clarifying differentiation for consumers and manufacturers. To ensure that the labels on colored packaging stand out well against the background, they have a white border.
  
 ## Is climate-friendly tasty?
 In the area of nutrition, CO₂ reduction does not have to mean doing without. Rather, the colorful (Instagrammable), rich, nutrient-dense variety of a plant-based or plant-emphasized diet can reveal itself. In any case, the growth figures from this sector of the economy speak volumes in terms of changing, more ecological consumer behavior. 
@@ -42,9 +42,9 @@ ________
  
 **Balázs Tarsoly** studied communication design in Wiesbaden and Los Angeles and worked as a designer in London. In addition to his enthusiasm for nutrition, storytelling and design, he brings 15 years of experience in brand development in the food sector. He is the founder and managing director of Branding Cuisine, a creative agency specializing in food and sustainability. With them, he is the organizer of the World VerbEsserer competition for sustainable food and gastro concepts. Balázs is the author of the book "CO₂lution - Together. Transforming Climate. Now."
 
-[www.brandingcuisine.com](www.brandingcuisine.com)
+[www.brandingcuisine.com](https://www.brandingcuisine.com)
 
-[www.CO₂lution.com](www.CO2lution.com)
+[www.CO₂lution.com](https://www.CO2lution.com)
 
 
 (1) Explanations with sources in Tarsoly, Balázs - CO₂lution, "The Economics of Change", Berlin, 2021.

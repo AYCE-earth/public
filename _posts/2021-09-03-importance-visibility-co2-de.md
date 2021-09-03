@@ -40,9 +40,9 @@ ________
 
 **Balázs Tarsoly** studierte Kommunikations-Design in Wiesbaden und Los Angeles und arbeitete als Designer in London. Neben seiner Begeisterung für Ernährung, Storytelling und Design bringt er 15 Jahre Erfahrung in der Markenentwicklung im Foodbereich mit. Er ist Gründer und Geschäftsführer der auf Food und Nachhaltigkeit spezialisierten Kreativ-Agentur Branding Cuisine. Mit dieser ist er Veranstalter des WeltverbEsserer-Wettbewerbs für nachhaltige Food und Gastro-Konzepte. Balázs ist Autor des Buches „CO₂lution – Gemeinsam. Klima wandeln. Jetzt.“
 
-[www.brandingcuisine.com](www.brandingcuisine.com)
+[www.brandingcuisine.com](https://www.brandingcuisine.com)
 
-[www.CO₂lution.com](www.CO2lution.com)
+[www.CO₂lution.com](https://www.CO2lution.com)
  
 (1) Erläuterungen mit Quellen in Tarsoly, Balázs – CO₂lution, „Die Ökonomie des Wandels“, Berlin, 2021
 
