@@ -35,10 +35,11 @@ Im Bereich der Ernährung muss CO₂-Reduktion keinen Verzicht bedeuten. Vielmeh
 So kann die Foodbranche das Thema Klimawandel für alle leichter gestalten. Mit attraktiven Angeboten und einer eindeutigen Orientierung in Bezug auf die Klimafreundlichkeit direkt am Produkt. Die Ernährungswirtschaft kann jetzt ihre historische Chance ergreifen, zum Schlüssel-Player der ökologischen Wende zu werden. Das schmeckt nach guter Zukunft!
  
  
-________
-________
-________
  
+<br />
+<br />
+
+________
 
 **Balázs Tarsoly** studierte Kommunikations-Design in Wiesbaden und Los Angeles und arbeitete als Designer in London. Neben seiner Begeisterung für Ernährung, Storytelling und Design bringt er 15 Jahre Erfahrung in der Markenentwicklung im Foodbereich mit. Er ist Gründer und Geschäftsführer der auf Food und Nachhaltigkeit spezialisierten Kreativ-Agentur Branding Cuisine. Mit dieser ist er Veranstalter des WeltverbEsserer-Wettbewerbs für nachhaltige Food und Gastro-Konzepte. Balázs ist Autor des Buches „CO₂lution – Gemeinsam. Klima wandeln. Jetzt.“
 

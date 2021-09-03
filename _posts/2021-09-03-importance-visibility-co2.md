@@ -1,5 +1,5 @@
 ---
-title: How does a climate-friendly future taste like?
+title: How does a climate-friendly future taste?
 image: /assets/images/blog/eaternity-all-you-can-eat-surfer-sichtbarmachung-co2.jpg
 author: Eaternity
 categories:
@@ -36,9 +36,9 @@ When we developed the "All You Can Eat for climate" labels together with Eaterni
 In the area of nutrition, CO₂ reduction does not have to mean doing without. Rather, the colorful (Instagrammable), rich, nutrient-dense variety of a plant-based or plant-emphasized diet can reveal itself. In any case, the growth figures from this sector of the economy speak volumes in terms of changing, more ecological consumer behavior. 
 In this way, the food industry can make the issue of climate change easier for everyone. With attractive offers and a clear orientation in terms of climate friendliness directly on the product. The food industry can now seize its historic opportunity to become a key player in the ecological turnaround. That tastes like a good future!
  
- 
-________
-________
+<br />
+<br />
+
 ________
 
  
