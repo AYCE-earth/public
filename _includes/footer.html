@@ -25,22 +25,21 @@
         {% assign items_grouped = site.posts | group_by: 'ref'%}
         {% for group in items_grouped%}
             {% if group.items.size> 1%}
-                {% assign post = group.items | where: "lang", site.lang | first%}
+                {% assign post = group.items | where: "lang", page.lang | first%}
             {% else%}
                 {% assign post = group.items [0]%}
             {% endif%}
-        <li><a href="{{post.url}}">{{post.title}}</a>
-          {% assign versions = site.posts | where: "ref", page.ref | sort: 'lang'%}
-              {% if versions.size> 1%}
-                  {% for version in versions%}
-                      {% if version.lang == page.lang%}
-                         <a href="{{ version.url }}">{{site.data.i18n [version.lang]}} </a>
-                      {% endif%}
-                  {% endfor%}
-              {% endif%}
-        {% endfor %}
-
-        </li>          
+              <li><a href="{{post.url}}">{{post.title}}</a>
+                {% assign versions = site.posts | where: "ref", page.ref | sort: 'lang'%}
+                    {% if versions.size> 1%}
+                        {% for version in versions%}
+                            {% if version.lang == page.lang%}
+                               <a href="{{ version.url }}">{{site.data.i18n [version.lang]}} </a>
+                            {% endif%}
+                        {% endfor%}
+                    {% endif%}
+              {% endfor %}
+              </li>          
 
       </div>
       <div class="col-md-3">
