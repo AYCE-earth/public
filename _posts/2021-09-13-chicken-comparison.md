@@ -99,16 +99,9 @@ ________
 
 [^12]: According to Optigal, there are cases of consumers\*eating chicken fed only certified feed from Europe. It is also possible that uncertified feed from Brazil was used. For more, see: https://optigal.ch/uploads/download/Optigal_Der_Weg_zum_guten_Poulet_01.pdf and Wolff et al, 2016, Life Cycle Assessment of Different Meat Products, Retrieved 23 Aug 2021 from https://www.agroscope.admin.ch/agroscope/de/home/publikationen/agroscope-online-magazin-jahresbericht/2016/2016-2/nachhaltigkeit-praxistauglich-bewerten/_jcr_content/par/columncontrols/items/0/column/externalcontent_1764026463.bitexternalcontent.exturl.pdf/aHR0cHM6Ly9pcmEuYWdyb3Njb3BlLmNoL2RlLUNIL0FqYXgvRW/luemVscHVibGlrYXRpb24vRG93bmxvYWQ_ZWluemVscHVibGlr/YXRpb25JZD0zNzEwMA==.pdf 
 
-[^13]: Every day in Brazil, the area of 4340 football fields is destroyed. Much of this can be attributed to soy production for animal feed. Again, some is fed to chicken. Here are two sources on this: 
+[^13]: Every day in Brazil, the area of 4340 football fields is destroyed. Much of this can be attributed to soy production for animal feed. Again, some is fed to chicken. Here are two sources on this: O.V. in SRF, 2020, Every day 4340 football fields of rainforest are cut down, Retrieved on 07/28/2021 from https://www.srf.ch/news/international/entwaldung-des-amazonas-pro-tag-werden-4340-fussballfelder-regenwald-abgeholzt and O.V., 2021, Soy for animal feed Negative impacts here and there, Oroverde the Tropical Forest Foundation, Retrieved 28.07.2021 athttps://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/soja-fuer-tierfutter
 
-O.V. in SRF, 2020, Every day 4340 football fields of rainforest are cut down, Retrieved on 07/28/2021 from https://www.srf.ch/news/international/entwaldung-des-amazonas-pro-tag-werden-4340-fussballfelder-regenwald-abgeholzt and
-
-O.V., 2021, Soy for animal feed Negative impacts here and there, Oroverde the Tropical Forest Foundation, Retrieved 28.07.2021 athttps://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/soja-fuer-tierfutter
-
-[^14]: Due to the continuously increasing demand for chicken meat, there are more and more large industrial fattening farms in Switzerland. The very high demand has consequences on the keeping conditions of the animals concerned. A reduction in the consumption of animal products is a basic prerequisite for improving the keeping conditions of the animals in the medium to long term and reducing suffering. Here are two interesting sources on factory farming:
-
-https://media.4-paws.org/8/c/d/d/8cddc6c9bded6c0b1f997d57460b23bd7f92ce60/VP-Bericht-Tierfreundliche-Gemeinschaftsverpflegung-Web-04-Dez.pdf and
-
+[^14]: Due to the continuously increasing demand for chicken meat, there are more and more large industrial fattening farms in Switzerland. The very high demand has consequences on the keeping conditions of the animals concerned. A reduction in the consumption of animal products is a basic prerequisite for improving the keeping conditions of the animals in the medium to long term and reducing suffering. Here are two interesting sources on factory farming: https://media.4-paws.org/8/c/d/d/8cddc6c9bded6c0b1f997d57460b23bd7f92ce60/VP-Bericht-Tierfreundliche-Gemeinschaftsverpflegung-Web-04-Dez.pdf and
 https://files.albert-schweitzer-stiftung.de/1/Masthuehner-Albert-Schweitzer-Stiftung-fuer-unsere-Mitwelt-05-Mai-2017.pdf 
 
 

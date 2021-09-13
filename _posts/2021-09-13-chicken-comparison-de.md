@@ -101,17 +101,9 @@ ________
 
 [^12]: Gemäss Angaben von Optigal gibt es Fälle, in welchen Konsumenten\*nnen Poulet essen, das nur mit zertifiziertem Futter aus Europa gefüttert wurde. Es ist ebenso möglich, dass unzertifiziertes Futter aus Brasilien verwendet wurde. Mehr findet ihr unter: https://optigal.ch/uploads/download/Optigal_Der_Weg_zum_guten_Poulet_01.pdf und Wolff et al., 2016, Ökobilanz verschiedener Fleischprodukte, Aufgerufen am 23.08.2021 unter  https://www.agroscope.admin.ch/agroscope/de/home/publikationen/agroscope-online-magazin-jahresbericht/2016/2016-2/nachhaltigkeit-praxistauglich-bewerten/_jcr_content/par/columncontrols/items/0/column/externalcontent_1764026463.bitexternalcontent.exturl.pdf/aHR0cHM6Ly9pcmEuYWdyb3Njb3BlLmNoL2RlLUNIL0FqYXgvRW/luemVscHVibGlrYXRpb24vRG93bmxvYWQ_ZWluemVscHVibGlr/YXRpb25JZD0zNzEwMA==.pdf 
 
-[^13]: Jeden Tag werden in Brasilien die Fläche von 4340 Fussballfelder vernichtet. Ein Grossteil davon kann der Sojaproduktion für Tierfutter zugeschrieben werden. Wiederum ein Teil wird Hühnchen verfüttert. Hier zwei Quellen dazu: 
+[^13]: Jeden Tag werden in Brasilien die Fläche von 4340 Fussballfelder vernichtet. Ein Grossteil davon kann der Sojaproduktion für Tierfutter zugeschrieben werden. Wiederum ein Teil wird Hühnchen verfüttert. Hier zwei Quellen dazu: O.V. in SRF, 2020, Pro Tag werden 4340 Fussballfelder Regenwald abgeholzt, Aufgerufen am 28.07.2021 unter https://www.srf.ch/news/international/entwaldung-des-amazonas-pro-tag-werden-4340-fussballfelder-regenwald-abgeholzt und O.V., 2021, Soja für Tierfutter Negative Auswirkungen hier und dort, Oroverde die Tropenwaldstiftung, Aufgerufen am 28.07.2021 unterhttps://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/soja-fuer-tierfutter
 
-O.V. in SRF, 2020, Pro Tag werden 4340 Fussballfelder Regenwald abgeholzt, Aufgerufen am 28.07.2021 unter https://www.srf.ch/news/international/entwaldung-des-amazonas-pro-tag-werden-4340-fussballfelder-regenwald-abgeholzt und
-
-O.V., 2021, Soja für Tierfutter Negative Auswirkungen hier und dort, Oroverde die Tropenwaldstiftung, Aufgerufen am 28.07.2021 unterhttps://www.regenwald-schuetzen.org/verbrauchertipps/soja-und-fleischkonsum/soja-fuer-tierfutter
-
-[^14]:  Durch die kontinuierlich steigenden Nachfrage nach Hühnchenfleisch gibt es in der Schweiz immer mehr grosse industrielle Mastbetriebe. Die sehr hohe Nachfrage hat Folgen auf die Haltungsbedingungen der betroffenen Tiere. Eine Reduzierung des Konsums tierischer Produkte ist eine Grundvoraussetzung dafür, dass die Haltungsbedingungen der Tiere mittel- bis langfristig verbessert werden können und Leiden reduziert werden kann. Hier zwei interessante Quellen zur Massentierhaltung:
-
-https://media.4-paws.org/8/c/d/d/8cddc6c9bded6c0b1f997d57460b23bd7f92ce60/VP-Bericht-Tierfreundliche-Gemeinschaftsverpflegung-Web-04-Dez.pdf und
-
-https://files.albert-schweitzer-stiftung.de/1/Masthuehner-Albert-Schweitzer-Stiftung-fuer-unsere-Mitwelt-05-Mai-2017.pdf 
+[^14]:  Durch die kontinuierlich steigenden Nachfrage nach Hühnchenfleisch gibt es in der Schweiz immer mehr grosse industrielle Mastbetriebe. Die sehr hohe Nachfrage hat Folgen auf die Haltungsbedingungen der betroffenen Tiere. Eine Reduzierung des Konsums tierischer Produkte ist eine Grundvoraussetzung dafür, dass die Haltungsbedingungen der Tiere mittel- bis langfristig verbessert werden können und Leiden reduziert werden kann. Hier zwei interessante Quellen zur Massentierhaltung: https://media.4-paws.org/8/c/d/d/8cddc6c9bded6c0b1f997d57460b23bd7f92ce60/VP-Bericht-Tierfreundliche-Gemeinschaftsverpflegung-Web-04-Dez.pdf undhttps://files.albert-schweitzer-stiftung.de/1/Masthuehner-Albert-Schweitzer-Stiftung-fuer-unsere-Mitwelt-05-Mai-2017.pdf 
 
 
 
