@@ -88,8 +88,7 @@ ________
 
 [^6]: Als Ausschlachtung wird das Verhältnis von Schlachtgewicht zu Lebendgewicht des Tieres vor der Schlachtung bezeichnet. Es variiert je nach Hühnerrasse, hier mehr dazu: Ingrid Simon und Josef Stegemann, 2007, Landwirtschaftszentrum Haus Düsse der Landwirtschaftskammer Nordrhein-Westfalen, "Hähnchenherkünfte im Vergleich 2007" Aufgerufen am 16.08.2021 unter https://www.landwirtschaftskammer.de/duesse/tierhaltung/gefluegel/versuche/masthaehnchen/2007_haehnchenherkuenfte.pdf 
 
-[^7]: O.V. in Infosperber, 2014, Unsere Poulets machen Afrikaner arm und krank, Aufgerufen am 28.07.2021 unter
- https://www.infosperber.ch/politik/welt/unsere-poulets-machen-afrikaner-arm-und-krank/
+[^7]: O.V. in Infosperber, 2014, Unsere Poulets machen Afrikaner arm und krank, Aufgerufen am 28.07.2021 unter https://www.infosperber.ch/politik/welt/unsere-poulets-machen-afrikaner-arm-und-krank/
 
 [^8]: Alexander Göbel in Deutschlandfunk, 2018, Ghana und das globale Huhn, Aufgerufen am 28.07.2021 unter https://www.deutschlandfunk.de/folgen-des-welthandels-ghana-und-das-globale-huhn.724.de.html?dram:article_id=433492
 

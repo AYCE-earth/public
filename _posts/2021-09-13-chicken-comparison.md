@@ -86,8 +86,7 @@ ________
 
 [^6]: Slaughter is the ratio of slaughter weight to live weight of the animal before slaughter. It varies by chicken breed, more here: Ingrid Simon and Josef Stegemann, 2007, Landwirtschaftszentrum Haus Düsse der Landwirtschaftskammer Nordrhein-Westfalen, "Hähnchenherkünfte im Vergleich 2007" Retrieved 08/16/2021 from https://www.landwirtschaftskammer.de/duesse/tierhaltung/gefluegel/versuche/masthaehnchen/2007_haehnchenherkuenfte.pdf 
 
-[^7]: O.V. in Infosperber, 2014, Our chicken makes Africans poor and sick, Retrieved 28.07.2021 from
- https://www.infosperber.ch/politik/welt/unsere-poulets-machen-afrikaner-arm-und-krank/
+[^7]: O.V. in Infosperber, 2014, Our chicken makes Africans poor and sick, Retrieved 28.07.2021 from https://www.infosperber.ch/politik/welt/unsere-poulets-machen-afrikaner-arm-und-krank/
 
 [^8]: Alexander Göbel in Deutschlandfunk, 2018, Ghana and the global chicken, Retrieved 28/07/2021 from https://www.deutschlandfunk.de/folgen-des-welthandels-ghana-und-das-globale-huhn.724.de.html?dram:article_id=433492
 
