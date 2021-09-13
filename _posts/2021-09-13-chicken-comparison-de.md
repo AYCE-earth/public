@@ -82,7 +82,7 @@ ________
 
 [^3]: Die Massentierhaltung und die Überzüchtung von Hühnern machen die Tiere anfälliger für Krankheiten. 
 
-[^4]: Robert Koch Institut, 2018, Neue Zahlen zu Krankheits­last und Todes­fällen durch antibiotikaresistente Erreger in Europa, Verfügbar unter https://www.rki.de/DE/Content/Infekt/Antibiotikaresistenz/Uebersichtsbeitraege/AMR_Europa.html
+[^4]: Robert Koch Institut, 2018, Neue Zahlen zu Krankheitslast und Todesfällen durch antibiotikaresistente Erreger in Europa, Verfügbar unter https://www.rki.de/DE/Content/Infekt/Antibiotikaresistenz/Uebersichtsbeitraege/AMR_Europa.html
 
 [^5]: WWF, 2014, Fleisch frisst Land, Verfügbar unter https://www.wwf.de/fileadmin/user_upload/WWF_Fleischkonsum_web.pdf
 
