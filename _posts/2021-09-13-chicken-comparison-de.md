@@ -19,21 +19,21 @@ Die Menge an Soja, die diesen Masthühnern weltweit gefüttert wird, deckt die F
 
 Interessant ist, die Tiere leben in der Natur 5-8 Jahre. In der Produktion bekommen  die kleinen Hähne[^2] 36 Tage. Die Hennen bleiben zirka 20 Monate dabei um fleissig Eier zu legen.
 
-Habt ihr auch schon gehört, dass Hähnchenbrust eben die perfekten Nährwerte hat um damit Muskeln aufbauen zu können? Paradoxerweise müssen auch die Hühner schnell an Masse zulegen. Deshalb werden sie mit Supplementen gefüttert. Und nicht nur mit Supplementen. In der Massentierhaltung[^3] würden sich Krankheiten rasend schnell übertragen, wenn nicht den Tieren auch regelmässig Antibiotika verabreicht wird. Dies trägt erheblich zur Antibiotikaresistenz bei. Es sterben in der EU jährlich 33’000 Personen, weil ihr Körper mit antibiotikaresistenten Erregern infiziert wurde. Auch die Natur kann die Antibiotika nicht mehr abbauen. 
+Habt ihr auch schon gehört, dass Hähnchenbrust eben die perfekten Nährwerte hat um damit Muskeln aufbauen zu können? Paradoxerweise müssen auch die Hühner schnell an Masse zulegen. Deshalb werden sie mit Supplementen gefüttert. Und nicht nur mit Supplementen. In der Massentierhaltung[^3] würden sich Krankheiten rasend schnell übertragen, wenn nicht den Tieren auch regelmässig Antibiotika verabreicht wird. Dies trägt erheblich zur Antibiotikaresistenz bei. Es sterben in der EU jährlich 33’000 Personen, weil ihr Körper mit antibiotikaresistenten Erregern infiziert wurde[^4]. Auch die Natur kann die Antibiotika nicht mehr abbauen. 
 
 Es ist fragwürdig, ob die Natur mit unserem heutigen Fleischkonsum im Gleichgewicht bleiben kann oder eines erreichbar ist. Das Mastfutter für Hühner (der Hauptanteil, bis zu 800 Gramm Sojaschrot pro Hühnchen) wird heute hauptsächlich in Südamerika angebaut. Dort werden, um Platz für den Anbau zu schaffen, immer mehr Wälder abgeholzt und Savannen zerstört. 
 
-Den dreifachen Bestand der Hühnchen, die in der EU leben, also ein Schlachtgewicht von 412’000 Tonnen, importieren wir ebenfalls aus Südamerika. 9.9 Quadratmeter Platz werden durchschnittlich im Ausland für ein Hühnchen benötigt.
+Den dreifachen Bestand der Hühnchen, die in der EU leben, also ein Schlachtgewicht von 412’000 Tonnen, importieren wir ebenfalls aus Südamerika. 9.9 Quadratmeter Platz werden durchschnittlich im Ausland für ein Hühnchen benötigt[^5].
 
-Naja, von den Ressourcen bekommen wir ja auch einiges an Fleisch zurück. Paradox ist, dass nur 70-72% des Hühnergewichts ausgeschlachtet werden kann. Fast 80% des verkauften Hühnchen Fleisches in deutschen Supermärkten ist Hühnerbrust, obwohl die Pouletbrust lediglich 24 Prozent des Gesamtgewichtes eines Huhns ausmacht. Der Grossteil des Huhns verlässt Europa also wieder, weil es hier keine Abnehmer\*innen gibt. 
+Naja, von den Ressourcen bekommen wir ja auch einiges an Fleisch zurück. Paradox ist, dass nur 70-72% des Hühnergewichts ausgeschlachtet werden kann[^6]. Fast 80% des verkauften Hühnchen Fleisches in deutschen Supermärkten ist Hühnerbrust, obwohl die Pouletbrust lediglich 24 Prozent des Gesamtgewichtes eines Huhns ausmacht. Der Grossteil des Huhns verlässt Europa also wieder, weil es hier keine Abnehmer\*innen gibt[^7]. 
 
 Die Tierreste, die in Europa als Schlachtabfälle gelten, werden tiefgefroren per Schiff nach Afrika verfrachtet. Das bringt keine extra Einkünfte, spart aber Entsorgungskosten für hiesige Produzenten\*innen. 
 
-Hilft das zusätzliche Fleisch die Nahrungsmittelknappheit in Afrika zu verringern? Studien zeigen das Gegenteil: Die lokale Geflügelzucht kann mit den reduzierten Preisen aus Europa nicht mithalten. Sicherlich können sich gewisse Bevölkerungsgruppen erstmals Fleisch leisten, auch wenn dieses einiges an Weg zurücklegen musste und die Qualität hinterfragt werden kann. Andere verlieren dadurch ihr Einkommen. Durch lange Transportwege und regelmässige Stromausfälle ist es fast unmöglich, das Fleisch ununterbrochen zu kühlen. Das Geflügelfleisch wird deshalb mehrmals aufgetaut und wieder eingefroren oder liegt stundenlang in der eigenen Auftauflüssigkeit. Das Fleisch aus Europa ist folglich voller Krankheitserreger. 
+Hilft das zusätzliche Fleisch die Nahrungsmittelknappheit in Afrika zu verringern? Studien zeigen das Gegenteil: Die lokale Geflügelzucht kann mit den reduzierten Preisen aus Europa nicht mithalten. Sicherlich können sich gewisse Bevölkerungsgruppen erstmals Fleisch leisten, auch wenn dieses einiges an Weg zurücklegen musste und die Qualität hinterfragt werden kann. Andere verlieren dadurch ihr Einkommen. Durch lange Transportwege und regelmässige Stromausfälle ist es fast unmöglich, das Fleisch ununterbrochen zu kühlen. Das Geflügelfleisch wird deshalb mehrmals aufgetaut und wieder eingefroren oder liegt stundenlang in der eigenen Auftauflüssigkeit. Das Fleisch aus Europa ist folglich voller Krankheitserreger[^8]. 
 
 Ein verbreiteter Glaube ist, dass bisher genannte Auswirkungen durch die Wende hin zu Bio Hühnchen behoben werden können. Die Hühner werden in Bio-Ställen unter anderen Bedingungen gezüchtet und gehalten, für das Klima ist das keine Lösung.
 
-Bei der Produktion von Hühnerfleisch macht die Tierproduktion den grössten Anteil der CO2-Emissionen aus. Die Produktion der Futtermittel ist dabei für mehr als 60% verantwortlich. 100 Gramm tierische Hähnchenbrust verursachen von der Produktion der benötigten Futtermittel bis zum Verkaufsregal in der Schweiz 701 Gramm CO2 Äquivalente. 100 Gramm des pflanzlichen Hähnchens verursachen gerade mal ein Viertel davon.  Das pflanzliche Hühnchen verbraucht zudem knapp 50 % weniger frisches Wasser (23.5 Liter pro 100 Gramm Hühnchenbrust). 
+Bei der Produktion von Hühnerfleisch macht die Tierproduktion[^9] den grössten Anteil der CO2-Emissionen aus. Die Produktion der Futtermittel ist dabei für mehr als 60% verantwortlich. 100 Gramm tierische Hähnchenbrust verursachen von der Produktion der benötigten Futtermittel bis zum Verkaufsregal in der Schweiz 701 Gramm CO2 Äquivalente[^10]. 100 Gramm des pflanzlichen Hähnchens verursachen gerade mal ein Viertel davon.  Das pflanzliche Hühnchen verbraucht zudem knapp 50 % weniger frisches Wasser (23.5 Liter pro 100 Gramm Hühnchenbrust). 
 
 Wenn wir also den Hähnchenkonsum stoppen, tragen wir zur Reduktion der CO2 Emissionen bei. Wir tragen zur Ernährungssicherheit bei. Wir erlauben Werte wie Mitgefühl, Integrität und Warmherzigkeit in unserer Ernährung. Werte, die menschlichen Wesen angeboren sind. Wir geben diesen Werten wieder Platz in der Geschichte unseres Essens.  
 
@@ -48,13 +48,13 @@ Lasst uns nun gemeinsam prüfen, ob pflanzliches Hühnchen dich überzeugen kann
 |---|---|---|
 | Gut fürs Klima | ✗  701 CO2äq./100g | ✓  182 CO2äq./100g |
 | Gute Wasserbilanz | ✗  23.5 L/100g | ✓ 12.6 L/100g |
-| Proteine | ✓ 23.5 g / 100g (genug) | ✓ 23.7 g / 100g (genug) |
+| Proteine | ✓ 23.5 g / 100g (genug)[^11] | ✓ 23.7 g / 100g (genug) |
 | Komische Zusatzstoffe | ✗  Hormone, Antibiotika etc. | ✓ Keine.  |
 | Nährstoffe | ✓ | ✓ |
-| Kurze Transportwege  | ✗ & ✓  keine vollkommene Transparenz hinsichtlich Futtermittelimport | ✓  Garantiert Zutaten aus der EU |
+| Kurze Transportwege  | ✗ & ✓  keine vollkommene Transparenz hinsichtlich Futtermittelimport[^12] | ✓  Garantiert Zutaten aus der EU |
 | Vollverwertung möglich  | ✗  Ausschlachtung liegt bei 70-72% | ✓ was produziert wird, wird verpackt |
-| Keine Gefahr für den Regenwald | ✗ Keine Transparenz ob fürs Hühnerfutter Regenwald abgeholzt wurde. | ✓ Bestimmt kein Stück Wald angerührt. |
-| Kein Tierleid  | ✗  Hohe Besatzdichte führt zu giftigen Gasen, Verhaltensstörungen, Zurückdrängung der Grundbedürfnisse, Überzüchtung und andere körperliche Leiden sowie Schäden, Schlachtung | ✓ |
+| Keine Gefahr für den Regenwald | ✗ Keine Transparenz ob fürs Hühnerfutter Regenwald abgeholzt wurde.[^13] | ✓ Bestimmt kein Stück Wald angerührt. |
+| Kein Tierleid  | ✗  Hohe Besatzdichte führt zu giftigen Gasen, Verhaltensstörungen, Zurückdrängung der Grundbedürfnisse, Überzüchtung und andere körperliche Leiden sowie Schäden, Schlachtung[^14] | ✓ |
 | Allgemeine Lebenserwartung der Tiere | ✗ schlecht Männchen: Lebenserwartung von 36 Tagen | ✓ |
 | Tote männliche Hühnchen | ½ der Population fehlt | Alles lebt noch |
 | Chicken Poop | ✗ Stinkt. (Verursacht giftige Gase). | ✓ Gibts nicht. |
