@@ -1,5 +1,5 @@
 ---
-title: How does a climate-friendly future taste?
+title: A taste of climate-friendly future.
 image: /assets/images/blog/eaternity-all-you-can-eat-surfer-sichtbarmachung-co2.jpg
 author: Eaternity
 categories:
