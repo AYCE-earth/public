@@ -11,7 +11,7 @@ ref: chicken
 
 ## Der Vergleich der Auswirkungen von pflanzlichem und tierischem Hähnchen auf Mensch und Umwelt.
 
-So manch einer ärgert sich, wenn da schon wieder ein Huhn reduziert als Hähnchenbrust im Warenregal landet. Viele von uns kennen die Situation, in welchen bei Konversationen über das Tierleben oder die Umweltbelastungen der Produktion genervt abgewunken werden. Wir haben uns daran gewöhnt und gehen dieser  moralischen Diskussion aus dem Weg. Na klar ist das traurig - aber ganz ehrlich: Wir machen uns den lieben langen Tag Sorgen über ganz andere Sachen. Vielleicht, im passenden Moment,  schauen wir unseren Kindern in die Augen und malen uns deren Zukunft aus.  Möglicherweise kreisen unsere Gedanken dann um das krasse Unwetter neulich hier in der Schweiz, das unsere Ernten vernichtet hat. Und wir überlegen, was das Ganze mit dem Klimawandel zu tun hat. Und dann eben auch warum das ganze “Erbsen zählen” um die CO2 Bilanz uns dann doch wieder auf Kuschelkurs mit unseren Hühnern führt. Wir haben da mal recherchiert:
+So manch einer ärgert sich, wenn da schon wieder ein Huhn reduziert als Hähnchenbrust im Warenregal landet. Viele von uns kennen die Situation, in welchen bei Konversationen über das Tierleben oder die Umweltbelastungen der Produktion genervt abgewunken werden. Wir haben uns daran gewöhnt und gehen dieser  moralischen Diskussion aus dem Weg. Na klar ist das traurig - aber ganz ehrlich: Wir machen uns den lieben langen Tag Sorgen über ganz andere Sachen. Vielleicht, im passenden Moment,  schauen wir unseren Kindern in die Augen und malen uns deren Zukunft aus.  Möglicherweise kreisen unsere Gedanken dann um das krasse Unwetter neulich hier in der Schweiz, das unsere Ernten vernichtet hat. Und wir überlegen, was das Ganze mit dem Klimawandel zu tun hat. Und dann eben auch warum das ganze “Erbsen zählen” um die CO₂ Bilanz uns dann doch wieder auf Kuschelkurs mit unseren Hühnern führt. Wir haben da mal recherchiert:
 
 100’712’000 Tonnen Hühnerfleisch werden jährlich geschlachtet, was, bei einem durchschnittlichen Gewichts eines Hühnchens von 3.5 Kilogramm, 28’774’857’000 Tieren entspricht[^1]. Also: auf jeden Menschen gibt es weltweit 4 Hühner. 
 
@@ -33,9 +33,9 @@ Hilft das zusätzliche Fleisch die Nahrungsmittelknappheit in Afrika zu verringe
 
 Ein verbreiteter Glaube ist, dass bisher genannte Auswirkungen durch die Wende hin zu Bio Hühnchen behoben werden können. Die Hühner werden in Bio-Ställen unter anderen Bedingungen gezüchtet und gehalten, für das Klima ist das keine Lösung.
 
-Bei der Produktion von Hühnerfleisch macht die Tierproduktion[^9] den grössten Anteil der CO2-Emissionen aus. Die Produktion der Futtermittel ist dabei für mehr als 60% verantwortlich. 100 Gramm tierische Hähnchenbrust verursachen von der Produktion der benötigten Futtermittel bis zum Verkaufsregal in der Schweiz 701 Gramm CO2 Äquivalente[^10]. 100 Gramm des pflanzlichen Hähnchens verursachen gerade mal ein Viertel davon.  Das pflanzliche Hühnchen verbraucht zudem knapp 50 % weniger frisches Wasser (23.5 Liter pro 100 Gramm Hühnchenbrust). 
+Bei der Produktion von Hühnerfleisch macht die Tierproduktion[^9] den grössten Anteil der CO₂-Emissionen aus. Die Produktion der Futtermittel ist dabei für mehr als 60% verantwortlich. 100 Gramm tierische Hähnchenbrust verursachen von der Produktion der benötigten Futtermittel bis zum Verkaufsregal in der Schweiz 701 Gramm CO₂ Äquivalente[^10]. 100 Gramm des pflanzlichen Hähnchens verursachen gerade mal ein Viertel davon.  Das pflanzliche Hühnchen verbraucht zudem knapp 50 % weniger frisches Wasser (23.5 Liter pro 100 Gramm Hühnchenbrust). 
 
-Wenn wir also den Hähnchenkonsum stoppen, tragen wir zur Reduktion der CO2 Emissionen bei. Wir tragen zur Ernährungssicherheit bei. Wir erlauben Werte wie Mitgefühl, Integrität und Warmherzigkeit in unserer Ernährung. Werte, die menschlichen Wesen angeboren sind. Wir geben diesen Werten wieder Platz in der Geschichte unseres Essens.  
+Wenn wir also den Hähnchenkonsum stoppen, tragen wir zur Reduktion der CO₂ Emissionen bei. Wir tragen zur Ernährungssicherheit bei. Wir erlauben Werte wie Mitgefühl, Integrität und Warmherzigkeit in unserer Ernährung. Werte, die menschlichen Wesen angeboren sind. Wir geben diesen Werten wieder Platz in der Geschichte unseres Essens.  
 
 Wenn dieser Prozess beginnt, wird er uns Menschen helfen uns bewusst zu entscheiden, ob wir dieses Ei oder diese Hühnerbrust essen möchten. Oder möchten wir mehr und besser? 
 
@@ -46,7 +46,7 @@ Lasst uns nun gemeinsam prüfen, ob pflanzliches Hühnchen dich überzeugen kann
 
 |  | Tierisches Hühnchen (CH) | Planted.chicken (CH) |
 |---|---|---|
-| Gut fürs Klima | ✗  701 CO2äq./100g | ✓  182 CO2äq./100g |
+| Gut fürs Klima | ✗  701 CO₂äq./100g | ✓  182 CO₂äq./100g |
 | Gute Wasserbilanz | ✗  23.5 L/100g | ✓ 12.6 L/100g |
 | Proteine | ✓ 23.5 g / 100g (genug)[^11] | ✓ 23.7 g / 100g (genug) |
 | Komische Zusatzstoffe | ✗  Hormone, Antibiotika etc. | ✓ Keine.  |

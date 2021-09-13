@@ -11,7 +11,7 @@ ref: chicken
 
 ## A comparison of the effects of plant-based and animal-based chicken on humans and the environment.
 
-Some people are upset when yet another chicken is reduced to a chicken breast and ends up on the shelves. Many of us know the situation, in which in conversation about the animal life or the environmental impact of the production are waved off irritated. We have gotten used to it and avoid this moral discussion. Of course it's sad - but honestly, we spend our days worrying about completely different things. Maybe, at the right moment, we look into the eyes of our children and imagine their future.  Possibly our thoughts then circle around the recent severe storm here in Switzerland that has destroyed our harvests. And we think about what the whole thing has to do with climate change. And then also why the whole "counting peas" about the CO2 balance leads us back to cuddling with our chickens. We have done some research:
+Some people are upset when yet another chicken is reduced to a chicken breast and ends up on the shelves. Many of us know the situation, in which in conversation about the animal life or the environmental impact of the production are waved off irritated. We have gotten used to it and avoid this moral discussion. Of course it's sad - but honestly, we spend our days worrying about completely different things. Maybe, at the right moment, we look into the eyes of our children and imagine their future.  Possibly our thoughts then circle around the recent severe storm here in Switzerland that has destroyed our harvests. And we think about what the whole thing has to do with climate change. And then also why the whole "counting peas" about the CO₂ balance leads us back to cuddling with our chickens. We have done some research:
 
 100'712'000 tons of chicken meat are slaughtered annually, which, with an average weight of a chicken of 3.5 kilograms, corresponds to 28'774'857'000 animals[^1] . So: for every human being there are 4 chickens in the world. 
 
@@ -33,9 +33,9 @@ Does the extra meat help to reduce food shortages in Africa? Studies show the op
 
 A common belief is that previously mentioned effects can be remedied by turning to organic chicken. The chickens are bred and kept in organic barns under different conditions, for the climate this is not a solution.
 
-In the production of chicken meat, animal production[^9] accounts for the largest share of CO2 emissions. The production of feed is responsible for more than 60%. 100 grams of animal chicken breast cause 701 grams of CO2 equivalents[^10] from the production of the required feed to the sales shelf in Switzerland. 100 grams of plant-based chicken cause just a quarter of this.  The vegetable chicken also consumes almost 50% less fresh water (23.5 liters per 100 grams of chicken breast). 
+In the production of chicken meat, animal production[^9] accounts for the largest share of CO₂ emissions. The production of feed is responsible for more than 60%. 100 grams of animal chicken breast cause 701 grams of CO₂ equivalents[^10] from the production of the required feed to the sales shelf in Switzerland. 100 grams of plant-based chicken cause just a quarter of this.  The vegetable chicken also consumes almost 50% less fresh water (23.5 liters per 100 grams of chicken breast). 
 
-So when we stop chicken consumption, we contribute to the reduction of CO2 emissions. We contribute to food security. We allow values like compassion, integrity, and warm-heartedness into our diets. Values that are innate to human beings. We are giving space to these values again in the story of our food.  
+So when we stop chicken consumption, we contribute to the reduction of CO₂ emissions. We contribute to food security. We allow values like compassion, integrity, and warm-heartedness into our diets. Values that are innate to human beings. We are giving space to these values again in the story of our food.  
 
 When this process begins, it will help us humans consciously decide whether we want to eat this egg or that chicken breast. Or do we want more and better? 
 
@@ -45,7 +45,7 @@ Let's investigate if plant-based chicken can convince you to be better:
 
 |  | Animal Chicken (CH) | Planted.chicken (CH) |
 |---|---|---|
-| Good for the climate | ✗ 701 CO2eq./100g | ✓ 182 CO2eq./100g |
+| Good for the climate | ✗ 701 CO₂eq./100g | ✓ 182 CO₂eq./100g |
 | Good water balance | ✗ 23.5 L/100g | ✓ 12.6 L/100g |
 | Proteins | ✓ 23.5 g / 100g (enough)[^11] | ✓ 23.7 g / 100g (enough) |
 | Weird additives | ✗ Hormones, antibiotics, etc. | ✓ None.  |
