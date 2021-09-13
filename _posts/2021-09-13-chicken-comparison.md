@@ -43,7 +43,7 @@ When this process begins, it will help us humans consciously decide whether we w
 
 Let's investigate if plant-based chicken can convince you to be better:
 
-| Animal Chicken (CH) | Planted.chicken (CH) |
+|  | Animal Chicken (CH) | Planted.chicken (CH) |
 |---|---|---|
 | Good for the climate | ✗ 701 CO2eq./100g | ✓ 182 CO2eq./100g |
 | Good water balance | ✗ 23.5 L/100g | ✓ 12.6 L/100g |
