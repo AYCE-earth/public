@@ -1,5 +1,5 @@
 ---
-title: It needs governance
+title: Food needs governance
 image: /assets/images/blog/proveg.jpg
 author: Eaternity
 categories:
