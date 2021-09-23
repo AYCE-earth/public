@@ -10,12 +10,23 @@
 #   link: http://campact.de
 
 en:
-  - title:      Github
+  - title: Github
     description:  We have put the poster source into a public github repository for public use, collaboration and external review.
     fa-icon:      fa-code
     link: https://github.com/AYCE-earth/public/releases/tag/v1.2
+
+  - title: CodeCheck App
+    description: Get the Barcode Scanner and check out your groceries CO₂ foodprint.
+    fa-icon:      fa-barcode
+    link: https://codecheck-app.com/rating/climatescore/
 de:
-  - title:      Github
+  - title: Github
     description:  Wir haben den Quellcode des Posters in ein öffentliches Github-Repository für die öffentliche Nutzung, Zusammenarbeit und externe Überprüfung gestellt.
     fa-icon:      fa-code
     link: https://github.com/AYCE-earth/public/releases/tag/v1.2
+
+  - title: CodeCheck App
+    description: Holen dir den Barcode-Scanner und checke den CO₂ Fussabruck deiner Einkäufe.
+    fa-icon:      fa-barcode
+    link: https://codecheck-app.com/de/bewertung/klimascore/
+    
