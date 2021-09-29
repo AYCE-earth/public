@@ -8,6 +8,8 @@ lang: en
 ref: klimakiller
 ---
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N0Ri2vh4bh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Our diet has a major impact on the environment. But which foods have the largest, which the smallest carbon footprint? In search of answers, I came to Eaternity, a Swiss organization that specializes in calculating environmental footprints. In cooperation with Greenpeace Switzerland, they are now publishing a CO2 food poster that should make climate-friendly nutrition child's play. 
 

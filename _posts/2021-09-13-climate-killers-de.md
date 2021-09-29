@@ -8,6 +8,8 @@ lang: de
 ref: klimakiller
 ---
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N0Ri2vh4bh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Unsere Ernährung hat grossen Einfluss auf die Umwelt. Doch welche Nahrungsmittel haben den grössten, welche den kleinsten CO2-Fussabdruck? Auf der Suche nach Antworten kam ich zu Eaternity, eine Schweizer Organisation, die sich auf die Berechnung von Umweltbilanzen spezialisiert hat. In Kooperation mit Greenpeace Schweiz veröffentlichen diese jetzt ein CO2 Lebensmittel Poster, das die klimafreundliche Ernährung kinderleicht machen soll. 
 
