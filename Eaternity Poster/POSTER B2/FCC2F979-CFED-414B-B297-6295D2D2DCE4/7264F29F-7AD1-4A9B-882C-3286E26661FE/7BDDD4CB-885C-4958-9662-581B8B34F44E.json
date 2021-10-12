@@ -16,29 +16,28 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Regular",
-              "size": 4
+              "name": "SFProDisplay-Bold",
+              "size": 8
             }
           },
-          "kerning": -0.02285714199145635,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
-            "maximumLineHeight": 3.590399999999999,
-            "minimumLineHeight": 3.590399999999999
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "maximumLineHeight": 2.58684004305705,
+            "minimumLineHeight": 2.58684004305705
+          }
         },
-        "length": 14,
+        "length": 39,
         "location": 0
       }
     ],
-    "string": "www.ayce.earth"
+    "string": "Alles, was du fürs Klima essen kannst. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D43A445A-4594-4F0B-80A1-FFA462681219",
+  "do_objectID": "7BDDD4CB-885C-4958-9662-581B8B34F44E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,21 +51,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4,
-    "width": 27,
-    "x": 445.0479999999999,
-    "y": 696.3679999999999
+    "height": 11.22232077502691,
+    "width": 155,
+    "x": 322.8271074062443,
+    "y": -4.440892098500626e-15
   },
-  "glyphBounds": "{{0, 0}, {27, 5}}",
+  "glyphBounds": "{{18, -4}, {137, 8}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "www.ayce.earth",
+  "name": "Alles, was du fürs K",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -79,7 +78,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 7.039999999999999,
+      "radius": 7.608353067814858,
       "saturation": 1,
       "type": 0
     },
@@ -98,7 +97,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -106,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "28BC0793-F173-4767-9288-481AA736A977",
+    "do_objectID": "1BF2D26B-2366-4C66-8544-F1FEFB8A3FB2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -129,22 +128,21 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Regular",
-            "size": 4
+            "name": "SFProDisplay-Bold",
+            "size": 8
           }
         },
-        "kerning": -0.02285714199145635,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
-          "maximumLineHeight": 3.590399999999999,
-          "minimumLineHeight": 3.590399999999999
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "maximumLineHeight": 2.58684004305705,
+          "minimumLineHeight": 2.58684004305705
+        }
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

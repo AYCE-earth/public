@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5400C56E-43DD-4246-ADA8-B8CDDFB8000F",
+  "do_objectID": "41BD1415-0A18-4540-B8B3-384E7EA7DE61",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14.784,
-    "width": 14.784,
-    "x": 244.3311827771798,
-    "y": 5.05802712594334
+    "height": 10.5,
+    "width": 66.72439012379505,
+    "x": 0,
+    "y": 18.06884994618031
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -26,22 +26,42 @@
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": true,
+  "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "EFB8157D-7FF2-42DD-951D-362BBE717339"
+      "class": "shapePath",
+      "id": "7FB5D9F4-0709-48E2-A1B2-A6CC3950094D"
     },
     {
-      "class": "group",
-      "id": "E661C343-091F-4CAE-8DAD-A97795490C53"
+      "class": "shapePath",
+      "id": "ECFF2CE2-2346-4596-B3D9-417CC496CFC8"
+    },
+    {
+      "class": "shapePath",
+      "id": "98AB75DB-6CBB-4D1C-97C2-C1EA6E20CB96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3193C87-99EC-48E2-B984-958DA1384CF5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "69761E08-714B-4316-A46B-FB5AF3044825"
+    },
+    {
+      "class": "shapePath",
+      "id": "181A186B-3607-4CB6-A547-F2DFCA1CCE7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB25B3AC-9466-494F-95EB-D1E99D0421B0"
     }
   ],
-  "name": "qr-code-2",
+  "name": "gp-logo",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -54,7 +74,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 1.902088266953713,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -81,7 +101,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "351DC239-A783-4E5B-A997-D3E8F6F8CE48",
+    "do_objectID": "BA2AAB01-97AA-475B-AA36-DC61AD905481",
     "endMarkerType": 0,
     "fills": [
     ],

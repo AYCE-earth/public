@@ -9,33 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.0115683451294899,
+            "green": 0.01297254860401154,
+            "red": 0.00894702598452568
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFCompactText-Semibold",
-              "size": 10
+              "name": "SourceSansPro-Regular",
+              "size": 4
             }
           },
+          "kerning": -0.02285714199145635,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 1,
+            "maximumLineHeight": 3.590399999999999,
+            "minimumLineHeight": 3.590399999999999
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Wasser"
+    "string": "www.ayce.earth"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C350EF8C-C5C5-4A53-AD90-E4F90298CF44",
+  "do_objectID": "D43A445A-4594-4F0B-80A1-FFA462681219",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,22 +53,22 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 4,
-    "width": 50,
-    "x": 0,
-    "y": 13
+    "width": 27,
+    "x": 442.9051428571427,
+    "y": 17.86881040071739
   },
-  "glyphBounds": "{{7, 3}, {35, 8}}",
+  "glyphBounds": "{{0, 0}, {27, 5}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Name EN",
-  "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "lineSpacingBehaviour": 3,
+  "name": "www.ayce.earth",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -76,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 7.039999999999999,
       "saturation": 1,
       "type": 0
     },
@@ -103,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E50BFF60-2580-40E9-A8CA-E93ECCDD6E8E",
+    "do_objectID": "28BC0793-F173-4767-9288-481AA736A977",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,20 +122,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.0115683451294899,
+          "green": 0.01297254860401154,
+          "red": 0.00894702598452568
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFCompactText-Semibold",
-            "size": 10
+            "name": "SourceSansPro-Regular",
+            "size": 4
           }
         },
+        "kerning": -0.02285714199145635,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 1,
+          "maximumLineHeight": 3.590399999999999,
+          "minimumLineHeight": 3.590399999999999
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -140,5 +146,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }
