@@ -139,7 +139,7 @@ fruits & berries,Sternfrucht,Starfruit,1197,67.34,46.5,370,10.8,10.08,604.74,0.0
 fruits & berries,Trauben,Grapes,378,30.72,27,46,3.5,0.24,14.33,0.13,67.18,827,1231,Raisins
 fruits & berries,Wassermelone,Watermelon,456,28.50,15,216,12.3,1.17,70.13,0.1,24.65,394,1600,Pastèque
 fruits & berries,Zitronen,Lemons,997,56.06,20.3,636,30.4,5.38,0,0.09,22.47,399,1778,Citrons
-,Hülsenfrüchte,Legumes,,0.00,,,,,,,,,,
+,Hülsenfrüchte,Legumes,,0.00,,,,,,,,,,Légumineuses
 legumes,Erbsen,Peas,118,55.37,51,9,4.4,0,0,0.75,315,672,213,Pois
 legumes,Grüne Bohnen,Green beans,235,102.73,66,84,27.7,9,0,0.7,252,576,229,Haricots verts
 legumes,Kichererbsen,Chickpeas,228,105.26,76,63,20.8,8.43,0,0.74,327,707,216,Pois chiches
@@ -150,7 +150,7 @@ legumes,rote Linsen,Red lentils,180,100.98,66,62,23.6,11.38,0,0.9,360,640,178,Le
 legumes,Schwarze Bohnen,Black beans,198,102.73,66,71,27.7,9,0,0.83,367,707,193,Haricots noirs
 legumes,Soja,Soy,145,112.53,98,19,13.3,1.24,0,1.24,384.54,496,129,Soja
 legumes,weisse Bohnen,White beans,216,102.73,66,77,27.7,9,0,0.76,324,682,211,haricots blancs
-,Fleisch,Meat,,0.00,,,,,,,,,,
+,Fleisch,Meat,,0.00,,,,,,,,,,Viande
 meat,Bündnerfleisch,Air-dried meat,12404,7287.17,7285,4,2.2,0,0,0.94,192.03,327,170,Bündnerfleisch
 meat,Ente,Duck,673,391.33,383,14,8.3,0,0,0.93,388,668,172,Canard
 meat,Fleisch,Meat,2393,942.19,940,6,2.2,0,0,0.63,160.27,407,254,Viande
@@ -193,7 +193,6 @@ meat,Rind (Geschnetzeltes),Beef (cut intro stripes),5290,1785.44,1783,7,2.4,0,0,
 meat,Rind (Hinterkeule),Beef (back leg),5284,1849.44,1847,7,2.4,0,0,0.56,117.75,336,286,Bœuf (patte arrière)
 meat,Rind (Hohrücken),Beef (rib eye),6909,2763.44,2761,6,2.4,0,0,0.64,165.28,413,250,Bœuf (échine)
 meat,Rind (Hüfte),Beef (hip or round),8450,3221.44,3219,6,2.4,0,0,0.61,133.99,351,262,Bœuf (rumsteck)
-meat,Rind (Kopf und Füsse),Beef (head and feet),1841,621.44,619,7,2.4,0,0,0.54,103.42,306,296,Bœuf (tête et pieds)
 meat,Rind (Ragout),Beef (ragout),4112,1336.44,1334,8,2.4,0,0,0.52,97.45,300,308,Boeuf (ragoût)
 meat,Rind (Roastbeef),Beef (roastbeef),11298,3954.44,3952,7,2.4,0,0,0.56,117.75,336,286,Bœuf (rosbif)
 meat,Rind (Schnitzel),Beef (schnitzel),6430,2250.44,2248,7,2.4,0,0,0.56,112.02,320,286,Bœuf (escalope)
@@ -227,7 +226,7 @@ meat,Tofu,Tofu,643,120.53,106,77,13.3,1.24,0,0.3,80.49,429,533,Tofu
 meat,Truthuhn,Turkey,1267,451.33,440,32,7.3,4.08,0,0.57,108.91,306,281,Turquie
 meat,Wildschwein,Wild boar,2172,692.19,690,7,2.2,0,0,0.51,109.15,342,314,Sanglier
 meat,Ziege,Goat meat,2966,1093.89,1090,11,3.9,0,0,0.59,149.04,404,271,Chèvre
-,"Nüsse, Samen und Öle","Nuts, seeds and oils",,0.00,,,,,,,,,,
+,"Nüsse, Samen und Öle","Nuts, seeds and oils",,0.00,,,,,,,,,,"Noix, graines et huiles"
 nuts & seeds,Cashewkerne,Cashews,420,338.92,310,36,21.2,7.72,0,1.29,587.56,729,124,Noix de cajou
 nuts & seeds,Chiasamen,Chia,139,92.00,81,17,11.0,0,0,1.06,485.81,733,151,Graines de chia
 nuts & seeds,Distelöl,Safflower oil,239,227.13,200,29,24.0,3.16,0,1.52,792.97,835,105,Huile de carthame
@@ -261,7 +260,7 @@ nuts & seeds,Tierfett,Animal fat,882,683.86,681,4,2.9,0,0,1.24,652.05,841,129,Gr
 nuts & seeds,Traubenkernöl,Grapeseed oil,288,301.94,267,33,30.5,4.44,0,1.68,881,839,95,Huile de pépins de raisin
 nuts & seeds,Walnüsse,Walnuts,216,213.43,210,3,3.3,0.16,0,1.58,730.87,740,101,Noix de Grenoble
 nuts & seeds,Walnussöl,Walnut oil,551,578.62,539.3,37,37.5,1.83,0,1.68,880,838,95,Huile de noix
-,Würzmittel,spices & condiments,,0.00,,,,,,,,,,
+,Würzmittel,spices & condiments,,0.00,,,,,,,,,,Condiments
 spices & condiments,Ahornsirup,Maple syrup,469,117.35,110,29,5.3,2.02,0,0.4,353.49,1414,400,Sirop d'érable
 spices & condiments,Anis,Anise,201,63.95,30,107,33.7,0.3,0,0.51,180,565,314,Anis
 spices & condiments,Apfelessig,Apple cider vinegar,6720,294.00,290,91,4.0,0,0,0.07,26.03,595,2286,Vinaigre de cidre de pomme
@@ -346,7 +345,7 @@ spices & condiments,Zitronenmelisse,Lemon balm,283,31.81,21,96,7.8,3.00,179.77,0
 spices & condiments,Zitronensaft,Lemon juice,3404,170.18,162,164,8.2,0,0,0.08,29.86,597,2000,Jus de citron
 spices & condiments,Zucker (Rohr),Sugar (sugar cane),450,126.53,112,52,13.3,1.24,0,0.45,406.04,1444,356,Sucre (canne)
 spices & condiments,Zucker (Rüben),Sugar (sugar beet),132,37.02,35,7,2.0,0,0,0.45,406.04,1444,356,Sucre (betterave)
-,Stärke und Brot,starches & bread,,0.00,,,,,,,,,,
+,Stärke und Brot,starches & bread,,0.00,,,,,,,,,,amidons et pain
 starches & bread,Amaranth,Amaranth,84,36.95,35,4,2.0,0,0,0.7,369,843,229,Amarante
 starches & bread,Basmatireis,Basmati rice,933,303.37,265,118,24.8,13.58,0,0.52,353.49,1088,308,Riz basmati
 starches & bread,Blätterteig (pflanzliche Fette),Puff pastry (vegetable fats),260,108.85,101.5,18,5.3,2.02,0,0.67,355.88,850,239,Pâte feuilletée (graisses végétales)
@@ -397,7 +396,7 @@ starches & bread,Vollweizengrieß,Whole wheat semolina,141,55.35,48,19,5.3,2.02,
 starches & bread,Weissmehl,White flour,202,78.35,71,19,5.3,2.02,0,0.62,351.1,906,258,Farine blanche
 starches & bread,Weizen,Wheat,166,60.35,53,20,5.3,2.02,0,0.58,327.22,903,276,Blé
 starches & bread,Weizenmehl,Wheat flour (type 812),202,78.35,71,19,5.3,2.02,0,0.62,351,906,258,Farine de blé
-,Gemüse und Pilze,vegetables & mushrooms,,0.00,,,,,,,,,,
+,Gemüse und Pilze,vegetables & mushrooms,,0.00,,,,,,,,,,légumes et champignons
 vegetables & mushrooms,Algen,Seaweed,1027,89.87,36,616,27.8,26.06,0,0.14,53.26,609,1143,Algues
 vegetables & mushrooms,Artischocken,Artichokes,304,28.47,20,90,8.5,0,0,0.15,12,128,1067,Artichauts
 vegetables & mushrooms,Artischockenherzen,Artichoke hearts,843,68.47,60,104,8.5,0,0,0.13,25,308,1231,Coeurs d'artichauts
