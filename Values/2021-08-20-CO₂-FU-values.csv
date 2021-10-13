@@ -1,6 +1,6 @@
 Glossar - Rohzutaten,,,,,,,,,,,,,,
 Kategorie,Name DE,Name EN,CO₂ / 1.6FU (ohne Flug) ,g CO2 / 100g (ohne Flug) ,CO2 Base Value [g] ,Summe Transport für 1.6 FU,CO2 Land Transport [g] ,CO2 Sea Transport [g] ,CO2 Air Transport [g],Food Unit ,Energy [kcal] ,kcal für 1.6FU,Gewicht für 1.6 FU,Name FR
-,Getränke,Beverages,,0.00,,,,,,,,,,
+,Getränke,Beverages,,0.00,,,,,,,,,,Boissons
 beverages,Ananassaft,Pineapple juice,911,56.95,15,671,20.2,21.71,0,0.1,47.05,753,1600,Jus d'ananas
 beverages,Apfelsaft,Apple juice,621,34.95,33,35,2.0,0,0,0.09,45.14,802,1778,Jus de pomme
 beverages,Bier,Beer,770,43.32,40,59,3.3,0,0,0.09,39.41,701,1778,Bière
@@ -36,7 +36,7 @@ beverages,Vollmilch,"Milk (uht, full cream, 3.5%)",1554,194.19,191,26,3.2,0,0,0.
 beverages,Wasser,Water,2,0.04,0.04,0,0.0,0,0,0.04,0,0,4000,Eau
 beverages,Wein,Wine,2359,147.44,137,167,9.3,1.1,0,0.1,68.55,1097,1600,Vin
 beverages,Weisser Tee,White tea,1707,714.69,668.6,110,45.7,0.39,0,0.67,229.53,548,239,Thé blanc
-,Eier und Milch,Diary & eggs,,0.00,,,,,,,,,,
+,Eier und Milch,Eggs and milk,,0.00,,,,,,,,,,Œufs et lait
 diary & eggs,Butter,Butter,1384,1211.19,1209,3,2.2,0,0,1.4,730.87,835,114,Beurre
 diary & eggs,Cheddar,Cheddar,1322,941.69,938,5,3.7,0,0,1.14,406.04,570,140,Cheddar
 diary & eggs,Crème Fraiche,Creme fraiche cheese,806,342.47,340,6,2.5,0,0,0.68,329.61,776,235,Crème fraîche
@@ -76,7 +76,7 @@ diary & eggs,Tilsiter,Tilsit cheese,1343,864.69,861,6,3.7,0,0,1.03,351.1,545,155
 diary & eggs,Vollei,Whole egg,923,271.26,267,15,4.3,0,0,0.47,140.68,479,340,Œuf entier
 diary & eggs,Ziegenkäse,Goat cheese,756,340.42,333,16,7.4,0,0,0.72,241.23,536,222,Fromage de chèvre
 diary & eggs,Ziegenmilch,Goat milk,1049,111.42,104,70,7.4,0,0,0.17,56.61,533,941,Lait de chèvre
-,Fische und Meeresfrüchte,Fish & seafood,,0.00,,,,,,,,,,
+,Fische und Meeresfrüchte,Fish & seafood,,0.00,,,,,,,,,,Poissons et fruits de mer
 fish & seafood,Aal,Eel,676,388.87,335,94,27.8,26.06,0,0.92,373.08,649,174,Anguille
 fish & seafood,Austern,Oysters,3615,338.87,285,575,27.8,26.06,0,0.15,9.9,106,1067,Huîtres
 fish & seafood,Blaubarsch,Bluefish,629,373.37,335,65,24.8,13.58,0,0.95,353.01,595,168,Poisson bleu
@@ -107,7 +107,7 @@ fish & seafood,Thunfisch,Tuna,1035,413.87,360,135,27.8,26.06,0,0.64,149.76,374,2
 fish & seafood,Tilapia,Tilapia,1409,413.87,360,183,27.8,26.06,0,0.47,101.27,345,340,Tilapia
 fish & seafood,Wolfsbarsch,Sea ,1324,413.87,360,172,27.8,26.06,0,0.5,104,333,320,Bar de mer
 fish & seafood,Zander,Pike perch,528,148.37,110,136,24.8,13.58,0,0.45,81.69,290,356,Sandre et perche
-,Früchte und Beeren,Fruits & berries,,0.00,,,,,,,,,,
+,Früchte und Beeren,Fruits & berries,,0.00,,,,,,,,,,Fruits et baies
 fruits & berries,Ananas,Pineapple,416,25.97,11,240,3.1,11.85,710.99,0.1,52.07,833,1600,Ananas
 fruits & berries,Äpfel,Apple,323,22.19,20,32,2.2,0,0,0.11,55.45,807,1455,Pommes
 fruits & berries,Aprikosen,Apricots,295,20.30,14,92,6.3,0,0,0.11,48.76,709,1455,Abricots
@@ -345,7 +345,7 @@ spices & condiments,Zitronenmelisse,Lemon balm,283,31.81,21,96,7.8,3.00,179.77,0
 spices & condiments,Zitronensaft,Lemon juice,3404,170.18,162,164,8.2,0,0,0.08,29.86,597,2000,Jus de citron
 spices & condiments,Zucker (Rohr),Sugar (sugar cane),450,126.53,112,52,13.3,1.24,0,0.45,406.04,1444,356,Sucre (canne)
 spices & condiments,Zucker (Rüben),Sugar (sugar beet),132,37.02,35,7,2.0,0,0,0.45,406.04,1444,356,Sucre (betterave)
-,Stärke und Brot,starches & bread,,0.00,,,,,,,,,,amidons et pain
+,Stärke und Brot,starches & bread,,0.00,,,,,,,,,,Amidons et pain
 starches & bread,Amaranth,Amaranth,84,36.95,35,4,2.0,0,0,0.7,369,843,229,Amarante
 starches & bread,Basmatireis,Basmati rice,933,303.37,265,118,24.8,13.58,0,0.52,353.49,1088,308,Riz basmati
 starches & bread,Blätterteig (pflanzliche Fette),Puff pastry (vegetable fats),260,108.85,101.5,18,5.3,2.02,0,0.67,355.88,850,239,Pâte feuilletée (graisses végétales)
