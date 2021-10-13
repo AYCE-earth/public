@@ -1,11 +1,20 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53F07646-0B2D-4014-B172-55907AE1F7F2",
+  "do_objectID": "D1332240-A0C6-4CC6-A87F-A10C39E1B2AE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,84 +24,85 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 111.7142857142857,
+    "width": 530.0000000000001,
+    "x": 181.2499999999951,
+    "y": -135.9823724757305
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -486,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "FC8D859E-DA40-4E57-A169-4ABF117A013C"
+      "id": "8AE081A4-E49D-483E-847D-4551AC300BFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD46D16D-D4D4-445B-B5A8-13817095957B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30E185B7-EF11-4B97-888D-E945A145CC3B"
+    },
+    {
+      "class": "text",
+      "id": "07C74DEF-8B31-4C51-8B8D-10BF9BD300C5"
+    },
+    {
+      "class": "bitmap",
+      "id": "86D5DCA6-F9A1-4BC5-9B6E-4D687F0D2A0F"
+    },
+    {
+      "class": "bitmap",
+      "id": "EAEC8EB2-5AAD-4450-A5B7-5EC66C4A2D4D"
+    },
+    {
+      "class": "bitmap",
+      "id": "739032E1-A324-4FB4-B83E-BE467DDF564A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E379B625-0732-465E-B472-FA594AE3AE9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD9380A6-C087-48FF-890D-811B1437947D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45843B68-ED5C-4290-95AA-4848A69059CB"
     },
     {
       "class": "group",
-      "id": "B1EEB4F6-952F-44E0-B596-99EABC51A693"
+      "id": "99ECDF70-E7A0-4405-97D4-4648D827E5FC"
     },
     {
       "class": "group",
-      "id": "7A346722-EF36-4117-8293-2F8B94E36B66"
+      "id": "CE672C72-4791-4AAF-9540-53752B6ED869"
     },
     {
       "class": "group",
-      "id": "29FC1864-FD80-4B95-9B9C-73727A241683"
+      "id": "702A06AC-034C-4AB8-880A-F6C1830BF727"
     },
     {
       "class": "group",
-      "id": "796F32BD-78F6-42CE-8894-67D868DF1728"
+      "id": "6065BF78-E5D8-4ABD-ACD8-60E54BCDC14B"
     },
     {
-      "class": "group",
-      "id": "7FD8FE48-8DC6-420E-89C1-3EBE540B5275"
-    },
-    {
-      "class": "group",
-      "id": "3362F8E6-F325-4137-8885-6E67B0F3DAB3"
-    },
-    {
-      "class": "group",
-      "id": "D1332240-A0C6-4CC6-A87F-A10C39E1B2AE"
-    },
-    {
-      "class": "group",
-      "id": "1F888374-2A1C-44C4-8344-386B270579CC"
-    },
-    {
-      "class": "group",
-      "id": "08CBA3AF-FCCE-4843-92EF-F2BCD774810F"
-    },
-    {
-      "class": "group",
-      "id": "0C16F9B8-85EE-4CE7-8D90-AEA1EC97874C"
-    },
-    {
-      "class": "group",
-      "id": "5781A0D6-4CEE-40C3-8AF6-A9933DE7063C"
-    },
-    {
-      "class": "group",
-      "id": "2DF941CF-196E-4358-A642-C3EDD8940A27"
+      "class": "rectangle",
+      "id": "38418874-D381-40CD-9774-2D02926486B0"
     }
   ],
-  "name": "Illustrations",
+  "name": "WASSER  French",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -105,7 +115,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 14.28571428571429,
       "saturation": 1,
       "type": 0
     },
@@ -132,7 +142,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F2E9006-8274-4685-8B06-0642980B34C0",
+    "do_objectID": "AAE52991-9012-4011-9C83-CB6BABF0EFA2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -143,11 +153,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -413,
-    "guides": [
-    ]
   }
 }

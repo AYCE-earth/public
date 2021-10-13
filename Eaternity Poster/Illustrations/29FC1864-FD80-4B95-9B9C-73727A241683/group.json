@@ -1,11 +1,20 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53F07646-0B2D-4014-B172-55907AE1F7F2",
+  "do_objectID": "29FC1864-FD80-4B95-9B9C-73727A241683",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,84 +24,53 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 157,
+    "width": 282,
+    "x": 181.2499999999951,
+    "y": -442.8688102840575
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -486,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "FC8D859E-DA40-4E57-A169-4ABF117A013C"
+      "id": "B261FFAA-2469-47B6-93CE-34B16FE18E97"
     },
     {
       "class": "group",
-      "id": "B1EEB4F6-952F-44E0-B596-99EABC51A693"
+      "id": "B77DFFD8-285D-4AA7-BFE0-15407288D84C"
     },
     {
       "class": "group",
-      "id": "7A346722-EF36-4117-8293-2F8B94E36B66"
+      "id": "FA0A5759-0BF9-4834-946A-6F7638096A2F"
     },
     {
       "class": "group",
-      "id": "29FC1864-FD80-4B95-9B9C-73727A241683"
+      "id": "B381096B-3350-49B0-A9EC-04AD3F6C3BBB"
     },
     {
       "class": "group",
-      "id": "796F32BD-78F6-42CE-8894-67D868DF1728"
+      "id": "0ADFF432-2E52-4E80-8CA6-EBDD41A887C3"
     },
     {
-      "class": "group",
-      "id": "7FD8FE48-8DC6-420E-89C1-3EBE540B5275"
+      "class": "text",
+      "id": "7A72FA63-788A-4C4D-BA96-7BED2482600F"
     },
     {
-      "class": "group",
-      "id": "3362F8E6-F325-4137-8885-6E67B0F3DAB3"
-    },
-    {
-      "class": "group",
-      "id": "D1332240-A0C6-4CC6-A87F-A10C39E1B2AE"
-    },
-    {
-      "class": "group",
-      "id": "1F888374-2A1C-44C4-8344-386B270579CC"
-    },
-    {
-      "class": "group",
-      "id": "08CBA3AF-FCCE-4843-92EF-F2BCD774810F"
-    },
-    {
-      "class": "group",
-      "id": "0C16F9B8-85EE-4CE7-8D90-AEA1EC97874C"
-    },
-    {
-      "class": "group",
-      "id": "5781A0D6-4CEE-40C3-8AF6-A9933DE7063C"
-    },
-    {
-      "class": "group",
-      "id": "2DF941CF-196E-4358-A642-C3EDD8940A27"
+      "class": "rectangle",
+      "id": "9CC9D275-58E3-45A2-9E23-5D0C68E64E15"
     }
   ],
-  "name": "Illustrations",
+  "name": "Verpackung Vergleich French",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -105,7 +83,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 14.28571428571429,
       "saturation": 1,
       "type": 0
     },
@@ -132,7 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F2E9006-8274-4685-8B06-0642980B34C0",
+    "do_objectID": "BA355E48-35C2-433E-80BB-9E1F1CB6B3E9",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -143,11 +121,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -413,
-    "guides": [
-    ]
   }
 }

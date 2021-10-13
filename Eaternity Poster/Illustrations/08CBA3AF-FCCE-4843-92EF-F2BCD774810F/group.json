@@ -1,11 +1,20 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53F07646-0B2D-4014-B172-55907AE1F7F2",
+  "do_objectID": "08CBA3AF-FCCE-4843-92EF-F2BCD774810F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,23 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 131.4285714285714,
+    "width": 530.0000000000001,
+    "x": 181.2499999999951,
+    "y": -2.923764417122698
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -486,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -41,58 +43,50 @@
   "layers": [
     {
       "class": "group",
-      "id": "FC8D859E-DA40-4E57-A169-4ABF117A013C"
+      "id": "A839D3A0-C93B-4472-8DC0-0FD18A7E678E"
     },
     {
       "class": "group",
-      "id": "B1EEB4F6-952F-44E0-B596-99EABC51A693"
+      "id": "60C4B689-9381-45DF-A58F-0A885C8A2DDF"
     },
     {
       "class": "group",
-      "id": "7A346722-EF36-4117-8293-2F8B94E36B66"
+      "id": "6B28633B-249E-45FD-B3FD-AE64AAB80031"
     },
     {
       "class": "group",
-      "id": "29FC1864-FD80-4B95-9B9C-73727A241683"
+      "id": "3BFF709D-4CAB-4B6D-A189-7BF46CAE5915"
+    },
+    {
+      "class": "text",
+      "id": "C8F37897-35B3-4FC6-857A-989AE321FC9A"
     },
     {
       "class": "group",
-      "id": "796F32BD-78F6-42CE-8894-67D868DF1728"
+      "id": "6B89D67D-127B-4E7D-A79E-1DD5F0791C68"
     },
     {
-      "class": "group",
-      "id": "7FD8FE48-8DC6-420E-89C1-3EBE540B5275"
+      "class": "symbolInstance",
+      "id": "39983C9E-01AE-40A5-9BC5-B6271727DCE4"
     },
     {
-      "class": "group",
-      "id": "3362F8E6-F325-4137-8885-6E67B0F3DAB3"
+      "class": "symbolInstance",
+      "id": "52C61AF7-5234-456A-8690-26C784A7D0F2"
     },
     {
-      "class": "group",
-      "id": "D1332240-A0C6-4CC6-A87F-A10C39E1B2AE"
+      "class": "symbolInstance",
+      "id": "A8E0BD55-63CA-45B2-B9ED-C020E1309559"
     },
     {
-      "class": "group",
-      "id": "1F888374-2A1C-44C4-8344-386B270579CC"
+      "class": "symbolInstance",
+      "id": "EAEA343D-9D09-4010-82AF-DA3D74BB02FB"
     },
     {
-      "class": "group",
-      "id": "08CBA3AF-FCCE-4843-92EF-F2BCD774810F"
-    },
-    {
-      "class": "group",
-      "id": "0C16F9B8-85EE-4CE7-8D90-AEA1EC97874C"
-    },
-    {
-      "class": "group",
-      "id": "5781A0D6-4CEE-40C3-8AF6-A9933DE7063C"
-    },
-    {
-      "class": "group",
-      "id": "2DF941CF-196E-4358-A642-C3EDD8940A27"
+      "class": "rectangle",
+      "id": "D2644CCD-5BC1-43C0-800E-15FA096500BA"
     }
   ],
-  "name": "Illustrations",
+  "name": "FLEISCH Vergleich French",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -105,7 +99,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 14.28571428571429,
       "saturation": 1,
       "type": 0
     },
@@ -132,7 +126,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F2E9006-8274-4685-8B06-0642980B34C0",
+    "do_objectID": "55CE9FD7-CD03-4B38-A2BA-EEF9867A3860",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -143,11 +137,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -413,
-    "guides": [
-    ]
   }
 }

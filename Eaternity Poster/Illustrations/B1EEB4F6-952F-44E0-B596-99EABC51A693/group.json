@@ -1,11 +1,20 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53F07646-0B2D-4014-B172-55907AE1F7F2",
+  "do_objectID": "B1EEB4F6-952F-44E0-B596-99EABC51A693",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,23 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 131.4285714285714,
+    "width": 530.0000000000001,
+    "x": 181.2499999999951,
+    "y": -272.3898770941797
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -486,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,59 +42,51 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "FC8D859E-DA40-4E57-A169-4ABF117A013C"
+      "class": "symbolInstance",
+      "id": "047C8BD0-467C-4C0F-9CEB-2B7FFAE7168A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1E0449B-CCB2-4F82-8FBF-314DEE590C5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B0FD790-4472-470C-8847-F4112F6D93EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4C7EEBA-99EC-45C4-AFA7-A9771D8BD5CE"
     },
     {
       "class": "group",
-      "id": "B1EEB4F6-952F-44E0-B596-99EABC51A693"
+      "id": "3988CF1F-08E6-4BD8-A3D0-5C93A1AFCC7B"
     },
     {
       "class": "group",
-      "id": "7A346722-EF36-4117-8293-2F8B94E36B66"
+      "id": "EFFB0745-A1CE-48E7-ACD7-9D0BEE4BFD1A"
     },
     {
       "class": "group",
-      "id": "29FC1864-FD80-4B95-9B9C-73727A241683"
+      "id": "B2C4D81C-6740-4CC2-AB31-ECC947FA83AA"
     },
     {
       "class": "group",
-      "id": "796F32BD-78F6-42CE-8894-67D868DF1728"
+      "id": "A28C155F-7149-4D59-AD01-19A57D8D9FA9"
     },
     {
-      "class": "group",
-      "id": "7FD8FE48-8DC6-420E-89C1-3EBE540B5275"
+      "class": "text",
+      "id": "0DC464EF-316C-4050-835D-B0EF2234EA75"
     },
     {
-      "class": "group",
-      "id": "3362F8E6-F325-4137-8885-6E67B0F3DAB3"
+      "class": "symbolInstance",
+      "id": "BDA55D91-27E0-486B-9C98-56C3A2EDF016"
     },
     {
-      "class": "group",
-      "id": "D1332240-A0C6-4CC6-A87F-A10C39E1B2AE"
-    },
-    {
-      "class": "group",
-      "id": "1F888374-2A1C-44C4-8344-386B270579CC"
-    },
-    {
-      "class": "group",
-      "id": "08CBA3AF-FCCE-4843-92EF-F2BCD774810F"
-    },
-    {
-      "class": "group",
-      "id": "0C16F9B8-85EE-4CE7-8D90-AEA1EC97874C"
-    },
-    {
-      "class": "group",
-      "id": "5781A0D6-4CEE-40C3-8AF6-A9933DE7063C"
-    },
-    {
-      "class": "group",
-      "id": "2DF941CF-196E-4358-A642-C3EDD8940A27"
+      "class": "rectangle",
+      "id": "941B48A0-4728-47FB-A5B4-37112677C1F6"
     }
   ],
-  "name": "Illustrations",
+  "name": "Saison Vergleich French",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -105,7 +99,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 14.28571428571429,
       "saturation": 1,
       "type": 0
     },
@@ -132,7 +126,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F2E9006-8274-4685-8B06-0642980B34C0",
+    "do_objectID": "949F8208-0DB3-42FB-BDC4-390534B67A4D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -143,11 +137,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -413,
-    "guides": [
-    ]
   }
 }
