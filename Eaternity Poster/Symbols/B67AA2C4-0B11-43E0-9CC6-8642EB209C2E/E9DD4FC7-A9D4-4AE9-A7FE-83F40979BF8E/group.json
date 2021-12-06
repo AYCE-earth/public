@@ -1,0 +1,120 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E9DD4FC7-A9D4-4AE9-A7FE-83F40979BF8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 60,
+    "x": 2,
+    "y": 7
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "687B2A89-83EB-4076-BC8A-0135FBF13DA0"
+    },
+    {
+      "class": "rectangle",
+      "id": "DB2157F6-AB42-4CC7-9ECC-4D2348872215"
+    },
+    {
+      "class": "shapePath",
+      "id": "25B8A0C9-FDD1-40BB-A1F4-B2B06B3EF09B"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B8DEB4B-8462-47BF-BA5D-A4F4B0C0D049"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF674531-7F03-466D-B3F2-AE2C32CF01D7"
+    },
+    {
+      "class": "shapePath",
+      "id": "BAE7C163-A54D-4215-9B54-D0DE4BC9C145"
+    },
+    {
+      "class": "shapePath",
+      "id": "4013712B-EE5A-4B0D-A277-16E6773BF68A"
+    },
+    {
+      "class": "shapePath",
+      "id": "9FB0CB47-AAFE-4DE3-BF49-288B9D84BBC4"
+    }
+  ],
+  "name": "Kidneybohnen",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "DAA6505C-5930-4B01-BCA2-F81EDBA00E1E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
