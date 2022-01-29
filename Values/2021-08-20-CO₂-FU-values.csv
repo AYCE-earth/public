@@ -41,7 +41,7 @@ diary & eggs,Butter,Butter,1384,1211.19,1209,3,2.2,0,0,1.4,730.87,835,114,Beurre
 diary & eggs,Cheddar,Cheddar,1322,941.69,938,5,3.7,0,0,1.14,406.04,570,140,Cheddar
 diary & eggs,Crème Fraiche,Creme fraiche cheese,806,342.47,340,6,2.5,0,0,0.68,329.61,776,235,Crème fraîche
 diary & eggs,Doppelrahm,"Cream (double cream, 45% fat)",1374,721.47,719,5,2.5,0,0,0.84,417.98,796,190,Double crème
-diary & eggs,Eier (Freilandhaltung),Eggs (free range),750,220.26,216,15,4.3,0,0,0.47,141,480,340,Œufs (de libre parcours)
+diary & eggs,Eier (Freilandhaltung),Eggs (free range),750,220.26,216,15,4.3,0,0,0.47,141,480,340,Œufs (élevage en plein air)
 diary & eggs,Eigelb,Egg yolk,477,271.26,267,7,4.3,0,0,0.91,346.33,609,176,Jaune d'œuf
 diary & eggs,Eiweiss (Ei),Egg white,1607,271.26,267,25,4.3,0,0,0.27,44.66,265,593,Blanc d'œuf (œuf)
 diary & eggs,Emmentaler,Emmentaler,1274,955.69,952,5,3.7,0,0,1.2,406.04,541,133,fromage Emmental
@@ -49,9 +49,9 @@ diary & eggs,Frischkäse,"Cheese (fresh, 0 - 15%)",684,324.69,321,8,3.7,0,0,0.76
 diary & eggs,Grana padano,Grana padano,1215,941.69,938,5,3.7,0,0,1.24,372.6,481,129,Grana padano
 diary & eggs,Gruyère,Gruyere,1291,927.69,924,5,3.7,0,0,1.15,394.1,548,139,Gruyère
 diary & eggs,Haferrahm,Oats cream,127,24.56,11,70,13.6,0,0,0.31,146.65,757,516,Crème d'avoine
-diary & eggs,Joghurt (nature),Natural yoghurt,3155,374.69,371,31,3.7,0,0,0.19,48.01,404,842,Yoghourt (naturel)
-diary & eggs,Kaffeesahne,Coffee creamer,10,2.20,,10,2.2,0,0,0.36,159.07,707,444,Crème à café
-diary & eggs,Käse (halbhart),"Cheese (semi-hard, 25 - 30%)",2196,864.69,861,9,3.7,0,0,0.63,225.23,572,254,Fromage (à pâte mi-dure)
+diary & eggs,Joghurt (nature),Natural yoghurt,3155,374.69,371,31,3.7,0,0,0.19,48.01,404,842,Yoghourt (nature)
+diary & eggs,Kaffeesahne,Coffee creamer,1298,292.10,289.9,10,2.2,0,0,0.36,159.07,707,444,Crème à café
+diary & eggs,Käse (halbhart),"Cheese (semi-hard, 25 - 30%)",1203,864.69,861,5,3.7,0,0,1.15,225.23,313,139,Fromage (à pâte mi-dure)
 diary & eggs,Käse (hart),"Cheese (hard, more than 30%)",1310,941.69,938,5,3.7,0,0,1.15,396.48,552,139,Fromage (à pâte dure)
 diary & eggs,Käse (weich),"Cheese (soft, 20 -25%)",1212,666.69,663,7,3.7,0,0,0.88,358.27,651,182,Fromage (à pâte molle)
 diary & eggs,Kokosmilch,Coconut milk,556,138.92,110,116,21.2,7.72,0,0.4,185.58,742,400,Lait de coco
@@ -65,27 +65,27 @@ diary & eggs,Paneer,Paneer,1647,864.69,861,7,3.7,0,0,0.84,285.9,545,190,Paneer
 diary & eggs,Parmesan,Parmesan,1215,941.69,938,5,3.7,0,0,1.24,372.6,481,129,Parmesan
 diary & eggs,Quark,Curd,1620,293.69,290,20,3.7,0,0,0.29,62.58,345,552,Fromage blanc
 diary & eggs,Raclette,Raclette,1408,941.69,938,6,3.7,0,0,1.07,355.88,532,150,Raclette
-diary & eggs,Rahm (halbfett),"Cream (half-fat, 25% fat)",1310,458.47,456,7,2.5,0,0,0.56,269.9,771,286,Crème (demi-gras)
-diary & eggs,Rahm (Vollfett),"Cream (full fat, 35% fat)",1408,589.47,587,6,2.5,0,0,0.67,327.22,781,239,Crème (entière)
+diary & eggs,Rahm (halbfett),"Cream (half-fat, 25% fat)",1310,458.47,456,7,2.5,0,0,0.56,269.9,771,286,Demi-crème
+diary & eggs,Rahm (Vollfett),"Cream (full fat, 35% fat)",1408,589.47,587,6,2.5,0,0,0.67,327.22,781,239,Crème entière
 diary & eggs,Ricotta,Ricotta,220,64.69,61,13,3.7,0,0,0.47,154,524,340,Ricotta
 diary & eggs,Sahne-Pulver,Cream powder,2729,1534.95,1533,3,2.0,0,0,0.9,559.85,995,178,Poudre de crème
-diary & eggs,Sauermilch,Sour milk,1537,278.58,275,20,3.6,0,0,0.29,119.42,659,552,Lait aigre
-diary & eggs,Sauerrahm,Sour cream,806,342.47,340,6,2.5,0,0,0.68,329.61,776,235,Crème aigre
+diary & eggs,Sauermilch,Sour milk,1537,278.58,275,20,3.6,0,0,0.29,119.42,659,552,Lait caillé
+diary & eggs,Sauerrahm,Sour cream,806,342.47,340,6,2.5,0,0,0.68,329.61,776,235,Crème fraîche
 diary & eggs,Seidentofu,Silken tofu,964,120.53,106,116,13.3,1.24,0,0.2,55,440,800,Tofu soyeux
-diary & eggs,Tilsiter,Tilsit cheese,1343,864.69,861,6,3.7,0,0,1.03,351.1,545,155,Tilsiter
+diary & eggs,Tilsiter,Tilsit cheese,1343,864.69,861,6,3.7,0,0,1.03,351.1,545,155,Tilsit
 diary & eggs,Vollei,Whole egg,923,271.26,267,15,4.3,0,0,0.47,140.68,479,340,Œuf entier
 diary & eggs,Ziegenkäse,Goat cheese,756,340.42,333,16,7.4,0,0,0.72,241.23,536,222,Fromage de chèvre
 diary & eggs,Ziegenmilch,Goat milk,1049,111.42,104,70,7.4,0,0,0.17,56.61,533,941,Lait de chèvre
 ,Fische und Meeresfrüchte,Fish & seafood,,0.00,,,,,,,,,,Poissons et fruits de mer
 fish & seafood,Aal,Eel,676,388.87,335,94,27.8,26.06,0,0.92,373.08,649,174,Anguille
 fish & seafood,Austern,Oysters,3615,338.87,285,575,27.8,26.06,0,0.15,9.9,106,1067,Huîtres
-fish & seafood,Blaubarsch,Bluefish,629,373.37,335,65,24.8,13.58,0,0.95,353.01,595,168,Poisson bleu
+fish & seafood,Blaubarsch,Bluefish,629,373.37,335,65,24.8,13.58,0,0.95,353.01,595,168,Tassergal
 fish & seafood,Claressefilet,Claresse filet,2631,805.87,752,176,27.8,26.06,0,0.49,101.75,332,327,Filet de Claresse
 fish & seafood,Dorsch,Codfish,1912,513.87,460,200,27.8,26.06,0,0.43,76.91,286,372,Morue
-fish & seafood,Eglifilet,Perch fillet,596,163.87,110,196,27.8,26.06,0,0.44,79.3,288,364,Eglifilet
-fish & seafood,Felchen,Whitefish,535,163.87,110,176,27.8,26.06,0,0.49,101.75,332,327,Poisson blanc
+fish & seafood,Eglifilet,Perch fillet,596,163.87,110,196,27.8,26.06,0,0.44,79.3,288,364,Filet de perche
+fish & seafood,Felchen,Whitefish,535,163.87,110,176,27.8,26.06,0,0.49,101.75,332,327,Merlan
 fish & seafood,Fisch,Fish,1244,388.87,335,172,27.8,26.06,0,0.5,126.83,406,320,Poisson
-fish & seafood,Flunder,Flounder,1555,388.87,335,215,27.8,26.06,0,0.4,73.09,292,400,Fletin
+fish & seafood,Flunder,Flounder,1555,388.87,335,215,27.8,26.06,0,0.4,73.09,292,400,Flet
 fish & seafood,Garnelen,Shrimp,5461,1023.87,970,287,27.8,26.06,0,0.3,56.37,301,533,Crevettes
 fish & seafood,Goldbrasse,Bream,1035,413.87,360,135,27.8,26.06,0,0.64,185.1,463,250,Dorade royale
 fish & seafood,Heilbutt,Halibut,1152,388.87,335,160,27.8,26.06,0,0.54,117.99,350,296,Flétan
@@ -101,11 +101,11 @@ fish & seafood,Pangasius,Shark catfish,8658,1839.87,1786,254,27.8,26.06,0,0.34,6
 fish & seafood,Sardellen,Anchovies,1197,388.87,335,166,27.8,26.06,0,0.52,113,348,308,Anchois
 fish & seafood,Schnapper,Lutjanidae,1004,388.87,335,139,27.8,26.06,0,0.62,167.43,432,258,Snapper
 fish & seafood,Scholle,Plaice,1353,388.87,335,187,27.8,26.06,0,0.46,85.75,298,348,Plie
-fish & seafood,Seehecht,Hake,1518,388.87,335,210,27.8,26.06,0,0.41,71.65,280,390,Merlu
+fish & seafood,Seehecht,Hake,1518,388.87,335,210,27.8,26.06,0,0.41,71.65,280,390,Colin
 fish & seafood,Seelachs,Coalfish,2055,513.87,460,215,27.8,26.06,0,0.4,71.18,285,400,Saithe
 fish & seafood,Thunfisch,Tuna,1035,413.87,360,135,27.8,26.06,0,0.64,149.76,374,250,Thon
 fish & seafood,Tilapia,Tilapia,1409,413.87,360,183,27.8,26.06,0,0.47,101.27,345,340,Tilapia
-fish & seafood,Wolfsbarsch,Sea ,1324,413.87,360,172,27.8,26.06,0,0.5,104,333,320,Bar de mer
+fish & seafood,Wolfsbarsch,Sea ,1324,413.87,360,172,27.8,26.06,0,0.5,104,333,320,Bar
 fish & seafood,Zander,Pike perch,528,148.37,110,136,24.8,13.58,0,0.45,81.69,290,356,Sandre et perche
 ,Früchte und Beeren,Fruits & berries,,0.00,,,,,,,,,,Fruits et baies
 fruits & berries,Ananas,Pineapple,416,25.97,11,240,3.1,11.85,710.99,0.1,52.07,833,1600,Ananas
@@ -115,7 +115,7 @@ fruits & berries,Bananen,Bananas,409,40.91,17,239,9.4,14.5,0,0.16,96.32,963,1000
 fruits & berries,Birnen,Pears,530,36.47,25,167,11.5,0,0,0.11,54.2,788,1455,Poires
 fruits & berries,Blaubeeren,Blueberries,672,46.19,44,32,2.2,0,0,0.11,50.96,741,1455,Myrtilles
 fruits & berries,Brombeeren,Blackberries,643,44.19,42,32,2.2,0,0,0.11,44.19,643,1455,Mûres
-fruits & berries,Datteln,Dates,1349,177.00,163,107,9.0,5.01,0,0.21,139.49,1063,762,Dates
+fruits & berries,Datteln,Dates,1349,177.00,163,107,9.0,5.01,0,0.21,139.49,1063,762,Dattes
 fruits & berries,Erdbeeren,Strawberries,423,26.44,16,167,10.4,0,0,0.1,38.69,619,1600,Fraises
 fruits & berries,Feigen,Figs,567,49.61,43,76,3.5,3.08,184.71,0.14,75,857,1143,Figues
 fruits & berries,Grapefruit,Grapefruit,552,31.06,16.5,259,6.8,7.72,0,0.09,30.11,535,1778,Pamplemousse
@@ -132,10 +132,10 @@ fruits & berries,Obst,Fruit,323,22.19,20,32,2.2,0,0,0.11,49,713,1455,Fruits
 fruits & berries,Orangen,Oranges,626,43.05,16.5,386,26.6,0,0,0.11,44.22,643,1455,Oranges
 fruits & berries,Pfirsich,Peach,696,43.50,31,200,12.5,0,0,0.1,48,768,1600,Pêche
 fruits & berries,Pflaumen,Plums,467,32.10,14,263,17.3,0.83,0,0.11,48.76,709,1455,Prunes
-fruits & berries,Quitten,Quince,434,27.13,20,114,7.1,0,0,0.1,40.87,654,1600,Quinces
+fruits & berries,Quitten,Quince,434,27.13,20,114,7.1,0,0,0.1,40.87,654,1600,Coings
 fruits & berries,Rhabarber,Rhubarb,499,21.19,15,146,6.1,0.06,3.59,0.068,12.19,287,2353,Rhubarbe
 fruits & berries,Rosinen,Raisins,415,106.39,93,52,10.9,2.45,0,0.41,300.95,1174,390,Sultanines
-fruits & berries,Sternfrucht,Starfruit,1197,67.34,46.5,370,10.8,10.08,604.74,0.09,25,444,1778,Fruits étoilés
+fruits & berries,Sternfrucht,Starfruit,1197,67.34,46.5,370,10.8,10.08,604.74,0.09,25,444,1778,Carambole
 fruits & berries,Trauben,Grapes,378,30.72,27,46,3.5,0.24,14.33,0.13,67.18,827,1231,Raisins
 fruits & berries,Wassermelone,Watermelon,456,28.50,15,216,12.3,1.17,70.13,0.1,24.65,394,1600,Pastèque
 fruits & berries,Zitronen,Lemons,997,56.06,20.3,636,30.4,5.38,0,0.09,22.47,399,1778,Citrons
@@ -151,18 +151,18 @@ legumes,Schwarze Bohnen,Black beans,198,102.73,66,71,27.7,9,0,0.83,367,707,193,H
 legumes,Soja,Soy,145,112.53,98,19,13.3,1.24,0,1.24,384.54,496,129,Soja
 legumes,weisse Bohnen,White beans,216,102.73,66,77,27.7,9,0,0.76,324,682,211,haricots blancs
 ,Fleisch,Meat,,0.00,,,,,,,,,,Viande
-meat,Bündnerfleisch,Air-dried meat,12404,7287.17,7285,4,2.2,0,0,0.94,192.03,327,170,Bündnerfleisch
+meat,Bündnerfleisch,Air-dried meat,12404,7287.17,7285,4,2.2,0,0,0.94,192.03,327,170,Viande des Grisons
 meat,Ente,Duck,673,391.33,383,14,8.3,0,0,0.93,388,668,172,Canard
 meat,Fleisch,Meat,2393,942.19,940,6,2.2,0,0,0.63,160.27,407,254,Viande
 meat,Fohlen,Foal,3372,1117.05,1086,94,15.0,16.01,0,0.53,103.66,313,302,Poulain
 meat,Geräucherter Schinken,Smoked ham,2039,1147.19,1145,4,2.2,0,0,0.9,228.81,407,178,Jambon fumé
 meat,Hähnchen (Brust),Chicken (breast),2069,711.33,700,33,7.3,4.08,0,0.55,106.05,309,291,Poulet (poitrine)
 meat,Hirsch,Deer meat,3075,1095.37,1090,15,5.4,0,0,0.57,122.29,343,281,Chevreuil
-meat,Huhn,Chicken whole animal,894,279.33,268,36,7.3,4.08,0,0.5,125.57,402,320,Poulet
+meat,Huhn (ganz),Chicken whole animal,894,279.33,268,36,7.3,4.08,0,0.5,125.57,402,320,Poulet entier
 meat,Huhn (Flügel),Chicken (wings),830,316.33,305,30,7.3,4.08,0,0.61,167.43,439,262,Poulet (ailes)
 meat,Huhn (Schenkel),Chicken (leg),817,311.33,300,30,7.3,4.08,0,0.61,167.43,439,262,Poulet (cuisse)
 meat,Huhn,Chicken,1184,451.33,440,30,7.3,4.08,0,0.61,167.43,439,262,Poulet
-meat,Kalb,Veal,7925,2823.44,2821,7,2.4,0,0,0.57,128.02,359,281,Mollet
+meat,Kalb,Veal,7925,2823.44,2821,7,2.4,0,0,0.57,128.02,359,281,Veau
 meat,Kalb (Brust),Veal (breast),3820,1599.44,1597,6,2.4,0,0,0.67,202.54,484,239,Veau (poitrine)
 meat,Kalb (Filet),Veal (filet),18779,6455.44,6453,7,2.4,0,0,0.55,119.66,348,291,Veau (filet)
 meat,Kalb (Geschnetzeltes),Veal (cut intro stripes),9384,3108.44,3106,7,2.4,0,0,0.53,99.12,299,302,Veau (escalopes)
@@ -203,11 +203,11 @@ meat,Rind (Innereien),Beef (innards),2762,621.44,619,11,2.4,0,0,0.36,85.27,379,4
 meat,Rind (Siedfleisch),Beef (boiling meat),2465,1124.44,1122,5,2.4,0,0,0.73,225.95,495,219,Bœuf (viande bouillie)
 meat,Rohschinken,Prosciutto,3599,1147.19,1145,7,2.2,0,0,0.51,105.09,330,314,Jambon cru
 meat,Salami,Salami,1048,812.19,810,3,2.2,0,0,1.24,482.47,623,129,Salami
-meat,Schinken,Ham,3599,1147.19,1145,7,2.2,0,0,0.51,105.09,330,314,Ham
+meat,Schinken,Ham,3599,1147.19,1145,7,2.2,0,0,0.51,105.09,330,314,Jambon
 meat,Schwein,Pork,1786,692.19,690,6,2.2,0,0,0.62,158.35,409,258,Porc
 meat,Schwein (Brust),Pork (breast),1557,710.19,708,5,2.2,0,0,0.73,236.94,519,219,Porc (poitrine)
 meat,Schwein (Filet),Pork (filet),6008,2140.19,2138,6,2.2,0,0,0.57,122.05,343,281,Porc (filet)
-meat,Schwein (Geschnetzeltes),Pork (cut intro stripes),1838,666.19,664,6,2.2,0,0,0.58,134.23,370,276,Porc (viande hachée)
+meat,Schwein (Geschnetzeltes),Pork (cut intro stripes),1838,666.19,664,6,2.2,0,0,0.58,134.23,370,276,Porc (râpé)
 meat,Schwein (Hackfleisch),Pork (ground meat),1719,666.19,664,6,2.2,0,0,0.62,158.35,409,258,Porc (viande hachée)
 meat,Schwein (Halsbraten),Pork (neck),2280,969.19,967,5,2.2,0,0,0.68,201.35,474,235,Porc (rôti de cou)
 meat,Schwein (Kotelett),Pork (chop of meat),2993,1141.19,1139,6,2.2,0,0,0.61,138.05,362,262,Porc (escalope)
@@ -223,7 +223,7 @@ meat,Speck,Bacon,896,604.95,603,3,2.0,0,0,1.08,396.48,587,148,Bacon
 meat,Strauss,Ostrich,3043,1065.01,1036,83,12.5,16.54,0,0.56,108.8,311,286,Autruche
 meat,Tempeh,Tempeh,516,148.37,110,133,24.8,13.58,0,0.46,150.47,523,348,Tempeh
 meat,Tofu,Tofu,643,120.53,106,77,13.3,1.24,0,0.3,80.49,429,533,Tofu
-meat,Truthuhn,Turkey,1267,451.33,440,32,7.3,4.08,0,0.57,108.91,306,281,Turquie
+meat,Truthuhn,Turkey,1267,451.33,440,32,7.3,4.08,0,0.57,108.91,306,281,Dinde
 meat,Wildschwein,Wild boar,2172,692.19,690,7,2.2,0,0,0.51,109.15,342,314,Sanglier
 meat,Ziege,Goat meat,2966,1093.89,1090,11,3.9,0,0,0.59,149.04,404,271,Chèvre
 ,"Nüsse, Samen und Öle","Nuts, seeds and oils",,0.00,,,,,,,,,,"Noix, graines et huiles"
@@ -302,7 +302,7 @@ spices & condiments,Lorbeer,Laurel,283,31.81,21,96,7.8,3.00,179.77,0.18,44,391,8
 spices & condiments,Maggikraut,Lovage,188,21.19,15,55,6.1,0.06,3.59,0.18,44,391,889,Herbe de Maggi
 spices & condiments,Majoran,Marjoram,283,31.81,21,96,7.8,3.00,179.77,0.18,44,391,889,Marjolaine
 spices & condiments,Mangomark,Mango pulp,625,46.84,26,278,10.8,10.08,604.74,0.12,58.01,773,1333,Pulpe de mangue
-spices & condiments,Marmelade,Jam,795,154.00,131,119,18.0,5,0,0.31,248.4,1282,516,Marmelade
+spices & condiments,Marmelade,Jam,795,154.00,131,119,18.0,5,0,0.31,248.4,1282,516,Confiture
 spices & condiments,Mayonnaise,Mayonnaise,217,191.37,153,44,24.8,13.58,0,1.41,728.48,827,113,Mayonnaise
 spices & condiments,Melasse,Molasses,536,117.35,110,34,5.3,2.02,0,0.35,277.06,1267,457,Mélasse
 spices & condiments,Milchschokolade,Chocolate (milk),650,377.72,360,30,10.9,6.78,0,0.93,535.01,920,172,Chocolat au lait
@@ -314,9 +314,9 @@ spices & condiments,Paprikapulver,Paprika (powder),871,421.41,406,32,14.7,0.75,4
 spices & condiments,Petersilie,Parsley,243,25.81,15,102,7.8,3.00,179.77,0.17,56.13,528,941,Persil
 spices & condiments,Pfeffer,Pepper,2024,531.38,417,436,113.6,0.78,0,0.42,76,290,381,Poivre
 spices & condiments,Reisessig,Rice vinegar,8077,353.37,315,877,24.8,13.58,0,0.07,22.45,513,2286,Vinaigre de riz
-spices & condiments,Rosmarin,Rosemary,354,31.00,18,149,13.0,0,0,0.14,62.1,710,1143,Rosemary
+spices & condiments,Rosmarin,Rosemary,354,31.00,18,149,13.0,0,0,0.14,62.1,710,1143,Romarin
 spices & condiments,Safran,Saffron,215,68.50,30,121,37.6,0.92,0,0.51,180,565,314,Safran
-spices & condiments,Salbei,Sage,425,39.81,29,115,7.8,3.00,179.77,0.15,58.04,619,1067,Sage
+spices & condiments,Salbei,Sage,425,39.81,29,115,7.8,3.00,179.77,0.15,58.04,619,1067,Sauge
 spices & condiments,Salz,Salt,301,32.00,20,113,10.0,2,0,0.17,0,0,941,Sel
 spices & condiments,Sambal Oelek,Sambal oelek,1405,105.37,67,512,24.8,13.58,0,0.12,28,373,1333,Sambal Oelek
 spices & condiments,Schnittlauch,Chives,466,37.87,35,35,2.4,0.43,25.82,0.13,29.62,365,1231,Ciboulette
@@ -328,7 +328,7 @@ spices & condiments,Sojasauce,Soy sauce,827,134.37,96,236,24.8,13.58,0,0.26,60,3
 spices & condiments,Stärke (Mais),Starch (corn),471,120.62,117,14,3.6,0,0,0.41,360.66,1407,390,Amidon (maïs)
 spices & condiments,Sternanis,Star anise,201,63.95,30,107,33.7,0.3,0,0.51,180,565,314,Anis étoilé
 spices & condiments,Süsse Paprika,Sweet paprika,202,64.53,30,108,34.1,0.46,0,0.51,180,565,314,Paprika doux
-spices & condiments,Süssholz,Licorice,215,64.53,30,115,34.1,0.46,0,0.481,359,1194,333,Bois doux
+spices & condiments,Süssholz,Licorice,215,64.53,30,115,34.1,0.46,0,0.481,359,1194,333,Réglisse
 spices & condiments,Tamarinde,Tamarind,1349,177.00,163,107,9.0,5.01,0,0.21,139,1059,762,Tamarin
 spices & condiments,Thymian,Thyme,382,31.00,18,160,13.0,0,0,0.13,52.55,647,1231,Thym
 spices & condiments,Tomatenkonzentrat,Tomato paste,1386,173.20,165,66,8.2,0,0,0.2,78,624,800,Concentré de tomates
@@ -343,7 +343,7 @@ spices & condiments,Wermut,Vermouth,2734,290.44,280,98,9.3,1.1,0,0.17,139.01,130
 spices & condiments,Zimt,Cinnamon,294,64.25,30,157,28.2,6.02,0,0.35,147,672,457,Cannelle
 spices & condiments,Zitronenmelisse,Lemon balm,283,31.81,21,96,7.8,3.00,179.77,0.18,29.92,266,889,Mélisse
 spices & condiments,Zitronensaft,Lemon juice,3404,170.18,162,164,8.2,0,0,0.08,29.86,597,2000,Jus de citron
-spices & condiments,Zucker (Rohr),Sugar (sugar cane),450,126.53,112,52,13.3,1.24,0,0.45,406.04,1444,356,Sucre (canne)
+spices & condiments,Zucker (Rohr),Sugar (sugar cane),450,126.53,112,52,13.3,1.24,0,0.45,406.04,1444,356,Sucre de canne
 spices & condiments,Zucker (Rüben),Sugar (sugar beet),132,37.02,35,7,2.0,0,0,0.45,406.04,1444,356,Sucre (betterave)
 ,Stärke und Brot,starches & bread,,0.00,,,,,,,,,,Amidons et pain
 starches & bread,Amaranth,Amaranth,84,36.95,35,4,2.0,0,0,0.7,369,843,229,Amarante
@@ -358,7 +358,7 @@ starches & bread,Dinkelmehl,Spelled flour,212,87.35,80,18,5.3,2.02,0,0.66,353.49
 starches & bread,Dinkelvollkorn,Spelled wholemeal,95,33.34,28,15,5.3,0,0,0.56,330.24,944,286,Epeautre complet
 starches & bread,Frühkartoffeln,Early potatoes,364,36.43,34,24,2.3,0.17,0,0.16,76.43,764,1000,Pommes de terre de primeur
 starches & bread,Gerste,Barley,187,61.85,59,9,2.9,0,0,0.53,334.38,1009,302,Orge
-starches & bread,Glasnudeln,Glass noodles,306,76.62,73,14,3.6,0,0,0.4,349.9,1400,400,Nouilles en verre
+starches & bread,Glasnudeln,Glass noodles,306,76.62,73,14,3.6,0,0,0.4,349.9,1400,400,Nouilles transparentes
 starches & bread,Gluten (Weizen),Gluten (wheat),209,224.35,217,7,5.3,2.02,0,1.72,370,344,93,Gluten (blé)
 starches & bread,Gnocchi (Kartoffel),Gnocchi (potato),347,69.45,62.1,37,5.3,2.02,0,0.32,174.84,874,500,Gnocchi (pomme de terre)
 starches & bread,Goldhirse,Gold millet,164,62.34,35,72,21.7,5.66,0,0.61,360.66,946,262,Millet doré
@@ -371,7 +371,7 @@ starches & bread,Kartoffeln,Potatoes,144,14.43,12,24,2.3,0.17,0,0.16,76,760,1000
 starches & bread,Kastanien,Chestnuts,1142,217.62,210,40,7.6,0,0,0.305,200,1049,525,Châtaignes
 starches & bread,Kichererbsenmehl,Chickpea flour,204,108.26,79,55,20.8,8.43,0,0.85,360,678,188,Farine de pois chiches
 starches & bread,Laugenbrezel,Lye roll,256,94.35,87,20,5.3,2.02,0,0.59,366,993,271,Bretzel
-starches & bread,Laugengebäck,Soft pretzel,226,83.35,76,20,5.3,2.02,0,0.59,365.43,991,271,Bretzel
+starches & bread,Laugengebäck,Soft pretzel,226,83.35,76,20,5.3,2.02,0,0.59,365.43,991,271,Pain de Sils
 starches & bread,Linsenmehl,Lentil flour,123,100.98,66,43,23.6,11.38,0,1.31,396.48,484,122,Farine de lentilles
 starches & bread,Maisgriess,Corn grits,182,63.62,60,10,3.6,0,0,0.56,353.49,1010,286,Semoule de maïs
 starches & bread,Maniok,Manioc,244,35.07,8,188,15.1,12,0,0.23,159.07,1107,696,Manioc
@@ -384,12 +384,12 @@ starches & bread,Reis,Rice,933,303.37,265,118,24.8,13.58,0,0.52,353.49,1088,308,
 starches & bread,Reismehl,Rice flour,852,282.37,244,116,24.8,13.58,0,0.53,355.16,1072,302,Farine de riz
 starches & bread,Risottoreis,Risotto rice,916,303.37,265,116,24.8,13.58,0,0.53,358,1081,302,Riz pour risotto
 starches & bread,Roggenmehl,Rye flour,269,90.74,88,8,2.7,0,0,0.54,327.22,970,296,Farine de seigle
-starches & bread,Schrot,Wholemeal,155,55.35,48,21,5.3,2.02,0,0.57,344,966,281,Repas de céréales
+starches & bread,Schrot,Wholemeal,155,55.35,48,21,5.3,2.02,0,0.57,344,966,281,Gruau
 starches & bread,Sojamehl,Soy flour,356,291.53,277,18,13.3,1.24,0,1.31,396.48,484,122,Farine de soja
 starches & bread,Spaghetti,Spaghetti,250,98.35,91,19,5.3,2.02,0,0.63,358.27,910,254,Spaghetti
 starches & bread,Süßkartoffel,Sweet potato,159,16.93,14.5,23,2.3,0.17,0,0.17,98,922,941,Patate douce
 starches & bread,Topinambur,Jerusalem artichokes,450,42.21,34,88,8.2,0,0,0.15,48.75,520,1067,Topinambour
-starches & bread,Vollkorn,Whole-grain,164,55.35,48,22,5.3,2.02,0,0.54,327.22,970,296,Farine complète
+starches & bread,Vollkorn,Whole-grain,164,55.35,48,22,5.3,2.02,0,0.54,327.22,970,296,Grain de blé
 starches & bread,Vollkornbrot,Whole-grain bread,359,94.35,87,28,5.3,2.02,0,0.42,215.2,820,381,Pain complet
 starches & bread,Vollkornmehl,Wholemeal flour,196,78.35,71,18,5.3,2.02,0,0.64,342,855,250,Farine complète
 starches & bread,Vollweizengrieß,Whole wheat semolina,141,55.35,48,19,5.3,2.02,0,0.63,355.88,904,254,Semoule de blé complet
@@ -418,7 +418,7 @@ vegetables & mushrooms,Eisbergsalat,Iceberg lettuce,502,24.18,18,128,6.2,0,0,0.0
 vegetables & mushrooms,Endivie,Endive,478,27.18,21,109,6.2,0,0,0.091,16.25,286,1758,Endive
 vegetables & mushrooms,Feldsalat,Lamb's lettuce,422,27.18,21,96,6.2,0,0,0.103,22.94,356,1553,Mâche
 vegetables & mushrooms,Fenchel,Fennel,776,43.63,37,118,6.6,0,0,0.09,21.1,375,1778,Fenouil
-vegetables & mushrooms,Frühlingszwiebeln,Spring onions,541,37.19,35,32,2.2,0,0,0.11,33.2,483,1455,Oignons de printemps
+vegetables & mushrooms,Frühlingszwiebeln,Spring onions,541,37.19,35,32,2.2,0,0,0.11,33.2,483,1455,Oignons nouveaux
 vegetables & mushrooms,Gemüse,Vegetables,620,34.90,29,105,5.9,0,0,0.09,26.75,476,1778,Légumes
 vegetables & mushrooms,Grüner Spargel,Green asparagus,1368,102.63,86,222,10.7,5.95,357.12,0.12,23.14,309,1333,Asperges vertes
 vegetables & mushrooms,Grünkohl,Kale,276,29.35,25,41,4.4,0,0,0.17,23.51,221,941,Chou frisé
@@ -435,15 +435,14 @@ vegetables & mushrooms,Lauch,Leek,507,41.22,35,77,6.2,0,0,0.13,17.18,211,1231,Po
 vegetables & mushrooms,Mais,Corn,365,45.62,42,29,3.6,0,0,0.2,93.15,745,800,Maïs
 vegetables & mushrooms,Mangold,Chard,333,21.63,15,102,6.6,0,0,0.104,23.18,357,1538,Bette à carde
 vegetables & mushrooms,Meerrettich,Horseradish,271,35.63,29,51,6.6,0,0,0.21,80,610,762,Raifort
-vegetables & mushrooms,Mu-Err Pilze,Wood-ear fungus,2469,169.73,165,69,4.7,0,0,0.11,25.08,365,1455,Champignons Mu-Err
+vegetables & mushrooms,Mu-Err Pilze,Wood-ear fungus,2469,169.73,165,69,4.7,0,0,0.11,25.08,365,1455,Champignons Oreille-de-Judas
 vegetables & mushrooms,Pak Choi,Pak choi,531,29.88,25,87,4.9,0,0,0.09,11.13,198,1778,Pak Choi
 vegetables & mushrooms,Pastinaken,Parsnips,199,17.70,15,30,2.7,0,0,0.142,65.1,734,1127,Panais
 vegetables & mushrooms,Peperoncini,Peperoncini,697,56.65,44,156,11.2,1.41,84.6,0.13,36.6,450,1231,Pépéroncini
-vegetables & mushrooms,Peperoni,Paprika,1033,59.41,44,268,14.7,0.75,44.97,0.092,32,557,1739,Piments forts
+vegetables & mushrooms,Peperoni,Paprika,1033,59.41,44,268,14.7,0.75,44.97,0.092,32,557,1739,Piments
 vegetables & mushrooms,Pfifferlinge,Chanterelles,796,54.73,50,69,4.7,0,0,0.11,16.62,242,1455,Chanterelles
-vegetables & mushrooms,Pilze,Mushrooms,2343,175.73,171,63,4.7,0,0,0.12,22,293,1333,Champignons
+vegetables & mushrooms,Pilze,Mushrooms,2343,175.73,171,63,4.7,0,0,0.12,22,293,1333,Champignons de Paris
 vegetables & mushrooms,Portulak,Portulaca,544,27.19,21,124,6.1,0.06,3.59,0.08,18.34,367,2000,Pourpier
-vegetables & mushrooms,Radicchio,Radicchio,625,35.18,29,110,6.2,0,0,0.09,11.9,212,1778,Radicchio
 vegetables & mushrooms,Radicchio,Radicchio,625,35.18,29,110,6.2,0,0,0.09,11.9,212,1778,Radicchio
 vegetables & mushrooms,Randen,Beetroot,452,36.70,34,33,2.7,0,0,0.13,35.77,440,1231,Betterave rouge
 vegetables & mushrooms,Rettich,Radish,564,31.70,29,48,2.7,0,0,0.09,13.61,242,1778,Radis
@@ -451,7 +450,7 @@ vegetables & mushrooms,Rispentomaten,Vine tomatoes,505,25.26,19,125,5.8,0.43,25.
 vegetables & mushrooms,Romanesco,Romanesco,476,38.65,33,70,5.7,0,0,0.13,16.29,200,1231,Romanesco
 vegetables & mushrooms,Rosenkohl,Brussels sprouts,569,56.88,52,49,4.9,0,0,0.16,33.53,335,1000,Choux de Bruxelles
 vegetables & mushrooms,Rotkohl,Red cabbage,435,29.88,25,71,4.9,0,0,0.11,23.66,344,1455,Chou rouge
-vegetables & mushrooms,Rucola,Arugula,469,35.18,29,82,6.2,0,0,0.12,28.42,379,1333,Salade de roquette
+vegetables & mushrooms,Rucola,Arugula,469,35.18,29,82,6.2,0,0,0.12,28.42,379,1333,Roquette
 vegetables & mushrooms,Sauerkraut,Sauerkraut,1024,57.59,44.59,231,13.0,0,0,0.09,19.11,340,1778,Choucroute
 vegetables & mushrooms,Schalotte,Shallot,425,37.19,35,25,2.2,0,0,0.14,12.76,146,1143,Échalote
 vegetables & mushrooms,Schwarzwurzel,Salsify,211,17.70,15,32,2.7,0,0,0.134,52.82,631,1194,Salsifis noir
@@ -459,7 +458,7 @@ vegetables & mushrooms,Spinat,Spinach,182,13.65,11,35,2.7,0,0,0.12,22.69,303,133
 vegetables & mushrooms,Sprossen,Sprouts,208,26.00,13,104,13.0,0,0,0.2,54.93,439,800,Sprouts
 vegetables & mushrooms,Stangensellerie,Celery,649,44.63,38,96,6.6,0,0,0.11,9.03,131,1455,Branches de céleri
 vegetables & mushrooms,Steckrüben,Turnips,432,29.70,27,39,2.7,0,0,0.11,15.18,221,1455,Navet
-vegetables & mushrooms,Steinpilze,Ceps,617,54.73,50,53,4.7,0,0,0.142,31.55,355,1127,Champignons Porcini
+vegetables & mushrooms,Steinpilze,Ceps,617,54.73,50,53,4.7,0,0,0.142,31.55,355,1127,Cèpes
 vegetables & mushrooms,Tomaten,Tomatoes,525,26.26,20,125,5.8,0.43,25.94,0.08,21.26,425,2000,Tomates
 vegetables & mushrooms,Trüffel,Truffle,838,104.73,100,38,4.7,0,0,0.2,31.05,248,800,Truffes
 vegetables & mushrooms,Weisser Spargel,White asparagus,1075,80.63,64,222,10.7,5.95,357.12,0.12,20.15,269,1333,Asperges blanches
