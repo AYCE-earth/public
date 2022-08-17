@@ -9,36 +9,33 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.0115683451294899,
-            "green": 0.01297254860401154,
-            "red": 0.00894702598452568
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SourceSansPro-Light",
-              "size": 2.112
+              "name": "SFCompactText-Semibold",
+              "size": 10
             }
           },
-          "kerning": -0.01206857097148895,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 3.590399999999999,
-            "minimumLineHeight": 3.590399999999999
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 618,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Toutes les valeurs ont été soigneusement calculées par Eaternity et sont basées sur des analyses actuelles du cycle de vie (mars 2022).  La valeur en CO₂ par aliment est indiquée en grammes d'équivalents CO₂, à chaque fois pour la quantité de produit qui couvre ⅓ des besoins journaliers. La moyenne est basée sur plus de 100 000 produits calculés et leurs statistiques de consommation.  Il s'agit d'une collaboration entre Greenpeace Suisse, la ville de Zurich, Planted Foods AG, Branding Cuisine, Tinkerbelle, Inge, myblueplanet, ProVeg International, Dr. Earth, FightBack et Eaternity. Plus d'informations au verso."
+    "string": "Wasser"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8F2D81F7-73A4-4886-8451-8291B3F43DAC",
+  "do_objectID": "3D71B0C0-819D-4E9F-A42D-A627D5B0D9CD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,23 +49,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 11,
-    "width": 211,
-    "x": 121.5,
-    "y": 131.616
+    "height": 4,
+    "width": 50,
+    "x": 0,
+    "y": 13
   },
-  "glyphBounds": "{{0, 0}, {210, 11}}",
+  "glyphBounds": "{{7, 3}, {35, 8}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 3,
-  "name": "Toutes les valeurs o",
-  "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "lineSpacingBehaviour": 2,
+  "name": "Name CH (wasser)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -79,7 +76,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 7.039999999999999,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -106,7 +103,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1B846ADD-7CCD-4A6A-975B-3F00EA6E5238",
+    "do_objectID": "F7EA2D96-6492-4832-B7EC-054C74F6B5FC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,23 +119,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.0115683451294899,
-          "green": 0.01297254860401154,
-          "red": 0.00894702598452568
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SourceSansPro-Light",
-            "size": 2.112
+            "name": "SFCompactText-Semibold",
+            "size": 10
           }
         },
-        "kerning": -0.01206857097148895,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 3.590399999999999,
-          "minimumLineHeight": 3.590399999999999
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -146,5 +140,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

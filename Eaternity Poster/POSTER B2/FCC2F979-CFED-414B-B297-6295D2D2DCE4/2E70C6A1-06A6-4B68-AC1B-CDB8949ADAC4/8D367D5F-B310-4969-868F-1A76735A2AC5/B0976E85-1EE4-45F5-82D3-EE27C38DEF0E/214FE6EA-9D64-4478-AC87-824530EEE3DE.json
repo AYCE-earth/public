@@ -103,9 +103,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9467374605439753,
-          "green": 0.9467374605439753,
-          "red": 0.950577445652174
+          "blue": 0.8243371876527497,
+          "green": 0.8243371876527497,
+          "red": 0.8402683423913043
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -219,6 +219,26 @@
       }
     ],
     "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
     ],
     "miterLimit": 10,
     "shadows": [
