@@ -1,14 +1,14 @@
 Glossar - Rohzutaten,,,,,,,,,,,,,,
-Kategorie,Name DE,Name EN,CO₂ / 1.6FU (ohne Flug) ,g CO2 / 100g (ohne Flug) ,CO2 Base Value [g] ,Summe Transport für 1.6 FU,CO2 Land Transport [g] ,CO2 Sea Transport [g] ,CO2 Air Transport [g],Food Unit ,Energy [kcal] ,kcal für 1.6FU,Gewicht für 1.6 FU,Name FR
+Kategorie,Name DE,Name EN,CO₂ / 1.6FU (ohne Flug),g CO2 / 100g (ohne Flug),CO2 Base Value [g],Summe Transport für 1.6 FU,CO2 Land Transport [g],CO2 Sea Transport [g],CO2 Air Transport [g],Food Unit ,Energy [kcal] ,kcal für 1.6FU,Gewicht für 1.6 FU,Name FR
 beverages,Getränke,AA Beverages,,0.00,,,,,,,,,,Boissons
 beverages,Apfelsaft,Apple juice,621,34.95,33,35,2.0,0,0,0.09,45.14,802,1778,Jus de pomme
-beverages,Rinderbrühe,Beef broth,1791,705.37,667,97,24.8,13.58,0,0.63,194.66,494,254,Bouillon de bœuf
+spices & condiments,Rinderbrühe,Beef broth,1791,705.37,667,97,24.8,13.58,0,0.63,194.66,494,254,Bouillon de bœuf
 beverages,Bier,Beer,770,43.32,40,59,3.3,0,0,0.09,39.41,701,1778,Bière
 beverages,Randensaft,Beetroot juice,868,59.70,57,39,2.7,0,0,0.11,26.52,386,1455,Jus de betterave
 beverages,Schwarztee,Black tea,1707,714.69,668.6,110,45.7,0.39,0,0.67,229.53,548,239,Thé noir
 beverages,Buttermilch,Buttermilk,1467,119.19,117,27,2.2,0,0,0.13,33.68,415,1231,Babeurre
 beverages,Champagner,Champagne,2145,147.44,137,152,9.3,1.1,0,0.11,69.98,1018,1455,Champagne
-beverages,Hühnerbrühe,Chicken broth,557,219.37,181,97,24.8,13.58,0,0.63,194.66,494,254,Bouillon de poulet
+spices & condiments,Hühnerbrühe,Chicken broth,557,219.37,181,97,24.8,13.58,0,0.63,194.66,494,254,Bouillon de poulet
 beverages,Kaffee (gebrüht),Coffee (brewed),868,21.7,14.35,294,5.3,2.02,0,0.04,4,160,4000,Café (infusé)
 beverages,Kaffeebohnen,Coffee beans,2122,1100.71,1043,111,48.6,9.07,0,0.83,396.48,764,193,Grains de café
 beverages,Cognac,Cognac,1859,290.44,280,67,9.3,1.1,0,0.25,237.41,1519,640,Cognac
@@ -340,7 +340,7 @@ spices & condiments,Tomatenkonzentrat,Tomato paste,1386,173.20,165,66,8.2,0,0,0.
 spices & condiments,Tomatensugo,Tomato sauce,932,93.20,85,82,8.2,0,0,0.16,68.79,688,1000,Sugo de tomate
 spices & condiments,Kurkuma,Turmeric,188,64.53,30,101,34.1,0.46,0,0.549,291,848,291,Curcuma
 spices & condiments,Vanilleschoten,Vanilla beans,13094,1391.28,1341,473,38.7,11.61,0,0.17,0,0,941,Gousses de vanille
-spices & condiments,Gemüsebrühe,Vegetable stock,497,205.05,203,5,2.1,0,0,0.66,238,577,242,Bouillon de légumes
+spices & condiments,Gemüsebrühe,Vegetable broth,497,205.05,203,5,2.1,0,0,0.66,238,577,242,Bouillon de légumes
 spices & condiments,Wermut,Vermouth,2734,290.44,280,98,9.3,1.1,0,0.17,139.01,1308,941,Vermouth
 spices & condiments,Weissweinessig,White wine vinegar,3370,147.44,137,239,9.3,1.1,0,0.07,22.45,513,2286,Vinaigre de vin blanc
 spices & condiments,Bärlauch,Wild garlic,1402,41.19,35,211,6.1,0.06,3.59,0.047,16,545,3404,Ail sauvage
