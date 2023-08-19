@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ABED0E96-8E4C-48A1-B9A7-F6415A23119F",
+  "do_objectID": "6466AF95-276F-4065-93CC-76F233F3753A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,57 +15,65 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15.488,
-    "width": 11.968,
-    "x": 67.35362755651236,
-    "y": 115.0763401506997
+    "height": 102.7000000000001,
+    "width": 193.2406024167481,
+    "x": 2.842170943040401e-14,
+    "y": 19.19999999999992
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
-  "name": "Gemüsebrühe",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "61ACC0C6-1BCC-4C82-82D6-9CA31CBF3824_symbolID",
-      "value": "13633B7C-712F-4347-92AE-4E8731F5C5E8"
+      "class": "text",
+      "id": "E1E9464A-356E-4CB6-A963-D5A0E8985547"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "0AF390F8-0AC0-47D5-9DC1-7E2FD0F3DA31_stringValue",
-      "value": "0.8"
+      "class": "text",
+      "id": "0C5081E3-F5AE-4E23-8DC0-06611719831F"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "F882744D-41F2-47BE-B746-E09E5D220910_stringValue",
-      "value": "Gemüsebrühe"
+      "class": "text",
+      "id": "DA7EAB7C-E24E-49CF-9A29-A21708F63A57"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "DB620F7E-2A9E-47CF-9B07-2B54BACE8CC0_stringValue",
-      "value": "1'583 g CO₂"
+      "class": "text",
+      "id": "508F350B-A9A6-4EF7-A651-7D294A04F33A"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "C350EF8C-C5C5-4A53-AD90-E4F90298CF44_stringValue",
-      "value": "Vegetable broth"
+      "class": "text",
+      "id": "228EF62D-C73F-41AD-BF8E-6F8441436770"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "C2B79BF0-4525-402F-9D6D-B0682CE5501A_stringValue",
-      "value": "Bouillon de légumes"
+      "class": "text",
+      "id": "7B8E466B-1E77-44B8-8E71-7B40D4C94808"
+    },
+    {
+      "class": "text",
+      "id": "5D054D34-9B67-4ACA-85B7-F87456214B90"
+    },
+    {
+      "class": "text",
+      "id": "E5882A66-A605-4A74-AA5E-9A1A70AE0083"
+    },
+    {
+      "class": "text",
+      "id": "62E72D7B-11E4-40EE-B3B3-333314935234"
     }
   ],
+  "name": "German",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.1902088266953713,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -74,7 +82,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 1.902088266953713,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -101,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "01EBC333-1323-499C-8498-0FA7A55967B5",
+    "do_objectID": "974E2FB8-B716-4D73-8EEE-3EB02698AA39",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,7 +120,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "45534FE6-C111-47A1-A86C-01743F356788",
-  "verticalSpacing": 0
+  }
 }

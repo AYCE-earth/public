@@ -8,15 +8,15 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0,
-            "blue": 0.9998828768730164,
-            "green": 1,
-            "red": 0.9999235272407532
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Regular",
+              "name": "SFCompactText-Semibold",
               "size": 1.8
             }
           },
@@ -26,16 +26,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 45,
         "location": 0
       }
     ],
-    "string": "123 g CO₂  "
+    "string": "THE GREEN MOUNTAIN plant based Chicken Chunks"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E8719E56-F735-42AE-844A-585130C822B9",
+  "do_objectID": "133255E9-B624-4152-80F2-3521F192E6FD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2.4,
-    "width": 19.2,
-    "x": 5.400000000000006,
-    "y": 0
+    "height": 2.7,
+    "width": 45.6060972680885,
+    "x": 96.43755378270396,
+    "y": 37.00000000000008
   },
-  "glyphBounds": "{{5, 0}, {9, 3}}",
+  "glyphBounds": "{{1, 0}, {44, 3}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,8 +62,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Distance",
+  "lineSpacingBehaviour": 3,
+  "name": "Name EN",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -103,7 +103,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1FB71DF1-AAFD-4465-BCA6-2C2E25ED2049",
+    "do_objectID": "5F88E752-174D-4A89-A453-709A7B0F0C12",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,15 +118,15 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0,
-          "blue": 0.9998828768730164,
-          "green": 1,
-          "red": 0.9999235272407532
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Regular",
+            "name": "SFCompactText-Semibold",
             "size": 1.8
           }
         },

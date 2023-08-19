@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4B15412F-3F23-42AC-BA98-76771BDC1FB1",
+  "do_objectID": "11B802A0-E08C-4FEC-ACFE-DE39F5B73A4E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,57 +15,65 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15.488,
-    "width": 11.968,
-    "x": 265.9805984930031,
-    "y": 333.1046114101183
+    "height": 102.7,
+    "width": 199.1313149013202,
+    "x": -1.4210854715202e-14,
+    "y": 19.20000000000005
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Kichererbsenmehl",
-  "nameIsFixed": true,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "61ACC0C6-1BCC-4C82-82D6-9CA31CBF3824_symbolID",
-      "value": "839CA94F-41B3-4699-B222-F3E6B27AD415"
+      "class": "text",
+      "id": "BA736C93-786E-4A2D-8FB0-8D858530D3FB"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "0AF390F8-0AC0-47D5-9DC1-7E2FD0F3DA31_stringValue",
-      "value": "0.8"
+      "class": "text",
+      "id": "EC186FA7-F9C0-43D9-BB9B-C44D827E2380"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "F882744D-41F2-47BE-B746-E09E5D220910_stringValue",
-      "value": "Kichererbsenmehl"
+      "class": "text",
+      "id": "84860BE7-A3F5-44C0-86C1-CDB1F0285859"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "DB620F7E-2A9E-47CF-9B07-2B54BACE8CC0_stringValue",
-      "value": "204 g CO₂"
+      "class": "text",
+      "id": "7516C4F4-7A47-4B96-9790-AE0E57178F4D"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "C2B79BF0-4525-402F-9D6D-B0682CE5501A_stringValue",
-      "value": "Farine de pois chiches"
+      "class": "text",
+      "id": "ACD0066B-1C04-4AC8-8365-958381D5572F"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "C350EF8C-C5C5-4A53-AD90-E4F90298CF44_stringValue",
-      "value": "Chickpea flour"
+      "class": "text",
+      "id": "1E7B65B7-481B-4D9A-BDE9-25EC7227D24C"
+    },
+    {
+      "class": "text",
+      "id": "B867BA3F-6F96-4E8A-94C4-B8E465878A36"
+    },
+    {
+      "class": "text",
+      "id": "6D3D6193-7DEB-45D2-A1E0-BC283B4C883D"
+    },
+    {
+      "class": "text",
+      "id": "74A9D220-1A5C-4B64-B62A-DD303C90B79E"
     }
   ],
+  "name": "French",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.1902088266953713,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -74,7 +82,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 1.902088266953713,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -101,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AEF48B17-1EE1-48A9-8F57-0C659D1ACD39",
+    "do_objectID": "75F5E50C-D569-4643-9069-ECFE652CAC83",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,7 +120,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "45534FE6-C111-47A1-A86C-01743F356788",
-  "verticalSpacing": 0
+  }
 }
